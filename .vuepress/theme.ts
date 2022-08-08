@@ -6,18 +6,18 @@ export default hopeTheme({
   themeColor: false,
   darkmode: "disable",
   fullscreen: false,
-  hostname: "https://citenote.github.io",
+  hostname: "https://anyang1928.github.io",
 
   author: {
     name: "NGKinchung",
-    url: "https://citenote.github.io",
+    url: "https://anyang1928.github.io",
   },
 
   iconAssets: "//at.alicdn.com/t/font_3432689_cekvg7mzu1v.css",
 
   logo: "/logo.svg",
 
-  repo: "citenote/citenote.github.io",
+  repo: "anyang1928/anyang1928.github.io",
 
   editLink: false,
 

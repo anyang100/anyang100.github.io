@@ -2,9 +2,9 @@
 home: true
 layout: Blog
 icon: home
-title: 安陽100
+title: 安陽1928
 heroImage: /logo.svg
-heroText: 安陽100
+heroText: 安陽1928
 heroFullScreen: true
 tagline: 你可以在这里放置你的口号与标语
 projects:

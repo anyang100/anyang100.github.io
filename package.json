@@ -1,7 +1,7 @@
 {
-  "name": "citenote",
+  "name": "anyang1928",
   "version": "1.0.0",
-  "description": "CiteNote, A Index Project of Academic References",
+  "description": "Anyang1928, A Index Project of Academic References",
   "license": "MIT",
   "scripts": {
     "docs:build": "vuepress build .",

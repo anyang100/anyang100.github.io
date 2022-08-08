@@ -4,7 +4,7 @@ const { googleAnalyticsPlugin } = require('@vuepress/plugin-google-analytics')
 
 export default defineUserConfig({
   lang: "zh-TW",
-  title: "安陽100",
+  title: "安陽・一九二八",
   description: "",
   head: [
     [

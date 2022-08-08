@@ -1,14 +1,16 @@
 export const pagesData = {
   // path: /home.html
   "v-79fdd481": () => import(/* webpackChunkName: "v-79fdd481" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/home.html.js").then(({ data }) => data),
+  // path: /news.html
+  "v-0daed70d": () => import(/* webpackChunkName: "v-0daed70d" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/news.html.js").then(({ data }) => data),
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
+  // path: /report.html
+  "v-2149b38c": () => import(/* webpackChunkName: "v-2149b38c" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/report.html.js").then(({ data }) => data),
+  // path: /yearbook.html
+  "v-7a7f74cc": () => import(/* webpackChunkName: "v-7a7f74cc" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/yearbook.html.js").then(({ data }) => data),
   // path: /archaeology/
   "v-0ed39efe": () => import(/* webpackChunkName: "v-0ed39efe" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/archaeology/index.html.js").then(({ data }) => data),
-  // path: /archaeology/artefact/bronze.html
-  "v-2d2dc288": () => import(/* webpackChunkName: "v-2d2dc288" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/archaeology/artefact/bronze.html.js").then(({ data }) => data),
-  // path: /archaeology/artefact/
-  "v-84309e3a": () => import(/* webpackChunkName: "v-84309e3a" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/archaeology/artefact/index.html.js").then(({ data }) => data),
   // path: /archaeology/article/acta-archaeologica-sinica.html
   "v-b9483524": () => import(/* webpackChunkName: "v-b9483524" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/archaeology/article/acta-archaeologica-sinica.html.js").then(({ data }) => data),
   // path: /archaeology/article/archaeological-collectanea.html
@@ -23,14 +25,6 @@ export const pagesData = {
   "v-e649222e": () => import(/* webpackChunkName: "v-e649222e" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/archaeology/article/kaogu.html.js").then(({ data }) => data),
   // path: /archaeology/article/
   "v-ca06da12": () => import(/* webpackChunkName: "v-ca06da12" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/archaeology/article/index.html.js").then(({ data }) => data),
-  // path: /archaeology/news/
-  "v-db284104": () => import(/* webpackChunkName: "v-db284104" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/archaeology/news/index.html.js").then(({ data }) => data),
-  // path: /archaeology/note/eight-steps-survey.html
-  "v-0cb30d88": () => import(/* webpackChunkName: "v-0cb30d88" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/archaeology/note/eight-steps-survey.html.js").then(({ data }) => data),
-  // path: /archaeology/note/
-  "v-db1f4382": () => import(/* webpackChunkName: "v-db1f4382" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/archaeology/note/index.html.js").then(({ data }) => data),
-  // path: /archaeology/note/steps-of-modelling.html
-  "v-6f72b60b": () => import(/* webpackChunkName: "v-6f72b60b" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/archaeology/note/steps-of-modelling.html.js").then(({ data }) => data),
   // path: /archaeology/site-and-culture/daxi-culture.html
   "v-7f5547ea": () => import(/* webpackChunkName: "v-7f5547ea" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/archaeology/site-and-culture/daxi-culture.html.js").then(({ data }) => data),
   // path: /archaeology/site-and-culture/erlitou-site.html
@@ -81,14 +75,6 @@ export const pagesData = {
   "v-2142c37b": () => import(/* webpackChunkName: "v-2142c37b" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/archaeology/subject/theory-and-method.html.js").then(({ data }) => data),
   // path: /archaeology/subject/zooarchaeology.html
   "v-fd899030": () => import(/* webpackChunkName: "v-fd899030" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/archaeology/subject/zooarchaeology.html.js").then(({ data }) => data),
-  // path: /archaeology/yearbook/academic-conference.html
-  "v-a224fafc": () => import(/* webpackChunkName: "v-a224fafc" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/archaeology/yearbook/academic-conference.html.js").then(({ data }) => data),
-  // path: /archaeology/yearbook/archaeological-research.html
-  "v-c46da760": () => import(/* webpackChunkName: "v-c46da760" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/archaeology/yearbook/archaeological-research.html.js").then(({ data }) => data),
-  // path: /archaeology/yearbook/new-archaeological-find.html
-  "v-7396b9ff": () => import(/* webpackChunkName: "v-7396b9ff" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/archaeology/yearbook/new-archaeological-find.html.js").then(({ data }) => data),
-  // path: /archaeology/yearbook/
-  "v-f26cd1ea": () => import(/* webpackChunkName: "v-f26cd1ea" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/archaeology/yearbook/index.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /category/

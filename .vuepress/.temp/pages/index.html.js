@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"安陽100\",\"lang\":\"zh-TW\",\"frontmatter\":{\"home\":true,\"icon\":\"home\",\"title\":\"安陽100\",\"heroImage\":\"/logo.svg\",\"heroText\":\"安陽100\",\"tagline\":\"　\",\"actions\":null,\"features\":[{\"title\":\"考古\",\"icon\":\"guyizhi\",\"details\":null,\"link\":\"/archaeology/\"}],\"copyright\":false,\"footer\":\"NG, Kinchung @ Peking Univerity\",\"summary\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://citenote.github.io/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"安陽100\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"安陽100\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}]]},\"excerpt\":\"\",\"headers\":[],\"readingTime\":{\"minutes\":0.11,\"words\":32},\"filePathRelative\":\"README.md\"}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"安陽・一九二八\",\"lang\":\"zh-TW\",\"frontmatter\":{\"home\":true,\"icon\":\"home\",\"title\":\"安陽・一九二八\",\"heroImage\":\"/logo.svg\",\"heroText\":\"安陽・一九二八\",\"tagline\":false,\"actions\":false,\"features\":false,\"copyright\":false,\"footer\":\"NG, Kinchung @ Peking Univerity\",\"summary\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://anyang1928.github.io/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"安陽・一九二八\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"安陽・一九二八\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-08-08T10:14:42.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-08-08T10:14:42.000Z\"}]]},\"excerpt\":\"\",\"headers\":[],\"git\":{\"createdTime\":1659791624000,\"updatedTime\":1659953682000,\"contributors\":[{\"name\":\"NGKINCHUNG\",\"email\":\"archaeology.cn@outlook.com\",\"commits\":1},{\"name\":\"anyang100\",\"email\":\"110728334+anyang100@users.noreply.github.com\",\"commits\":1}]},\"readingTime\":{\"minutes\":0.11,\"words\":33},\"filePathRelative\":\"README.md\",\"localizedDate\":\"2022年8月6日\"}")
