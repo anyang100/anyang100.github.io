@@ -5,8 +5,6 @@ export const pagesData = {
   "v-0daed70d": () => import(/* webpackChunkName: "v-0daed70d" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/news.html.js").then(({ data }) => data),
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
-  // path: /report.html
-  "v-2149b38c": () => import(/* webpackChunkName: "v-2149b38c" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/report.html.js").then(({ data }) => data),
   // path: /yearbook.html
   "v-7a7f74cc": () => import(/* webpackChunkName: "v-7a7f74cc" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/yearbook.html.js").then(({ data }) => data),
   // path: /archaeology/
@@ -91,4 +89,8 @@ export const pagesData = {
   "v-154dc4c4": () => import(/* webpackChunkName: "v-154dc4c4" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/star/index.html.js").then(({ data }) => data),
   // path: /timeline/
   "v-01560935": () => import(/* webpackChunkName: "v-01560935" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/timeline/index.html.js").then(({ data }) => data),
+  // path: /report.html
+  "v-2149b38c": () => import(/* webpackChunkName: "v-2149b38c" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/report.html.js").then(({ data }) => data),
+  // path: /article.html
+  "v-0989631c": () => import(/* webpackChunkName: "v-0989631c" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/article.html.js").then(({ data }) => data),
 }

@@ -5,5 +5,5 @@ cd .vuepress/dist
 git init
 git add -A
 git commit -m 'contents updated'
-git push -f git@github.com:anyang100/anyang100.github.io.git master:gh-pages
+git push -f git@github.com:anyang1928/anyang1928.github.io.git master:gh-pages
 cd -
