@@ -1,0 +1,50 @@
+{
+  "hash": "eb457180",
+  "browserHash": "30487519",
+  "optimized": {
+    "@vue/devtools-api": {
+      "src": "../../../node_modules/@vue/devtools-api/lib/esm/index.js",
+      "file": "@vue_devtools-api.js",
+      "fileHash": "d90534e7",
+      "needsInterop": false
+    },
+    "@vuepress/shared": {
+      "src": "../../../node_modules/@vuepress/shared/dist/index.js",
+      "file": "@vuepress_shared.js",
+      "fileHash": "7001eb9d",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "ffaaf8ba",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../../node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "file": "vue-router.js",
+      "fileHash": "f257b5fe",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "src": "../../../node_modules/@vueuse/core/index.mjs",
+      "file": "@vueuse_core.js",
+      "fileHash": "f2cdce77",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-ONMFNA6C": {
+      "file": "chunk-ONMFNA6C.js"
+    },
+    "chunk-TK47XENK": {
+      "file": "chunk-TK47XENK.js"
+    },
+    "chunk-NUJ6ELGV": {
+      "file": "chunk-NUJ6ELGV.js"
+    },
+    "chunk-LRYUVN3F": {
+      "file": "chunk-LRYUVN3F.js"
+    }
+  }
+}
