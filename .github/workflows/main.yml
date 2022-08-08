@@ -1,32 +1,45 @@
-# name 可以自定义
-name: Deploy GitHub Pages
+# This is a basic workflow to help you get started with Actions
 
-# 触发条件：在 push 到 main/master 分支后，新的 Github 项目 应该都是 main，而之前的项目一般都是 master
+name: CI
+
+# Controls when the workflow will run
 on:
+  # Triggers the workflow on push or pull request events but only for the master branch
   push:
-    branches:
-      - main
+    branches: [ master ]
 
-# 任务
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  build-and-deploy:
-    # 服务器环境：最新版 Ubuntu
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # 拉取代码
-      - name: Checkout
-        uses: actions/checkout@v2
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      - name: Use Node.js 10.x
+        uses: actions/setup-node@v2
         with:
-          persist-credentials: false
+          node-version: '12.x'
+          registry-url: 'https://registry.npmjs.org'
 
-      # 生成静态文件
-      - name: Build
-        run: npm install && npm run docs:build
-
-      # 部署到 GitHub Pages
-      - name: Deploy
+      - name: npm install, build
+        run: |
+          npm install
+          npm run build --if-present
+        env:
+          CI: true
+          
+      - name: deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} # 也就是我们刚才生成的 secret
-          BRANCH: gh-pages # 部署到 gh-pages 分支，因为 main 分支存放的一般是源码，而 gh-pages 分支则用来存放生成的静态文件
-          FOLDER: docs/.vuepress/dist # vuepress 生成的静态文件存放的地方
+          # 发布到指定分支
+          BRANCH: gh-pages
+          # 构建成果所在目录,默认位置都是在根目录
+          FOLDER:  ./docs/.vuepress/dist
