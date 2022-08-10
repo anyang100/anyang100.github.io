@@ -1,7 +1,7 @@
 ---
 lang: zh-TW
 title: 論文
-author: NG Kinchung
+author: NG, Kinchung
 date: 2022-01-22
 ---
 # 論文

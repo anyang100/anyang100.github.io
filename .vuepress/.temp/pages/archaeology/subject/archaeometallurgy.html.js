@@ -1,1 +1,14 @@
-export const data = JSON.parse("{\"key\":\"v-10c53a9e\",\"path\":\"/archaeology/subject/archaeometallurgy.html\",\"title\":\"冶金考古\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"冶金考古\",\"summary\":\"1. Hauptmann A. (2021). Archaeometallurgy – Materials Science Aspects. Cham: Springer.\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://anyang1928.github.io/archaeology/subject/archaeometallurgy.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"安陽・一九二八\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"冶金考古\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-08-08T10:14:42.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-08-08T10:14:42.000Z\"}]]},\"excerpt\":\"\",\"headers\":[],\"git\":{\"createdTime\":1659953682000,\"updatedTime\":1659953682000,\"contributors\":[{\"name\":\"NGKINCHUNG\",\"email\":\"archaeology.cn@outlook.com\",\"commits\":1}]},\"readingTime\":{\"minutes\":0.07,\"words\":20},\"filePathRelative\":\"archaeology/subject/archaeometallurgy.md\",\"localizedDate\":\"2022年8月8日\"}")
+export const data = JSON.parse("{\"key\":\"v-10c53a9e\",\"path\":\"/archaeology/subject/archaeometallurgy.html\",\"title\":\"冶金考古\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"冶金考古\",\"summary\":\"1. Hauptmann A. (2021). Archaeometallurgy – Materials Science Aspects. Cham: Springer.\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://ay1928.github.io/archaeology/subject/archaeometallurgy.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"安陽・一九二八\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"冶金考古\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}]]},\"excerpt\":\"\",\"headers\":[],\"readingTime\":{\"minutes\":0.07,\"words\":20},\"filePathRelative\":\"archaeology/subject/archaeometallurgy.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

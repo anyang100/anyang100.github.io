@@ -1,6 +1,7 @@
 ---
 lang: zh-TW
-author: NG Kinchung
+title: 年鑒
+author: NG, Kinchung
 date: 2022-01-22
 ---
 # 年鑒

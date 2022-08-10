@@ -1,6 +1,6 @@
 ---
 lang: zh-TW
-author: NG Kinchung
+author: NG, Kinchung
 date: 2022-01-22
 ---
 # 報道

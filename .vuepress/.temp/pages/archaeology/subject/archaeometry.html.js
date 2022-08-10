@@ -1,1 +1,14 @@
-export const data = JSON.parse("{\"key\":\"v-195d74aa\",\"path\":\"/archaeology/subject/archaeometry.html\",\"title\":\"科技考古\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"科技考古\",\"summary\":\"1.\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://anyang1928.github.io/archaeology/subject/archaeometry.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"安陽・一九二八\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"科技考古\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-08-08T10:14:42.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-08-08T10:14:42.000Z\"}]]},\"excerpt\":\"\",\"headers\":[],\"git\":{\"createdTime\":1659953682000,\"updatedTime\":1659953682000,\"contributors\":[{\"name\":\"NGKINCHUNG\",\"email\":\"archaeology.cn@outlook.com\",\"commits\":1}]},\"readingTime\":{\"minutes\":0.03,\"words\":9},\"filePathRelative\":\"archaeology/subject/archaeometry.md\",\"localizedDate\":\"2022年8月8日\"}")
+export const data = JSON.parse("{\"key\":\"v-195d74aa\",\"path\":\"/archaeology/subject/archaeometry.html\",\"title\":\"科技考古\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"科技考古\",\"summary\":\"1.\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://ay1928.github.io/archaeology/subject/archaeometry.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"安陽・一九二八\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"科技考古\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}]]},\"excerpt\":\"\",\"headers\":[],\"readingTime\":{\"minutes\":0.03,\"words\":9},\"filePathRelative\":\"archaeology/subject/archaeometry.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

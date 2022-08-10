@@ -1,1 +1,0 @@
-import{_ as o}from"./plugin-vue_export-helper.21dcd24c.js";import{o as t,c as r,b as e}from"./app.b4c48eb7.js";const c={},a=e("ol",null,[e("li")],-1),_=[a];function s(l,n){return t(),r("div",null,_)}var f=o(c,[["render",s],["__file","archaeometry.html.vue"]]);export{f as default};

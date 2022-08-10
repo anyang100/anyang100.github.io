@@ -6,9 +6,9 @@ heroImage: /logo.svg
 heroText: 安陽・一九二八
 tagline: false
 features: 
-  - title: 簡報、報告
+  - title: 殷墟
     details: 
-    link: /report.md
+    link: /yinxu/
   - title: 洹北商城
     details: 
     link: /huanbei-shang-city/
