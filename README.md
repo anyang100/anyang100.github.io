@@ -7,11 +7,11 @@ heroText: 安陽・一九二八
 tagline: false
 features: 
   - title: 殷墟
-    details: 
+    details: 1928 ~ 
     link: /yinxu/
   - title: 洹北商城
-    details: 
+    details: 2001 ~ 
     link: /huanbei-shang-city/
 actions: false
 copyright: false
-footer: NG, Kinchung @ Peking University
+footer: false
