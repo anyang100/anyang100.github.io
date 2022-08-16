@@ -149,8 +149,6 @@
 <li>中國社會科學院考古研究所安陽工作隊：〈<strong>河南安陽市殷墟範家莊東北地的兩座商墓</strong>〉，《考古》2009年第9期，第41-53頁。</li>
 <li>安陽市文物工作隊、安陽市博物館：〈<strong>安陽市梯家口村殷墓的發掘</strong>〉，《華夏考古》1992年第1期，第28-43頁。</li>
 </ul>
-<h2 id="洹北" tabindex="-1"><a class="header-anchor" href="#洹北" aria-hidden="true">#</a> 洹北</h2>
-<p>另見「<RouterLink to="/yinxu/huanbei-shang-city.html">洹北商城</RouterLink>」。</p>
 <h2 id="郭家莊" tabindex="-1"><a class="header-anchor" href="#郭家莊" aria-hidden="true">#</a> 郭家莊</h2>
 <ol>
 <li>安陽市文物考古研究所編著：《<strong>安陽殷墟徐家橋郭家莊商代墓葬</strong>》，北京：科學出版社，2011年。</li>
@@ -172,4 +170,6 @@
 <li>Carpenter, H.C.H. <strong>Preliminary Report on Chinese Bronzes</strong>，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第677-679頁。</li>
 <li>石璋如：〈<strong>第七次殷墟發掘：E區工作報告</strong>〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第709-733頁。</li>
 </ul>
+<h2 id="洹北" tabindex="-1"><a class="header-anchor" href="#洹北" aria-hidden="true">#</a> 洹北</h2>
+<p>另見「<RouterLink to="/yinxu/huanbei-shang-city.html">洹北商城</RouterLink>」。</p>
 </div></template>
