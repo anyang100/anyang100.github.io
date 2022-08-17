@@ -1,1 +1,14 @@
-export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"安陽・一九二八\",\"lang\":\"zh-TW\",\"frontmatter\":{\"home\":true,\"icon\":\"home\",\"title\":\"安陽・一九二八\",\"heroImage\":\"/logo.svg\",\"heroText\":\"安陽・一九二八\",\"tagline\":false,\"features\":[{\"title\":\"殷墟\",\"details\":\"1928 ~\",\"link\":\"/yinxu/\"},{\"title\":\"洹北商城\",\"details\":\"2001 ~\",\"link\":\"/huanbei-shang-city/\"}],\"actions\":false,\"copyright\":true,\"footer\":false,\"summary\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://ay1928.github.io/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"安陽・一九二八\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"安陽・一九二八\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-08-16T13:30:43.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-08-16T13:30:43.000Z\"}]]},\"excerpt\":\"\",\"headers\":[],\"git\":{\"createdTime\":1659791624000,\"updatedTime\":1660656643000,\"contributors\":[{\"name\":\"NGKINCHUNG\",\"email\":\"archaeology.cn@outlook.com\",\"commits\":6},{\"name\":\"anyang100\",\"email\":\"110728334+anyang100@users.noreply.github.com\",\"commits\":1}]},\"readingTime\":{\"minutes\":0.16,\"words\":47},\"filePathRelative\":\"README.md\",\"localizedDate\":\"2022年8月6日\"}")
+export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"安陽・一九二八\",\"lang\":\"zh-TW\",\"frontmatter\":{\"home\":true,\"icon\":\"home\",\"title\":\"安陽・一九二八\",\"heroImage\":\"/logo.svg\",\"heroText\":\"安陽・一九二八\",\"tagline\":false,\"features\":[{\"title\":\"殷墟\",\"details\":\"1928 ~\",\"link\":\"/yinxu/\"},{\"title\":\"洹北商城\",\"details\":\"2001 ~\",\"link\":\"/huanbei-shang-city/\"}],\"actions\":false,\"copyright\":true,\"footer\":false,\"summary\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://ay1928.github.io/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"安陽・一九二八\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"安陽・一九二八\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}]]},\"excerpt\":\"\",\"headers\":[],\"readingTime\":{\"minutes\":0.16,\"words\":47},\"filePathRelative\":\"README.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

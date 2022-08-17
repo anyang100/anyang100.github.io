@@ -1,1 +1,1 @@
-export const sidebarData = {"/archaeology/":[]}
+export const sidebarData = {}
