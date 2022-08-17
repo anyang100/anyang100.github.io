@@ -29,7 +29,7 @@ export default hopeTheme({
   // sidebar
   sidebar: sidebar,
 
-  footer: "",
+  footer: "NG, Kinchung @ Anyang Field Station",
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 

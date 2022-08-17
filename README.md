@@ -13,5 +13,5 @@ features:
     details: 2001 ~ 
     link: /huanbei-shang-city/
 actions: false
-copyright: false
-footer: NG, Kinchung @ Peking University
+copyright: true
+footer: false
