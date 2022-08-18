@@ -7,32 +7,19 @@ export default hopeTheme({
   darkmode: "disable",
   fullscreen: false,
   hostname: "https://ay1928.github.io",
-
   author: {
     name: "NG, Kinchung",
     url: "https://ay1928.github.io",
   },
-
-  iconAssets: "//at.alicdn.com/t/font_3432689_cekvg7mzu1v.css",
-
-  logo: "/logo.svg",
-
-  // repo: "ay1928/ay1928.github.io",
-
+  iconAssets: "",
+  logo: "/logo.svg", 
+// repo: "ay1928/ay1928.github.io",
   editLink: false,
-
   displayFooter: true,
-
-  // navbar
   navbar: navbar,
-
-  // sidebar
   sidebar: sidebar,
-
   footer: "@ Anyang Field Station",
-
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
-
   blog: {
     description: "考古的",
     intro: "",

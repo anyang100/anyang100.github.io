@@ -1,4 +1,3 @@
-import { useStyleTag } from "D:/ngkinchung/Github/anyang100.github.io/node_modules/vuepress-plugin-components/lib/client/composables";
 import { h } from "vue";
 import { defineClientConfig } from "@vuepress/client";
 import Badge from "D:/ngkinchung/Github/anyang100.github.io/node_modules/vuepress-plugin-components/lib/client/components/Badge";
@@ -13,7 +12,6 @@ export default defineClientConfig({
     
   },
   setup: () => {
-    useStyleTag(`@import url("//at.alicdn.com/t/font_3432689_cekvg7mzu1v.css");`, { id: "icon-assets" });
     
   },
   rootComponents: [

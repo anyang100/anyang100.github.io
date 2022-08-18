@@ -15,3 +15,4 @@ features:
 actions: false
 copyright: true
 footer: false
+navbar: false
