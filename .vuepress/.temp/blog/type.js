@@ -1,4 +1,4 @@
-export const typeMap = {"article":{"/":{"path":"/article/","keys":["v-0989631c","v-0daed70d","v-7a7f74cc","v-152db918","v-395ce022","v-c3da2626"]}},"encrypted":{"/":{"path":"/encrypted/","keys":[]}},"slide":{"/":{"path":"/slide/","keys":[]}},"star":{"/":{"path":"/star/","keys":[]}},"timeline":{"/":{"path":"/timeline/","keys":["v-0989631c","v-0daed70d","v-7a7f74cc","v-152db918"]}}}
+export const typeMap = {"article":{"/":{"path":"/article/","keys":["v-5229fefb","v-21e72558","v-395ce022","v-c3da2626","v-0daed70d","v-7a7f74cc","v-dbb3e1e0","v-152db918"]}},"encrypted":{"/":{"path":"/encrypted/","keys":[]}},"slide":{"/":{"path":"/slide/","keys":[]}},"star":{"/":{"path":"/star/","keys":[]}},"timeline":{"/":{"path":"/timeline/","keys":["v-5229fefb","v-21e72558","v-395ce022","v-c3da2626","v-0daed70d","v-7a7f74cc","v-dbb3e1e0","v-152db918"]}}}
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

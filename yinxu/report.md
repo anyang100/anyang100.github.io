@@ -143,4 +143,4 @@ date: 2022-01-22
 - Carpenter, H.C.H. **Preliminary Report on Chinese Bronzes**，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第677-679頁。
 - 石璋如：〈**第七次殷墟發掘：E區工作報告**〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第709-733頁。
 ## 洹北
-另見「[洹北商城](huanbei-shang-city.md)」。
+另見「[洹北商城](../huanbei-shang-city/README.md)」。

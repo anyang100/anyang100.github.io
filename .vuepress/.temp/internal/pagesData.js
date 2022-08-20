@@ -1,6 +1,4 @@
 export const pagesData = {
-  // path: /article.html
-  "v-0989631c": () => import(/* webpackChunkName: "v-0989631c" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/article.html.js").then(({ data }) => data),
   // path: /home.html
   "v-79fdd481": () => import(/* webpackChunkName: "v-79fdd481" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/home.html.js").then(({ data }) => data),
   // path: /news.html
@@ -11,6 +9,12 @@ export const pagesData = {
   "v-7a7f74cc": () => import(/* webpackChunkName: "v-7a7f74cc" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/yearbook.html.js").then(({ data }) => data),
   // path: /huanbei-shang-city/
   "v-395ce022": () => import(/* webpackChunkName: "v-395ce022" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/huanbei-shang-city/index.html.js").then(({ data }) => data),
+  // path: /oracle/article.html
+  "v-5229fefb": () => import(/* webpackChunkName: "v-5229fefb" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/oracle/article.html.js").then(({ data }) => data),
+  // path: /oracle/
+  "v-21e72558": () => import(/* webpackChunkName: "v-21e72558" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/oracle/index.html.js").then(({ data }) => data),
+  // path: /yinxu/article.html
+  "v-dbb3e1e0": () => import(/* webpackChunkName: "v-dbb3e1e0" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/yinxu/article.html.js").then(({ data }) => data),
   // path: /yinxu/
   "v-c3da2626": () => import(/* webpackChunkName: "v-c3da2626" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/yinxu/index.html.js").then(({ data }) => data),
   // path: /yinxu/report.html

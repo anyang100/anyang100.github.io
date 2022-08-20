@@ -171,5 +171,5 @@
 <li>石璋如：〈<strong>第七次殷墟發掘：E區工作報告</strong>〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第709-733頁。</li>
 </ul>
 <h2 id="洹北" tabindex="-1"><a class="header-anchor" href="#洹北" aria-hidden="true">#</a> 洹北</h2>
-<p>另見「<RouterLink to="/yinxu/huanbei-shang-city.html">洹北商城</RouterLink>」。</p>
+<p>另見「<RouterLink to="/huanbei-shang-city/">洹北商城</RouterLink>」。</p>
 </div></template>

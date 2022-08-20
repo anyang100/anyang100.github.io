@@ -1,8 +1,6 @@
 import { defineAsyncComponent } from 'vue'
 
 export const pagesComponents = {
-  // path: /article.html
-  "v-0989631c": defineAsyncComponent(() => import(/* webpackChunkName: "v-0989631c" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/article.html.vue")),
   // path: /home.html
   "v-79fdd481": defineAsyncComponent(() => import(/* webpackChunkName: "v-79fdd481" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/home.html.vue")),
   // path: /news.html
@@ -13,6 +11,12 @@ export const pagesComponents = {
   "v-7a7f74cc": defineAsyncComponent(() => import(/* webpackChunkName: "v-7a7f74cc" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/yearbook.html.vue")),
   // path: /huanbei-shang-city/
   "v-395ce022": defineAsyncComponent(() => import(/* webpackChunkName: "v-395ce022" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/huanbei-shang-city/index.html.vue")),
+  // path: /oracle/article.html
+  "v-5229fefb": defineAsyncComponent(() => import(/* webpackChunkName: "v-5229fefb" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/oracle/article.html.vue")),
+  // path: /oracle/
+  "v-21e72558": defineAsyncComponent(() => import(/* webpackChunkName: "v-21e72558" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/oracle/index.html.vue")),
+  // path: /yinxu/article.html
+  "v-dbb3e1e0": defineAsyncComponent(() => import(/* webpackChunkName: "v-dbb3e1e0" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/yinxu/article.html.vue")),
   // path: /yinxu/
   "v-c3da2626": defineAsyncComponent(() => import(/* webpackChunkName: "v-c3da2626" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/yinxu/index.html.vue")),
   // path: /yinxu/report.html

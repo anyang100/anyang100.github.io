@@ -6,6 +6,9 @@ heroImage: /logo.svg
 heroText: 安陽・一九二八
 tagline: false
 features: 
+  - title: 甲骨
+    details: 1898 ~ 
+    link: /oracle/
   - title: 殷墟
     details: 1928 ~ 
     link: /yinxu/
@@ -15,4 +18,3 @@ features:
 actions: false
 copyright: true
 footer: false
-navbar: false
