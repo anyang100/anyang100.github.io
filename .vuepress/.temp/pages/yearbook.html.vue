@@ -1,4 +1,5 @@
 <template><div><h1 id="年鑒" tabindex="-1"><a class="header-anchor" href="#年鑒" aria-hidden="true">#</a> 年鑒</h1>
+<h2 id="考古新發現" tabindex="-1"><a class="header-anchor" href="#考古新發現" aria-hidden="true">#</a> 考古新發現</h2>
 <ol>
 <li>楊錫璋：〈<strong>安陽殷墟西區殷墓</strong>〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1984年，第131頁。</li>
 <li>徐廣德：〈<strong>安陽大司空村殷墓</strong>〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1984年，第131-132頁。</li>

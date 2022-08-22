@@ -9,6 +9,8 @@ export const pagesData = {
   "v-7a7f74cc": () => import(/* webpackChunkName: "v-7a7f74cc" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/yearbook.html.js").then(({ data }) => data),
   // path: /huanbei-shang-city/
   "v-395ce022": () => import(/* webpackChunkName: "v-395ce022" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/huanbei-shang-city/index.html.js").then(({ data }) => data),
+  // path: /huanbei-shang-city/report.html
+  "v-0bf5ba7a": () => import(/* webpackChunkName: "v-0bf5ba7a" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/huanbei-shang-city/report.html.js").then(({ data }) => data),
   // path: /oracle/article.html
   "v-5229fefb": () => import(/* webpackChunkName: "v-5229fefb" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/oracle/article.html.js").then(({ data }) => data),
   // path: /oracle/

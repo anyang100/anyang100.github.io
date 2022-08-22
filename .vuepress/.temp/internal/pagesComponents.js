@@ -11,6 +11,8 @@ export const pagesComponents = {
   "v-7a7f74cc": defineAsyncComponent(() => import(/* webpackChunkName: "v-7a7f74cc" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/yearbook.html.vue")),
   // path: /huanbei-shang-city/
   "v-395ce022": defineAsyncComponent(() => import(/* webpackChunkName: "v-395ce022" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/huanbei-shang-city/index.html.vue")),
+  // path: /huanbei-shang-city/report.html
+  "v-0bf5ba7a": defineAsyncComponent(() => import(/* webpackChunkName: "v-0bf5ba7a" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/huanbei-shang-city/report.html.vue")),
   // path: /oracle/article.html
   "v-5229fefb": defineAsyncComponent(() => import(/* webpackChunkName: "v-5229fefb" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/oracle/article.html.vue")),
   // path: /oracle/
