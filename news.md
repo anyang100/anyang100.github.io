@@ -1,6 +1,8 @@
 ---
 lang: zh-TW
+title: 報道
 author: NG, Kinchung
+contributor: false
 date: 2022-01-22
 ---
 # 報道

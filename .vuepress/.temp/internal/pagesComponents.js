@@ -7,16 +7,22 @@ export const pagesComponents = {
   "v-0daed70d": defineAsyncComponent(() => import(/* webpackChunkName: "v-0daed70d" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/news.html.vue")),
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/index.html.vue")),
-  // path: /yearbook.html
-  "v-7a7f74cc": defineAsyncComponent(() => import(/* webpackChunkName: "v-7a7f74cc" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/yearbook.html.vue")),
   // path: /huanbei-shang-city/
   "v-395ce022": defineAsyncComponent(() => import(/* webpackChunkName: "v-395ce022" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/huanbei-shang-city/index.html.vue")),
   // path: /huanbei-shang-city/report.html
   "v-0bf5ba7a": defineAsyncComponent(() => import(/* webpackChunkName: "v-0bf5ba7a" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/huanbei-shang-city/report.html.vue")),
+  // path: /note/
+  "v-15054f24": defineAsyncComponent(() => import(/* webpackChunkName: "v-15054f24" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/note/index.html.vue")),
+  // path: /note/terrin-model-in-gis.html
+  "v-9d2b35ce": defineAsyncComponent(() => import(/* webpackChunkName: "v-9d2b35ce" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/note/terrin-model-in-gis.html.vue")),
   // path: /oracle/article.html
   "v-5229fefb": defineAsyncComponent(() => import(/* webpackChunkName: "v-5229fefb" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/oracle/article.html.vue")),
   // path: /oracle/
   "v-21e72558": defineAsyncComponent(() => import(/* webpackChunkName: "v-21e72558" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/oracle/index.html.vue")),
+  // path: /yearbook/new-archaeological-discovery.html
+  "v-f61d40f6": defineAsyncComponent(() => import(/* webpackChunkName: "v-f61d40f6" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/yearbook/new-archaeological-discovery.html.vue")),
+  // path: /yearbook/
+  "v-3bfce520": defineAsyncComponent(() => import(/* webpackChunkName: "v-3bfce520" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/yearbook/index.html.vue")),
   // path: /yinxu/article.html
   "v-dbb3e1e0": defineAsyncComponent(() => import(/* webpackChunkName: "v-dbb3e1e0" */"D:/ngkinchung/Github/anyang100.github.io/.vuepress/.temp/pages/yinxu/article.html.vue")),
   // path: /yinxu/

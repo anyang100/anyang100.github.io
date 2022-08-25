@@ -11,4 +11,10 @@ export default sidebar({
   "/oracle/": [
     "article",
   ],
+  "/note/": [
+    "terrin-model-in-gis",
+  ],
+  "/yearbook/": [
+    "new-archaeological-discovery",
+  ],
 });

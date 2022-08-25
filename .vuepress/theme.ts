@@ -16,20 +16,16 @@ export default hopeTheme({
 // repo: "ay1928/ay1928.github.io",
   editLink: false,
   displayFooter: true,
+  footer: "",
+  copyright: "Anyang Centenary Project",
   navbar: navbar,
   sidebar: sidebar,
-  footer: "@ Anyang Field Station",
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
+  lastUpdated: true,
   blog: {
     description: "考古的",
     intro: "",
     medias: {
-    },
-  },
-
-  encrypt: {
-    config: {
-      "/guide/encrypt.html": ["1234"],
     },
   },
 

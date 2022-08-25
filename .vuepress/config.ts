@@ -6,6 +6,7 @@ export default defineUserConfig({
   lang: "zh-TW",
   title: "安陽・一九二八",
   description: "",
+  base: "/",
   head: [
     [
       "script",
@@ -16,8 +17,6 @@ export default defineUserConfig({
       }
     ]
   ],
-  base: "/",
-
     plugins: [
       googleAnalyticsPlugin({
         id: 'G-ST7K7C1TYH',

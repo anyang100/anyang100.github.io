@@ -2,6 +2,7 @@
 lang: zh-TW
 title: 報告
 author: NG, Kinchung
+contributor: false
 date: 2022-01-22
 ---
 # 報告
