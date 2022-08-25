@@ -4,11 +4,11 @@ export default sidebar({
   "/yinxu/": [
     "report",
     "article",
-],
+  ],
   "/huanbei-shang-city/": [
     "report",
-],
+  ],
   "/oracle/": [
     "article",
-],
+  ],
 });

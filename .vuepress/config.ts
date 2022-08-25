@@ -20,7 +20,7 @@ export default defineUserConfig({
 
     plugins: [
       googleAnalyticsPlugin({
-        id: 'G-63383XK452',
+        id: 'G-ST7K7C1TYH',
       }),
     ],
 
