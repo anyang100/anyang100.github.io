@@ -1,6 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme";
-const { googleAnalyticsPlugin } = require('@vuepress/plugin-google-analytics')
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 export default defineUserConfig({
   lang: "zh-TW",

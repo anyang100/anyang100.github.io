@@ -17,3 +17,5 @@
 <li>〈<strong><a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%AE%B7%E5%A2%9F&amp;p_r_p_-1078056564_c=QF757YsWv59H%2FuxqfBwEJNLo68tf%2FOSJ&amp;_coverpage_WAR_mmisportalportlet_o=17&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+all_dc.creator%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+all_dc.contributor%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+all_dc.subject%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+fulltext%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+all_dc.description%3A%28%E6%AE%B7%E5%A2%9F%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">著名甲骨文專家　胡厚宣憶殷墟發掘　盼在台老友再共事　大陸卅年來資料甲骨拓本可供台同行<ExternalLinkIcon/></a></strong>〉，《大公報》，1981年11月4日，第1張；第3版。</li>
 </ol>
 </div></template>
+
+
