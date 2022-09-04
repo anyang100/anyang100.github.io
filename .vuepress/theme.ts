@@ -16,7 +16,7 @@ export default hopeTheme({
 // repo: "ay1928/ay1928.github.io",
   editLink: false,
   displayFooter: true,
-  footer: "",
+  footer: "NG, Kinchung @ Peking University",
   copyright: "Anyang Centenary Project",
   navbar: navbar,
   sidebar: sidebar,

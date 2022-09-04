@@ -9,18 +9,18 @@ export const pagesData = {
   "v-395ce022": () => import(/* webpackChunkName: "v-395ce022" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/.vuepress/.temp/pages/huanbei-shang-city/index.html.js").then(({ data }) => data),
   // path: /huanbei-shang-city/report.html
   "v-0bf5ba7a": () => import(/* webpackChunkName: "v-0bf5ba7a" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/.vuepress/.temp/pages/huanbei-shang-city/report.html.js").then(({ data }) => data),
-  // path: /yearbook/
-  "v-3bfce520": () => import(/* webpackChunkName: "v-3bfce520" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/.vuepress/.temp/pages/yearbook/index.html.js").then(({ data }) => data),
-  // path: /yearbook/new-archaeological-discovery.html
-  "v-f61d40f6": () => import(/* webpackChunkName: "v-f61d40f6" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/.vuepress/.temp/pages/yearbook/new-archaeological-discovery.html.js").then(({ data }) => data),
-  // path: /oracle/
-  "v-21e72558": () => import(/* webpackChunkName: "v-21e72558" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/.vuepress/.temp/pages/oracle/index.html.js").then(({ data }) => data),
-  // path: /oracle/article.html
-  "v-5229fefb": () => import(/* webpackChunkName: "v-5229fefb" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/.vuepress/.temp/pages/oracle/article.html.js").then(({ data }) => data),
   // path: /note/
   "v-15054f24": () => import(/* webpackChunkName: "v-15054f24" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/.vuepress/.temp/pages/note/index.html.js").then(({ data }) => data),
   // path: /note/terrin-model-in-gis.html
   "v-9d2b35ce": () => import(/* webpackChunkName: "v-9d2b35ce" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/.vuepress/.temp/pages/note/terrin-model-in-gis.html.js").then(({ data }) => data),
+  // path: /oracle/
+  "v-21e72558": () => import(/* webpackChunkName: "v-21e72558" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/.vuepress/.temp/pages/oracle/index.html.js").then(({ data }) => data),
+  // path: /oracle/article.html
+  "v-5229fefb": () => import(/* webpackChunkName: "v-5229fefb" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/.vuepress/.temp/pages/oracle/article.html.js").then(({ data }) => data),
+  // path: /yearbook/
+  "v-3bfce520": () => import(/* webpackChunkName: "v-3bfce520" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/.vuepress/.temp/pages/yearbook/index.html.js").then(({ data }) => data),
+  // path: /yearbook/new-archaeological-discovery.html
+  "v-f61d40f6": () => import(/* webpackChunkName: "v-f61d40f6" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/.vuepress/.temp/pages/yearbook/new-archaeological-discovery.html.js").then(({ data }) => data),
   // path: /yinxu/
   "v-c3da2626": () => import(/* webpackChunkName: "v-c3da2626" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/.vuepress/.temp/pages/yinxu/index.html.js").then(({ data }) => data),
   // path: /yinxu/article.html
