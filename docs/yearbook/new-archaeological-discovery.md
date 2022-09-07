@@ -1,7 +1,7 @@
 ---
 lang: zh-TW
 title: 考古新發現
-author: NG, Kinchung
+author: false
 contributor: false
 date: 2022-01-22
 ---

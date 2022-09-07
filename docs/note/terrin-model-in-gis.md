@@ -1,7 +1,7 @@
 ---
 lang: zh-TW
 title: ArcGIS處理激光雷達模型
-author: NG, Kinchung
+author: false
 contributor: false
 date: 2022-08-25
 ---

@@ -16,7 +16,7 @@ export default hopeTheme({
   logo: "/logo.svg",
   navbar: navbar,
   sidebar: sidebar,
-  footer: "NG Kinchung@ Peking University",
+  footer: "NG Kinchung @ Peking University",
   copyright: "Anyang Centenary Project",
   displayFooter: true,
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
