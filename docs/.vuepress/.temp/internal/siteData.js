@@ -1,0 +1,1 @@
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"zh-TW\",\"title\":\"安陽・一九二八\",\"description\":\"\",\"head\":[[\"script\",{\"data-ad-client\":\"ca-pub-8975507583219124\",\"async\":true,\"src\":\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"}]],\"locales\":{}}")

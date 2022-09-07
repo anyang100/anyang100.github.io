@@ -1,20 +1,16 @@
 {
-  "name": "anyang1928",
-  "version": "1.0.0",
-  "description": "Anyang1928, A Index Project of Academic References",
-  "license": "MIT",
+  "dependencies": {
+    "@vuepress/plugin-google-analytics": "^2.0.0-beta.49"
+  },
   "scripts": {
-    "docs:build": "vuepress build .",
-    "docs:clean-dev": "vuepress dev . --clean-cache",
-    "docs:dev": "vuepress dev ."
+    "docs:build": "vuepress build docs",
+    "docs:clean-dev": "vuepress dev docs --clean-cache",
+    "docs:dev": "vuepress dev docs"
   },
   "devDependencies": {
-    "@vuepress/client": "^2.0.0-beta.48",
-    "vue": "^3.2.33",
-    "vuepress": "^2.0.0-beta.51",
-    "vuepress-theme-hope": "^2.0.0-beta.97"
-  },
-  "dependencies": {
-    "@vuepress/plugin-google-analytics": "^2.0.0-beta.51"
+    "@vuepress/client": "^2.0.0-beta.49",
+    "vue": "^3.2.36",
+    "vuepress": "^2.0.0-beta.49",
+    "vuepress-theme-hope": "^2.0.0-beta.91"
   }
 }

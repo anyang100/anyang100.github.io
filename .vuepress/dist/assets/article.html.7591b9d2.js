@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c294ce8e","path":"/docs/oracle/article.html","title":"\u8AD6\u6587","lang":"zh-TW","frontmatter":{"lang":"zh-TW","title":"\u8AD6\u6587","author":"NG, Kinchung","contributor":false,"date":"2022-08-19T00:00:00.000Z"},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"docs/oracle/article.md"}');export{t as data};

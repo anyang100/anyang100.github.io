@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b9c4336a","path":"/docs/news.html","title":"\u5831\u9053","lang":"zh-TW","frontmatter":{"lang":"zh-TW","title":"\u5831\u9053","author":"NG, Kinchung","contributor":false,"date":"2022-01-22T00:00:00.000Z"},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"docs/news.md"}');export{t as data};
