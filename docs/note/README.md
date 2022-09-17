@@ -7,4 +7,4 @@ ReadingTime: false
 ---
 
 # 筆記
-一些個人經驗。
+一些備忘。

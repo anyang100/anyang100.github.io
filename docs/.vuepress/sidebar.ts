@@ -11,7 +11,7 @@ export default sidebar({
     "",
     "report",
   ],
-  "/caocao-gao-ling/": [
+  "/gao-ling/": [
     "",
     "report",
   ],
@@ -21,6 +21,8 @@ export default sidebar({
     "article",
   ],
   "/note/": [
+    "",
+    "list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad",
     "terrin-model-in-gis",
   ],
   "/yearbook/": [
