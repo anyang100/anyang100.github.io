@@ -22,6 +22,7 @@ export default sidebar({
   ],
   "/note/": [
     "",
+    "convention/",
     "list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad",
     "terrin-model-in-gis",
   ],

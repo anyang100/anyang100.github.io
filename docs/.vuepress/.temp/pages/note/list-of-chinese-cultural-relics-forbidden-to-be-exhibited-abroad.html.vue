@@ -1041,7 +1041,7 @@
 <td style="text-align:center">21</td>
 <td style="text-align:center">唐三彩駱駝載樂俑</td>
 <td style="text-align:center">唐</td>
-<td style="text-align:center">陝西曆史博物館</td>
+<td style="text-align:center">陝西歷史博物館</td>
 <td style="text-align:center">1959年陝西西安中堡村唐墓出土</td>
 </tr>
 <tr>
@@ -1062,7 +1062,7 @@
 <td style="text-align:center">24</td>
 <td style="text-align:center">五代耀州窯青釉刻花提梁倒流壺</td>
 <td style="text-align:center">五代</td>
-<td style="text-align:center">陝西曆史博物館</td>
+<td style="text-align:center">陝西歷史博物館</td>
 <td style="text-align:center">1968年陝西彬縣出土</td>
 </tr>
 <tr>
@@ -1174,7 +1174,7 @@
 <td style="text-align:center">6</td>
 <td style="text-align:center">西漢「皇后之璽」玉璽</td>
 <td style="text-align:center">西漢</td>
-<td style="text-align:center">陝西曆史博物館</td>
+<td style="text-align:center">陝西歷史博物館</td>
 <td style="text-align:center">1968年陝西咸陽漢高祖長陵附近發現</td>
 </tr>
 <tr>
@@ -1364,7 +1364,7 @@
 <td style="text-align:center">唐昭陵六駿石刻（什伐赤、白蹄烏、特勒驃、青騅4幅）</td>
 <td style="text-align:center">唐</td>
 <td style="text-align:center">西安碑林博物館</td>
-<td style="text-align:center">1950年原陝西曆史博物館移交</td>
+<td style="text-align:center">1950年原陝西歷史博物館移交</td>
 </tr>
 <tr>
 <td style="text-align:center">23</td>
@@ -1405,28 +1405,28 @@
 <td style="text-align:center">28</td>
 <td style="text-align:center">唐章懷太子墓壁畫馬球圖（1組）</td>
 <td style="text-align:center">唐</td>
-<td style="text-align:center">陝西曆史博物館</td>
+<td style="text-align:center">陝西歷史博物館</td>
 <td style="text-align:center"></td>
 </tr>
 <tr>
 <td style="text-align:center">29</td>
 <td style="text-align:center">唐章懷太子墓壁畫狩獵出行圖（1組）</td>
 <td style="text-align:center">唐</td>
-<td style="text-align:center">陝西曆史博物館</td>
+<td style="text-align:center">陝西歷史博物館</td>
 <td style="text-align:center"></td>
 </tr>
 <tr>
 <td style="text-align:center">30</td>
 <td style="text-align:center">唐懿德太子墓壁畫闕樓圖（1組）</td>
 <td style="text-align:center">唐</td>
-<td style="text-align:center">陝西曆史博物館</td>
+<td style="text-align:center">陝西歷史博物館</td>
 <td style="text-align:center"></td>
 </tr>
 <tr>
 <td style="text-align:center">31</td>
 <td style="text-align:center">唐永泰公主墓壁畫宮女圖（1組）</td>
 <td style="text-align:center">唐</td>
-<td style="text-align:center">陝西曆史博物館</td>
+<td style="text-align:center">陝西歷史博物館</td>
 <td style="text-align:center"></td>
 </tr>
 <tr>
