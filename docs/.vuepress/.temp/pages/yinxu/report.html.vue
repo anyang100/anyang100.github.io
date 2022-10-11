@@ -7,6 +7,7 @@
 <li>傅斯年：〈<strong>本所發掘殷虛之經過</strong>〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第387-404頁。</li>
 <li>郭寶鈞：〈<strong>一九五〇年春殷墟發掘報告</strong>〉，《中國考古學報》1951年第5冊，第1-61頁。</li>
 <li>中國社會科學院考古研究所安陽隊：〈<strong>河南安陽洹河流域的考古調查</strong>〉，載《考古學集刊》第三集，中國社會北京：科學出版社，1983年，第90-96頁。</li>
+<li>安陽市博物館：〈<strong>豫北洹水兩岸古代遺址調查簡報</strong>〉，《中原文物》1986年第3期，第1-8頁。</li>
 <li>中國社會科學院考古研究所編著：《殷墟發掘報告1958-1961》，北京：文物出版社，1987年。</li>
 </ol>
 <h2 id="小屯" tabindex="-1"><a class="header-anchor" href="#小屯" aria-hidden="true">#</a> 小屯</h2>
@@ -170,6 +171,10 @@
 <li>Carpenter, H.C.H. <strong>Preliminary Report on Chinese Bronzes</strong>，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第677-679頁。</li>
 <li>石璋如：〈<strong>第七次殷墟發掘：E區工作報告</strong>〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第709-733頁。</li>
 </ul>
+<h2 id="待分組" tabindex="-1"><a class="header-anchor" href="#待分組" aria-hidden="true">#</a> 待分組</h2>
+<ol>
+<li>中國社會科學院考古研究所黃張發掘隊、河南省文物管理局南水北調文物保護辦公室：〈<strong>河南安陽市黃張遺址兩周時期文化遺存發掘簡報</strong>〉，《考古》2009年第4期，第16-29，2，105頁。</li>
+</ol>
 <h2 id="洹北" tabindex="-1"><a class="header-anchor" href="#洹北" aria-hidden="true">#</a> 洹北</h2>
 <p>另見「<RouterLink to="/huanbei-shang-city/report.html">洹北商城</RouterLink>」。</p>
 </div></template>

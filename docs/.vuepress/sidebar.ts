@@ -1,6 +1,10 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
+  "/archaeology/": [
+    "",
+    "report",
+  ],
   "/yinxu/": [
     "",
     "report",
@@ -22,6 +26,7 @@ export default sidebar({
   ],
   "/note/": [
     "",
+    "reading/",
     "convention/",
     "list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad",
     "terrin-model-in-gis",

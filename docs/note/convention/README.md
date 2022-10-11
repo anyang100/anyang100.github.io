@@ -44,6 +44,7 @@ title: 公約與法規
 - 2005 西安宣言——保護歷史建築、古遺址和歷史地區的環境
   - Xi'an Declaration on the Convervation of the Setting of Heritage Structures, Sites and Areas
 - 2005 首爾宣言——亞洲歷史城鎮和地區的旅遊
+- 2007 [北京文件——關於東亞地區文物建築保護與修復](2007-beijing-document-on-the-conservation-and-restoration-of-historic-buildings-in-east-asia.md)
 - 2008 [文化遺產闡釋與展示憲章](2008-the-icomos-charter-for-the-intepretation-and-presentation-of-cultural-heritage-sites.md)
   - The ICOMOS Charter for the Intepretation and Presentation of Cultural Heritage Sites
 - 2008 實施保護非物質文化遺產公約的業務指南
@@ -63,7 +64,6 @@ title: 公約與法規
 - 恢復巴姆文化遺產宣言
 - 漢城宣言——亞洲歷史城鎮和地區的旅遊業
 - 關於東亞地區彩畫保護的北京備忘錄
-- 北京文件——關於東亞地區文物建築保護與修復
 ### 博物館
 - 1960
    - 關於博物館向公眾開放最有效方法的建議

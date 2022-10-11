@@ -7,7 +7,10 @@ tagline: false
 features: 
   - title: 甲骨
     details: 1898 ~ 
-    link: /oracle/catalogue
+    link: /oracle/
+  - title: 考古
+    details: 1928 ~ 
+    link: /archaeology
   - title: 殷墟
     details: 1928 ~ 
     link: /yinxu/report

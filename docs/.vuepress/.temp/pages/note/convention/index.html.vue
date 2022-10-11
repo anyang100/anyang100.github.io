@@ -82,6 +82,7 @@
 </ul>
 </li>
 <li>2005 首爾宣言——亞洲歷史城鎮和地區的旅遊</li>
+<li>2007 <RouterLink to="/note/convention/2007-beijing-document-on-the-conservation-and-restoration-of-historic-buildings-in-east-asia.html">北京文件——關於東亞地區文物建築保護與修復</RouterLink></li>
 <li>2008 <RouterLink to="/note/convention/2008-the-icomos-charter-for-the-intepretation-and-presentation-of-cultural-heritage-sites.html">文化遺產闡釋與展示憲章</RouterLink>
 <ul>
 <li>The ICOMOS Charter for the Intepretation and Presentation of Cultural Heritage Sites</li>
@@ -107,7 +108,6 @@
 <li>恢復巴姆文化遺產宣言</li>
 <li>漢城宣言——亞洲歷史城鎮和地區的旅遊業</li>
 <li>關於東亞地區彩畫保護的北京備忘錄</li>
-<li>北京文件——關於東亞地區文物建築保護與修復</li>
 </ul>
 <h3 id="博物館" tabindex="-1"><a class="header-anchor" href="#博物館" aria-hidden="true">#</a> 博物館</h3>
 <ul>
