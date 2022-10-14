@@ -110,7 +110,7 @@
 <li>玻里尼西亞首領再分配資源--&gt;分配制度與地位關聯--&gt;資源流動，非人</li>
 </ul>
 </li>
-<li>Louis R. Binford
+<li>Lewis R. Binford
 <ul>
 <li>Big Man System--&gt;與其他社群成員協作--&gt;人流動，非資源</li>
 </ul>

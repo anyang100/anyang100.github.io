@@ -61,7 +61,7 @@ date: 2022-10-10
 > I believed that power derived from productive monopolies and that monopolies were to a large extent a functional response of societies which were every dependent on storage and whose food resources were patchy or highly aggregated in space. (215)
 - Marshall Sahlins
 	- 玻里尼西亞首領再分配資源-->分配制度與地位關聯-->資源流動，非人
-- Louis R. Binford
+- Lewis R. Binford
 	- Big Man System-->與其他社群成員協作-->人流動，非資源
 
 ### 社會複雜化

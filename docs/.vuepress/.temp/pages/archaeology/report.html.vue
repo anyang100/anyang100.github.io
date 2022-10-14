@@ -1,4 +1,4 @@
-<template><div><h1 id="報告" tabindex="-1"><a class="header-anchor" href="#報告" aria-hidden="true">#</a> 報告</h1>
+<template><div><h1 id="考古簡報、報告" tabindex="-1"><a class="header-anchor" href="#考古簡報、報告" aria-hidden="true">#</a> 考古簡報、報告</h1>
 <blockquote>
 <p>資料依地區歸類，發表年份排序。</p>
 </blockquote>
@@ -190,4 +190,5 @@
 <ol>
 <li>河南省文物考古研究院、安陽市文物考古研究所：〈<strong>安陽陶家營遺址M12發掘簡報</strong>〉，《江漢考古》2022年第4期，第16-29，2，145頁。</li>
 </ol>
+<h2 id="高陵" tabindex="-1"><a class="header-anchor" href="#高陵" aria-hidden="true">#</a> 高陵</h2>
 </div></template>

@@ -11,15 +11,12 @@ features:
   - title: 考古
     details: 1928 ~ 
     link: /archaeology
-  - title: 殷墟
+  - title: 年鑒
+    details: 1984 ~ 
+    link: /yearbook/new-archaeological-discovery
+  - title: 報道
     details: 1928 ~ 
-    link: /yinxu/report
-  - title: 洹北商城
-    details: 2001 ~ 
-    link: /huanbei-shang-city/report
-  - title: 高陵
-    details: 2009 ~
-    link: /gao-ling/report
+    link: /news
 actions: false
 copyright: true
 footer: false
