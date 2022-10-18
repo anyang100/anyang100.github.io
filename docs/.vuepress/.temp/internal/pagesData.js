@@ -7,12 +7,6 @@ export const pagesData = {
   "v-0ed39efe": () => import(/* webpackChunkName: "v-0ed39efe" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/archaeology/index.html.js").then(({ data }) => data),
   // path: /archaeology/report.html
   "v-97947b32": () => import(/* webpackChunkName: "v-97947b32" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/archaeology/report.html.js").then(({ data }) => data),
-  // path: /note/
-  "v-15054f24": () => import(/* webpackChunkName: "v-15054f24" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/index.html.js").then(({ data }) => data),
-  // path: /note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html
-  "v-488fcf2a": () => import(/* webpackChunkName: "v-488fcf2a" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html.js").then(({ data }) => data),
-  // path: /note/terrin-model-in-gis.html
-  "v-9d2b35ce": () => import(/* webpackChunkName: "v-9d2b35ce" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/terrin-model-in-gis.html.js").then(({ data }) => data),
   // path: /huanbei-shang-city/
   "v-395ce022": () => import(/* webpackChunkName: "v-395ce022" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/index.html.js").then(({ data }) => data),
   // path: /huanbei-shang-city/report.html
@@ -23,8 +17,6 @@ export const pagesData = {
   "v-10ccb4cb": () => import(/* webpackChunkName: "v-10ccb4cb" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/article.html.js").then(({ data }) => data),
   // path: /gao-ling/report.html
   "v-428deffd": () => import(/* webpackChunkName: "v-428deffd" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/report.html.js").then(({ data }) => data),
-  // path: /yearbook/new-archaeological-discovery.html
-  "v-f61d40f6": () => import(/* webpackChunkName: "v-f61d40f6" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yearbook/new-archaeological-discovery.html.js").then(({ data }) => data),
   // path: /oracle/
   "v-21e72558": () => import(/* webpackChunkName: "v-21e72558" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/index.html.js").then(({ data }) => data),
   // path: /oracle/article.html
@@ -33,6 +25,14 @@ export const pagesData = {
   "v-7b8cb968": () => import(/* webpackChunkName: "v-7b8cb968" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/catalogue.html.js").then(({ data }) => data),
   // path: /oracle/database.html
   "v-645da434": () => import(/* webpackChunkName: "v-645da434" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/database.html.js").then(({ data }) => data),
+  // path: /yearbook/new-archaeological-discovery.html
+  "v-f61d40f6": () => import(/* webpackChunkName: "v-f61d40f6" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yearbook/new-archaeological-discovery.html.js").then(({ data }) => data),
+  // path: /note/
+  "v-15054f24": () => import(/* webpackChunkName: "v-15054f24" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/index.html.js").then(({ data }) => data),
+  // path: /note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html
+  "v-488fcf2a": () => import(/* webpackChunkName: "v-488fcf2a" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html.js").then(({ data }) => data),
+  // path: /note/terrin-model-in-gis.html
+  "v-9d2b35ce": () => import(/* webpackChunkName: "v-9d2b35ce" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/terrin-model-in-gis.html.js").then(({ data }) => data),
   // path: /yinxu/
   "v-c3da2626": () => import(/* webpackChunkName: "v-c3da2626" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/index.html.js").then(({ data }) => data),
   // path: /yinxu/article.html

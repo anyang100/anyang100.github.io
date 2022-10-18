@@ -9,12 +9,6 @@ export const pagesComponents = {
   "v-0ed39efe": defineAsyncComponent(() => import(/* webpackChunkName: "v-0ed39efe" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/archaeology/index.html.vue")),
   // path: /archaeology/report.html
   "v-97947b32": defineAsyncComponent(() => import(/* webpackChunkName: "v-97947b32" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/archaeology/report.html.vue")),
-  // path: /note/
-  "v-15054f24": defineAsyncComponent(() => import(/* webpackChunkName: "v-15054f24" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/index.html.vue")),
-  // path: /note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html
-  "v-488fcf2a": defineAsyncComponent(() => import(/* webpackChunkName: "v-488fcf2a" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html.vue")),
-  // path: /note/terrin-model-in-gis.html
-  "v-9d2b35ce": defineAsyncComponent(() => import(/* webpackChunkName: "v-9d2b35ce" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/terrin-model-in-gis.html.vue")),
   // path: /huanbei-shang-city/
   "v-395ce022": defineAsyncComponent(() => import(/* webpackChunkName: "v-395ce022" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/index.html.vue")),
   // path: /huanbei-shang-city/report.html
@@ -25,8 +19,6 @@ export const pagesComponents = {
   "v-10ccb4cb": defineAsyncComponent(() => import(/* webpackChunkName: "v-10ccb4cb" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/article.html.vue")),
   // path: /gao-ling/report.html
   "v-428deffd": defineAsyncComponent(() => import(/* webpackChunkName: "v-428deffd" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/report.html.vue")),
-  // path: /yearbook/new-archaeological-discovery.html
-  "v-f61d40f6": defineAsyncComponent(() => import(/* webpackChunkName: "v-f61d40f6" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yearbook/new-archaeological-discovery.html.vue")),
   // path: /oracle/
   "v-21e72558": defineAsyncComponent(() => import(/* webpackChunkName: "v-21e72558" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/index.html.vue")),
   // path: /oracle/article.html
@@ -35,6 +27,14 @@ export const pagesComponents = {
   "v-7b8cb968": defineAsyncComponent(() => import(/* webpackChunkName: "v-7b8cb968" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/catalogue.html.vue")),
   // path: /oracle/database.html
   "v-645da434": defineAsyncComponent(() => import(/* webpackChunkName: "v-645da434" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/database.html.vue")),
+  // path: /yearbook/new-archaeological-discovery.html
+  "v-f61d40f6": defineAsyncComponent(() => import(/* webpackChunkName: "v-f61d40f6" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yearbook/new-archaeological-discovery.html.vue")),
+  // path: /note/
+  "v-15054f24": defineAsyncComponent(() => import(/* webpackChunkName: "v-15054f24" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/index.html.vue")),
+  // path: /note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html
+  "v-488fcf2a": defineAsyncComponent(() => import(/* webpackChunkName: "v-488fcf2a" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html.vue")),
+  // path: /note/terrin-model-in-gis.html
+  "v-9d2b35ce": defineAsyncComponent(() => import(/* webpackChunkName: "v-9d2b35ce" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/terrin-model-in-gis.html.vue")),
   // path: /yinxu/
   "v-c3da2626": defineAsyncComponent(() => import(/* webpackChunkName: "v-c3da2626" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/index.html.vue")),
   // path: /yinxu/article.html
