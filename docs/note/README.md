@@ -3,7 +3,6 @@ lang: zh-TW
 title: 筆記
 author: false
 contributor: false
-ReadingTime: false
 ---
 
 # 筆記
