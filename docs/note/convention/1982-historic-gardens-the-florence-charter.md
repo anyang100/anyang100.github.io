@@ -1,8 +1,8 @@
 ---
-lang: zh-TW
+
 title: Historic Gardens (The Florence Charter)
-author: false
-contributor: false
+
+
 date: 2022-09-17
 ---
 # Historic Gardens (The Florence Charter)

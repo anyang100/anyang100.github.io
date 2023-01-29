@@ -1,8 +1,8 @@
 ---
-lang: zh-TW
+
 title: The Athens Charter for the Restoration of Historic Monuments
-author: false
-contributor: false
+
+
 date: 2022-09-17
 ---
 # The Athens Charter for the Restoration of Historic Monuments

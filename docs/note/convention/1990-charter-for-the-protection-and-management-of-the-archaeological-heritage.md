@@ -1,8 +1,8 @@
 ---
-lang: zh-TW
+
 title: Charter for the Protection and Management of the Archaeological Heritage
-author: false
-contributor: false
+
+
 date: 2022-09-17
 ---
 # Charter for the Protection and Management of the 

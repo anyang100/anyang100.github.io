@@ -82,3 +82,5 @@ of natural resources, and fostering synergies between modern science and local k
 </ol>
 <p>The Member States recommend that the Director- General take the objectives set forth in this Action Plan into account in the implementation of UNESCO’s programmes and communicate it to institutions of the United Nations system and to other intergovernmental and non-governmental organizations concerned with a view to enhancing the synergy of actions in favour of cultural diversity.</p>
 </div></template>
+
+

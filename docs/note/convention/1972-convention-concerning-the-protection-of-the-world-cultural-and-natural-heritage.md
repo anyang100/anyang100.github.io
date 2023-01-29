@@ -1,8 +1,8 @@
 ---
-lang: zh-TW
+
 title: 1972年公約
-author: false
-contributor: false
+
+
 date: 2022-09-17
 ---
 # 保護世界文化和自然遺產公約

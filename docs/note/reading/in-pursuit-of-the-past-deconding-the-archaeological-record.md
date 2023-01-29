@@ -1,9 +1,10 @@
 ---
-lang: zh-TW
+
 title: In Pursuit of The Past, Decoding The Archaeological Record
-author: false
-contributor: false
+
+
 date: 2022-10-10
+catalog: 閱讀
 ---
 # In Pursuit of The Past: Decoding The Archaeological Record
 ## 基本命題

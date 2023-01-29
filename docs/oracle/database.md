@@ -1,7 +1,7 @@
 ---
-lang: zh-TW
+
 title: 數據庫
-author: false
+
 contributors: false
 date: 2022-09-07
 ---

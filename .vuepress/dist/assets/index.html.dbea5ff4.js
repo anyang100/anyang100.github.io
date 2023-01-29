@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-598b5322","path":"/docs/yinxu/","title":"\u6BB7\u589F","lang":"zh-TW","frontmatter":{"lang":"zh-TW","title":"\u6BB7\u589F","author":false},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"docs/yinxu/README.md"}');export{t as data};

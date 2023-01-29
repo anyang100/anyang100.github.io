@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-672ca53c","path":"/docs/note/","title":"\u7B46\u8A18","lang":"zh-TW","frontmatter":{"lang":"zh-TW","title":"\u7B46\u8A18","author":false,"contributor":false,"date":false,"ReadingTime":false},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"docs/note/README.md"}');export{e as data};

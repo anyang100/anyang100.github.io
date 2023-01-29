@@ -1,8 +1,8 @@
 ---
-lang: zh-TW
+
 title: 關於保護遺產地精神的魁北克宣言
-author: false
-contributor: false
+
+
 date: 2022-09-17
 ---
 # 關於保護遺產地精神的魁北克宣言

@@ -7,3 +7,5 @@
 <h2 id="考古遺產保護與管理憲章" tabindex="-1"><a class="header-anchor" href="#考古遺產保護與管理憲章" aria-hidden="true">#</a> 考古遺產保護與管理憲章</h2>
 <h2 id="考古学的遺産の管理・運営に関する国際憲章" tabindex="-1"><a class="header-anchor" href="#考古学的遺産の管理・運営に関する国際憲章" aria-hidden="true">#</a> 考古学的遺産の管理・運営に関する国際憲章</h2>
 </div></template>
+
+

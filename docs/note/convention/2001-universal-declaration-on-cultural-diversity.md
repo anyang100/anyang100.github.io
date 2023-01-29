@@ -1,8 +1,8 @@
 ---
-lang: zh-TW
+
 title: 世界文化多樣性宣言
-author: false
-contributor: false
+
+
 date: 2022-09-17
 ---
 # 世界文化多樣性宣言

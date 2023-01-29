@@ -16,3 +16,5 @@
 <h2 id="殷墟" tabindex="-1"><a class="header-anchor" href="#殷墟" aria-hidden="true">#</a> 殷墟</h2>
 <p>另見「<RouterLink to="/yinxu/report.html">殷墟</RouterLink>」。</p>
 </div></template>
+
+

@@ -1,8 +1,8 @@
 ---
-lang: zh-TW
+
 title: 禁止出國（境）展覽文物目錄
-author: false
-contributor: false
+
+
 date: 2022-09-15
 ---
 <style>

@@ -1,8 +1,8 @@
 ---
-lang: zh-TW
+
 title: 文化遺產闡釋與展示憲章
-author: false
-contributor: false
+
+
 date: 2022-09-17
 ---
 # 文化遺產闡釋與展示憲章

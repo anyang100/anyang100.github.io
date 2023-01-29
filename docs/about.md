@@ -1,8 +1,6 @@
 ---
-lang: zh-TW
 title: 關於
-author: false
-contributor: false
 date: 2022-01-22
 ---
 # 關於
+1928年10月13日，董作賓領隊在安陽小屯的田野挖下第一鏟，拉開了殷墟考古的序幕。

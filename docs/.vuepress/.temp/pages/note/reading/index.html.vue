@@ -4,3 +4,5 @@
 <li>Binford, L. R. (1983). <em><RouterLink to="/note/reading/in-pursuit-of-the-past-deconding-the-archaeological-record.html">In Pursuit of The Past: Decoding The Archaeological Record</RouterLink></em>. Thames and Hudson.</li>
 </ol>
 </div></template>
+
+

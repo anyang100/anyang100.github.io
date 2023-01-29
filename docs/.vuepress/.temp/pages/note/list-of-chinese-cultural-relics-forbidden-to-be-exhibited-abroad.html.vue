@@ -1475,6 +1475,8 @@
 </table>
 </div></template>
 
+
+
 <style>
 table th:first-of-type {
     width: 10%;

@@ -65,3 +65,5 @@
 <li>Recognizing that intergenerational and transcultural transmission plays an important role in the sustained dissemination and the preservation of the spirit of place, we recommend the association and involvement of younger generations, as well as different cultural groups associated with the site, in policy-making and the management of the spirit of place.</li>
 </ol>
 </div></template>
+
+

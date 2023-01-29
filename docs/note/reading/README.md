@@ -1,8 +1,8 @@
 ---
-lang: zh-TW
+
 title: 閱讀筆記
-author: false
-contributor: false
+
+
 date: 2022-10-10
 ---
 # 閱讀筆記

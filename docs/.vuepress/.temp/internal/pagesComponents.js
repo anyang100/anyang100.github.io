@@ -7,26 +7,26 @@ export const pagesComponents = {
   "v-22a39d25": defineAsyncComponent(() => import(/* webpackChunkName: "v-22a39d25" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/about.html.vue")),
   // path: /news.html
   "v-0daed70d": defineAsyncComponent(() => import(/* webpackChunkName: "v-0daed70d" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/news.html.vue")),
-  // path: /archaeology/
-  "v-0ed39efe": defineAsyncComponent(() => import(/* webpackChunkName: "v-0ed39efe" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/archaeology/index.html.vue")),
-  // path: /archaeology/report.html
-  "v-97947b32": defineAsyncComponent(() => import(/* webpackChunkName: "v-97947b32" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/archaeology/report.html.vue")),
+  // path: /reference.html
+  "v-76e2b8b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-76e2b8b2" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/reference.html.vue")),
+  // path: /gao-ling/
+  "v-45101328": defineAsyncComponent(() => import(/* webpackChunkName: "v-45101328" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/index.html.vue")),
+  // path: /gao-ling/article.html
+  "v-10ccb4cb": defineAsyncComponent(() => import(/* webpackChunkName: "v-10ccb4cb" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/article.html.vue")),
+  // path: /gao-ling/report.html
+  "v-428deffd": defineAsyncComponent(() => import(/* webpackChunkName: "v-428deffd" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/report.html.vue")),
   // path: /huanbei-shang-city/
   "v-395ce022": defineAsyncComponent(() => import(/* webpackChunkName: "v-395ce022" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/index.html.vue")),
   // path: /huanbei-shang-city/report.html
   "v-0bf5ba7a": defineAsyncComponent(() => import(/* webpackChunkName: "v-0bf5ba7a" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/report.html.vue")),
-  // path: /oracle/
-  "v-21e72558": defineAsyncComponent(() => import(/* webpackChunkName: "v-21e72558" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/index.html.vue")),
-  // path: /oracle/article.html
-  "v-5229fefb": defineAsyncComponent(() => import(/* webpackChunkName: "v-5229fefb" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/article.html.vue")),
-  // path: /oracle/catalogue.html
-  "v-7b8cb968": defineAsyncComponent(() => import(/* webpackChunkName: "v-7b8cb968" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/catalogue.html.vue")),
-  // path: /oracle/database.html
-  "v-645da434": defineAsyncComponent(() => import(/* webpackChunkName: "v-645da434" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/database.html.vue")),
   // path: /note/
   "v-15054f24": defineAsyncComponent(() => import(/* webpackChunkName: "v-15054f24" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/index.html.vue")),
+  // path: /note/archaeological-scene-reconstruction-with-agisoft-metashape.html
+  "v-48ac3c11": defineAsyncComponent(() => import(/* webpackChunkName: "v-48ac3c11" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/archaeological-scene-reconstruction-with-agisoft-metashape.html.vue")),
   // path: /note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html
   "v-488fcf2a": defineAsyncComponent(() => import(/* webpackChunkName: "v-488fcf2a" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html.vue")),
+  // path: /note/metashape-to-arcgis.html
+  "v-78573ffd": defineAsyncComponent(() => import(/* webpackChunkName: "v-78573ffd" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/metashape-to-arcgis.html.vue")),
   // path: /note/terrin-model-in-gis.html
   "v-9d2b35ce": defineAsyncComponent(() => import(/* webpackChunkName: "v-9d2b35ce" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/terrin-model-in-gis.html.vue")),
   // path: /yearbook/new-archaeological-discovery.html
@@ -39,12 +39,14 @@ export const pagesComponents = {
   "v-a675cf86": defineAsyncComponent(() => import(/* webpackChunkName: "v-a675cf86" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/catalogue.html.vue")),
   // path: /yinxu/report.html
   "v-152db918": defineAsyncComponent(() => import(/* webpackChunkName: "v-152db918" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/report.html.vue")),
-  // path: /gao-ling/
-  "v-45101328": defineAsyncComponent(() => import(/* webpackChunkName: "v-45101328" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/index.html.vue")),
-  // path: /gao-ling/article.html
-  "v-10ccb4cb": defineAsyncComponent(() => import(/* webpackChunkName: "v-10ccb4cb" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/article.html.vue")),
-  // path: /gao-ling/report.html
-  "v-428deffd": defineAsyncComponent(() => import(/* webpackChunkName: "v-428deffd" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/report.html.vue")),
+  // path: /oracle/
+  "v-21e72558": defineAsyncComponent(() => import(/* webpackChunkName: "v-21e72558" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/index.html.vue")),
+  // path: /oracle/article.html
+  "v-5229fefb": defineAsyncComponent(() => import(/* webpackChunkName: "v-5229fefb" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/article.html.vue")),
+  // path: /oracle/catalogue.html
+  "v-7b8cb968": defineAsyncComponent(() => import(/* webpackChunkName: "v-7b8cb968" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/catalogue.html.vue")),
+  // path: /oracle/database.html
+  "v-645da434": defineAsyncComponent(() => import(/* webpackChunkName: "v-645da434" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/database.html.vue")),
   // path: /note/convention/1904-the-preservation-and-restoration-of-architectural-mounments.html
   "v-1b6f581c": defineAsyncComponent(() => import(/* webpackChunkName: "v-1b6f581c" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/convention/1904-the-preservation-and-restoration-of-architectural-mounments.html.vue")),
   // path: /note/convention/1931-the-athens-charter-for-the-restoration-of-historic-monuments.html
@@ -71,30 +73,18 @@ export const pagesComponents = {
   "v-b50eb58c": defineAsyncComponent(() => import(/* webpackChunkName: "v-b50eb58c" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/convention/index.html.vue")),
   // path: /note/convention/icom-statues.html
   "v-9807f336": defineAsyncComponent(() => import(/* webpackChunkName: "v-9807f336" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/convention/icom-statues.html.vue")),
+  // path: /note/quotation/
+  "v-1cd8ce47": defineAsyncComponent(() => import(/* webpackChunkName: "v-1cd8ce47" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/quotation/index.html.vue")),
+  // path: /note/quotation/ancient-building-adobe.html
+  "v-47261072": defineAsyncComponent(() => import(/* webpackChunkName: "v-47261072" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/quotation/ancient-building-adobe.html.vue")),
   // path: /note/reading/
   "v-0439ee47": defineAsyncComponent(() => import(/* webpackChunkName: "v-0439ee47" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/reading/index.html.vue")),
   // path: /note/reading/in-pursuit-of-the-past-deconding-the-archaeological-record.html
   "v-cf5f7b14": defineAsyncComponent(() => import(/* webpackChunkName: "v-cf5f7b14" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/reading/in-pursuit-of-the-past-deconding-the-archaeological-record.html.vue")),
   // path: /note/reading/reading-the-past-current-approaches-to-interpretation-in-archaeology.html
   "v-0a248f58": defineAsyncComponent(() => import(/* webpackChunkName: "v-0a248f58" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/reading/reading-the-past-current-approaches-to-interpretation-in-archaeology.html.vue")),
-  // path: /note/quotation/
-  "v-1cd8ce47": defineAsyncComponent(() => import(/* webpackChunkName: "v-1cd8ce47" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/quotation/index.html.vue")),
-  // path: /note/quotation/ancient-building-adobe.html
-  "v-47261072": defineAsyncComponent(() => import(/* webpackChunkName: "v-47261072" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/quotation/ancient-building-adobe.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/404.html.vue")),
-  // path: /category/
-  "v-5bc93818": defineAsyncComponent(() => import(/* webpackChunkName: "v-5bc93818" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/category/index.html.vue")),
-  // path: /tag/
-  "v-744d024e": defineAsyncComponent(() => import(/* webpackChunkName: "v-744d024e" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/tag/index.html.vue")),
-  // path: /article/
-  "v-e52c881c": defineAsyncComponent(() => import(/* webpackChunkName: "v-e52c881c" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/article/index.html.vue")),
-  // path: /encrypted/
-  "v-75ed4ea4": defineAsyncComponent(() => import(/* webpackChunkName: "v-75ed4ea4" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/encrypted/index.html.vue")),
-  // path: /slide/
-  "v-d804e652": defineAsyncComponent(() => import(/* webpackChunkName: "v-d804e652" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/slide/index.html.vue")),
-  // path: /star/
-  "v-154dc4c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-154dc4c4" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/star/index.html.vue")),
-  // path: /timeline/
-  "v-01560935": defineAsyncComponent(() => import(/* webpackChunkName: "v-01560935" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/timeline/index.html.vue")),
+  // path: /yearbook/
+  "v-3bfce520": defineAsyncComponent(() => import(/* webpackChunkName: "v-3bfce520" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yearbook/index.html.vue")),
 }

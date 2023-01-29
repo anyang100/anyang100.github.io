@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-21014592","path":"/docs/yinxu/article.html","title":"\u8AD6\u6587","lang":"zh-TW","frontmatter":{"lang":"zh-TW","title":"\u8AD6\u6587","author":"NG, Kinchung","contributor":false,"date":"2022-01-22T00:00:00.000Z"},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"docs/yinxu/article.md"}');export{t as data};

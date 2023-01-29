@@ -1,8 +1,8 @@
 ---
-lang: zh-TW
+
 title: 筆記
-author: false
-contributor: false
+
+
 ---
 
 # 筆記

@@ -1,8 +1,8 @@
 ---
-lang: zh-TW
+
 title: ICOM Statutes
-author: false
-contributor: false
+
+
 date: 2022-09-17
 description: 博物館
 ---

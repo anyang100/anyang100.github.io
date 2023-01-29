@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-f42f0c40","path":"/docs/huanbei-shang-city/","title":"\u6D39\u5317\u5546\u57CE","lang":"zh-TW","frontmatter":{"lang":"zh-TW","title":"\u6D39\u5317\u5546\u57CE","author":false},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"docs/huanbei-shang-city/README.md"}');export{t as data};

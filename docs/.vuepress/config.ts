@@ -1,13 +1,14 @@
 import { defineUserConfig } from "vuepress";
-import theme from "./theme";
-const { googleAnalyticsPlugin } = require('@vuepress/plugin-google-analytics')
+import { hopeTheme } from "vuepress-theme-hope";
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics';
+import { searchProPlugin } from "vuepress-plugin-search-pro";
 
 export default defineUserConfig({
+  base: "/",
   lang: "zh-TW",
   title: "安陽・一九二八",
-  description: "",
-  base: "/",
-  head: [
+  description: "香港人文與科學研究索引集",
+  head:[
     [
       "script",
       {
@@ -15,12 +16,50 @@ export default defineUserConfig({
         async: true,
         src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
       }
-    ]
+    ],
   ],
   plugins: [
     googleAnalyticsPlugin({
       id: 'G-ST7K7C1TYH',
     }),
+    searchProPlugin({
+      indexContent: true,
+    }),
   ],
-  theme,
+  theme: hopeTheme({
+    hostname: "https://ay1928.github.io",
+    darkmode: "disable",
+    themeColor: false,
+    fullscreen: false,
+    pageInfo: false,
+    contributors: false,
+    lastUpdated: false,
+    footer: "",
+    copyright: "安陽考古學研究索引集",
+    displayFooter: true,
+    author: {
+        name: "NG, Kin-chung",
+        url: "https://ay1928.github.io",
+      },
+    navbar: [
+      {
+        text: "資料庫",
+        link: "/database/",
+      }, 
+      {
+        text: "關於",
+        link: "/about.md",
+      }, 
+    ],
+      plugins: {
+        mdEnhance: {
+                  footnote: true,
+                  imgLazyload: true,
+                  sup: true,
+                  sub: true,
+                  mark: true,
+                  container: true,
+                },
+      },
+  }),
 });

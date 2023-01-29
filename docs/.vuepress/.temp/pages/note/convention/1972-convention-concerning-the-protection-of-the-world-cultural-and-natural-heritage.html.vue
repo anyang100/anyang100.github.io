@@ -458,3 +458,5 @@ which the new revising convention enters into force.</li>
 <p>Done in Paris, this twenty-third day of November 1972, in two authentic copies bearing the signature of the President of the seventeenth session of the General Conference and of the
 Director-General of the United Nations Educational, Scientific and Cultural Organization, which shall be deposited in the archives of the United Nations Educational, Scientific and Cultural Organization, and certified true copies of which shall be delivered to all the States referred to in Articles 31 and 32 as well as to the United Nations.</p>
 </div></template>
+
+
