@@ -1,0 +1,1 @@
+import{_ as t,V as a,W as c,X as e,Y as r}from"./framework-840817b6.js";const s={},o=e("h1",{id:"論文",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#論文","aria-hidden":"true"},"#"),r(" 論文")],-1),n=[o];function _(d,i){return a(),c("div",null,n)}const h=t(s,[["render",_],["__file","article.html.vue"]]);export{h as default};

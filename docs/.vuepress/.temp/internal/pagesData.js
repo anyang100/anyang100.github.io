@@ -17,6 +17,26 @@ export const pagesData = {
   "v-395ce022": () => import(/* webpackChunkName: "v-395ce022" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/index.html.js").then(({ data }) => data),
   // path: /huanbei-shang-city/report.html
   "v-0bf5ba7a": () => import(/* webpackChunkName: "v-0bf5ba7a" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/report.html.js").then(({ data }) => data),
+  // path: /oracle/
+  "v-21e72558": () => import(/* webpackChunkName: "v-21e72558" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/index.html.js").then(({ data }) => data),
+  // path: /oracle/article.html
+  "v-5229fefb": () => import(/* webpackChunkName: "v-5229fefb" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/article.html.js").then(({ data }) => data),
+  // path: /oracle/catalogue.html
+  "v-7b8cb968": () => import(/* webpackChunkName: "v-7b8cb968" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/catalogue.html.js").then(({ data }) => data),
+  // path: /oracle/database.html
+  "v-645da434": () => import(/* webpackChunkName: "v-645da434" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/database.html.js").then(({ data }) => data),
+  // path: /yinxu/
+  "v-c3da2626": () => import(/* webpackChunkName: "v-c3da2626" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/index.html.js").then(({ data }) => data),
+  // path: /yinxu/article.html
+  "v-dbb3e1e0": () => import(/* webpackChunkName: "v-dbb3e1e0" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/article.html.js").then(({ data }) => data),
+  // path: /yinxu/catalogue.html
+  "v-a675cf86": () => import(/* webpackChunkName: "v-a675cf86" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/catalogue.html.js").then(({ data }) => data),
+  // path: /yinxu/report.html
+  "v-152db918": () => import(/* webpackChunkName: "v-152db918" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/report.html.js").then(({ data }) => data),
+  // path: /yearbook/
+  "v-3bfce520": () => import(/* webpackChunkName: "v-3bfce520" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yearbook/index.html.js").then(({ data }) => data),
+  // path: /yearbook/new-archaeological-discovery.html
+  "v-f61d40f6": () => import(/* webpackChunkName: "v-f61d40f6" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yearbook/new-archaeological-discovery.html.js").then(({ data }) => data),
   // path: /note/
   "v-15054f24": () => import(/* webpackChunkName: "v-15054f24" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/index.html.js").then(({ data }) => data),
   // path: /note/archaeological-scene-reconstruction-with-agisoft-metashape.html
@@ -27,24 +47,10 @@ export const pagesData = {
   "v-78573ffd": () => import(/* webpackChunkName: "v-78573ffd" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/metashape-to-arcgis.html.js").then(({ data }) => data),
   // path: /note/terrin-model-in-gis.html
   "v-9d2b35ce": () => import(/* webpackChunkName: "v-9d2b35ce" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/terrin-model-in-gis.html.js").then(({ data }) => data),
-  // path: /yearbook/new-archaeological-discovery.html
-  "v-f61d40f6": () => import(/* webpackChunkName: "v-f61d40f6" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yearbook/new-archaeological-discovery.html.js").then(({ data }) => data),
-  // path: /yinxu/
-  "v-c3da2626": () => import(/* webpackChunkName: "v-c3da2626" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/index.html.js").then(({ data }) => data),
-  // path: /yinxu/article.html
-  "v-dbb3e1e0": () => import(/* webpackChunkName: "v-dbb3e1e0" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/article.html.js").then(({ data }) => data),
-  // path: /yinxu/catalogue.html
-  "v-a675cf86": () => import(/* webpackChunkName: "v-a675cf86" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/catalogue.html.js").then(({ data }) => data),
-  // path: /yinxu/report.html
-  "v-152db918": () => import(/* webpackChunkName: "v-152db918" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/report.html.js").then(({ data }) => data),
-  // path: /oracle/
-  "v-21e72558": () => import(/* webpackChunkName: "v-21e72558" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/index.html.js").then(({ data }) => data),
-  // path: /oracle/article.html
-  "v-5229fefb": () => import(/* webpackChunkName: "v-5229fefb" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/article.html.js").then(({ data }) => data),
-  // path: /oracle/catalogue.html
-  "v-7b8cb968": () => import(/* webpackChunkName: "v-7b8cb968" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/catalogue.html.js").then(({ data }) => data),
-  // path: /oracle/database.html
-  "v-645da434": () => import(/* webpackChunkName: "v-645da434" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/database.html.js").then(({ data }) => data),
+  // path: /note/quotation/
+  "v-1cd8ce47": () => import(/* webpackChunkName: "v-1cd8ce47" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/quotation/index.html.js").then(({ data }) => data),
+  // path: /note/quotation/ancient-building-adobe.html
+  "v-47261072": () => import(/* webpackChunkName: "v-47261072" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/quotation/ancient-building-adobe.html.js").then(({ data }) => data),
   // path: /note/convention/1904-the-preservation-and-restoration-of-architectural-mounments.html
   "v-1b6f581c": () => import(/* webpackChunkName: "v-1b6f581c" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/convention/1904-the-preservation-and-restoration-of-architectural-mounments.html.js").then(({ data }) => data),
   // path: /note/convention/1931-the-athens-charter-for-the-restoration-of-historic-monuments.html
@@ -71,10 +77,6 @@ export const pagesData = {
   "v-b50eb58c": () => import(/* webpackChunkName: "v-b50eb58c" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/convention/index.html.js").then(({ data }) => data),
   // path: /note/convention/icom-statues.html
   "v-9807f336": () => import(/* webpackChunkName: "v-9807f336" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/convention/icom-statues.html.js").then(({ data }) => data),
-  // path: /note/quotation/
-  "v-1cd8ce47": () => import(/* webpackChunkName: "v-1cd8ce47" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/quotation/index.html.js").then(({ data }) => data),
-  // path: /note/quotation/ancient-building-adobe.html
-  "v-47261072": () => import(/* webpackChunkName: "v-47261072" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/quotation/ancient-building-adobe.html.js").then(({ data }) => data),
   // path: /note/reading/
   "v-0439ee47": () => import(/* webpackChunkName: "v-0439ee47" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/reading/index.html.js").then(({ data }) => data),
   // path: /note/reading/in-pursuit-of-the-past-deconding-the-archaeological-record.html
@@ -83,6 +85,4 @@ export const pagesData = {
   "v-0a248f58": () => import(/* webpackChunkName: "v-0a248f58" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/note/reading/reading-the-past-current-approaches-to-interpretation-in-archaeology.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
-  // path: /yearbook/
-  "v-3bfce520": () => import(/* webpackChunkName: "v-3bfce520" */"/Users/ngkinchung/Documents/GitHub/ay1928.github.io/docs/.vuepress/.temp/pages/yearbook/index.html.js").then(({ data }) => data),
 }

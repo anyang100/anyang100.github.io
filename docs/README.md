@@ -9,9 +9,12 @@ features:
   - title: 甲骨
     details: 1898 ~ 
     link: /oracle/
-  - title: 考古
+  - title: 殷墟
     details: 1928 ~ 
-    link: /archaeology
+    link: /yinxu
+  - title: 洹北遺址
+    details:  1962~
+    link: /huanbei-shang-city
   - title: 年鑒
     details: 1984 ~ 
     link: /yearbook/new-archaeological-discovery

@@ -7,7 +7,7 @@ export default defineUserConfig({
   base: "/",
   lang: "zh-TW",
   title: "安陽・一九二八",
-  description: "香港人文與科學研究索引集",
+  description: "安陽考古學研究索引集",
   head:[
     [
       "script",
@@ -42,10 +42,6 @@ export default defineUserConfig({
         url: "https://ay1928.github.io",
       },
     navbar: [
-      {
-        text: "資料庫",
-        link: "/database/",
-      }, 
       {
         text: "關於",
         link: "/about.md",

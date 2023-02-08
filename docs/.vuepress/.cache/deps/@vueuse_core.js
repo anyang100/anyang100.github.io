@@ -27,8 +27,8 @@ import {
   version,
   watch,
   watchEffect
-} from "./chunk-A535AHWC.js";
-import "./chunk-NLVKWF7H.js";
+} from "./chunk-AWA6B2ZS.js";
+import "./chunk-JXWQMH7G.js";
 
 // node_modules/@vueuse/shared/node_modules/vue-demi/lib/index.mjs
 var isVue2 = false;
@@ -212,7 +212,7 @@ function pausableFilter(extendFilter = bypassFilter) {
     if (isActive.value)
       extendFilter(...args);
   };
-  return { isActive, pause, resume, eventFilter };
+  return { isActive: readonly(isActive), pause, resume, eventFilter };
 }
 function __onlyVue3(name = "this function") {
   if (isVue3)
@@ -987,13 +987,14 @@ function useIntervalFn(cb, interval = 1e3, options = {}) {
     clean();
   }
   function resume() {
-    if (unref(interval) <= 0)
+    const intervalValue = resolveUnref(interval);
+    if (intervalValue <= 0)
       return;
     isActive.value = true;
     if (immediateCallback)
       cb();
     clean();
-    timer = setInterval(cb, resolveUnref(interval));
+    timer = setInterval(cb, intervalValue);
   }
   if (immediate && isClient)
     resume();
@@ -1085,7 +1086,7 @@ function useTimeoutFn(cb, interval, options = {}) {
   }
   tryOnScopeDispose(stop);
   return {
-    isPending,
+    isPending: readonly(isPending),
     start,
     stop
   };
@@ -3572,7 +3573,7 @@ function useRafFn(fn, options = {}) {
     resume();
   tryOnScopeDispose(pause);
   return {
-    isActive,
+    isActive: readonly(isActive),
     pause,
     resume
   };
@@ -3610,17 +3611,31 @@ function useElementHover(el) {
   return isHovered;
 }
 function useElementSize(target, initialSize = { width: 0, height: 0 }, options = {}) {
-  const { box = "content-box" } = options;
+  const { window: window2 = defaultWindow, box = "content-box" } = options;
+  const isSVG = computed(() => {
+    var _a2, _b;
+    return (_b = (_a2 = unrefElement(target)) == null ? void 0 : _a2.namespaceURI) == null ? void 0 : _b.includes("svg");
+  });
   const width = ref(initialSize.width);
   const height = ref(initialSize.height);
   useResizeObserver(target, ([entry]) => {
     const boxSize = box === "border-box" ? entry.borderBoxSize : box === "content-box" ? entry.contentBoxSize : entry.devicePixelContentBoxSize;
-    if (boxSize) {
-      width.value = boxSize.reduce((acc, { inlineSize }) => acc + inlineSize, 0);
-      height.value = boxSize.reduce((acc, { blockSize }) => acc + blockSize, 0);
+    if (window2 && isSVG.value) {
+      const $elem = unrefElement(target);
+      if ($elem) {
+        const styles = window2.getComputedStyle($elem);
+        width.value = parseFloat(styles.width);
+        height.value = parseFloat(styles.height);
+      }
     } else {
-      width.value = entry.contentRect.width;
-      height.value = entry.contentRect.height;
+      if (boxSize) {
+        const formatBoxSize = Array.isArray(boxSize) ? boxSize : [boxSize];
+        width.value = formatBoxSize.reduce((acc, { inlineSize }) => acc + inlineSize, 0);
+        height.value = formatBoxSize.reduce((acc, { blockSize }) => acc + blockSize, 0);
+      } else {
+        width.value = entry.contentRect.width;
+        height.value = entry.contentRect.height;
+      }
     }
   }, options);
   watch(() => unrefElement(target), (ele) => {
@@ -5097,7 +5112,10 @@ function useMediaControls(target, options = {}) {
   useEventListener(target, "seeking", () => seeking.value = true);
   useEventListener(target, "seeked", () => seeking.value = false);
   useEventListener(target, "waiting", () => waiting.value = true);
-  useEventListener(target, "playing", () => waiting.value = false);
+  useEventListener(target, "playing", () => {
+    waiting.value = false;
+    ended.value = false;
+  });
   useEventListener(target, "ratechange", () => rate.value = resolveUnref(target).playbackRate);
   useEventListener(target, "stalled", () => stalled.value = true);
   useEventListener(target, "ended", () => ended.value = true);
@@ -5314,6 +5332,9 @@ function useMouseInElement(target, options = {}) {
         elementY.value = elY;
       }
     }, { immediate: true });
+    useEventListener(document, "mouseleave", () => {
+      isOutside.value = true;
+    });
   }
   return {
     x,
@@ -5979,6 +6000,13 @@ function usePreferredReducedMotion(options) {
       return "reduce";
     return "no-preference";
   });
+}
+function usePrevious(value, initialValue) {
+  const previous = shallowRef(initialValue);
+  watch(resolveRef(value), (_, oldValue) => {
+    previous.value = oldValue;
+  }, { flush: "sync" });
+  return readonly(previous);
 }
 var useScreenOrientation = (options = {}) => {
   const {
@@ -7633,7 +7661,7 @@ function useWebSocket(url, options = {}) {
     return true;
   };
   const _init = () => {
-    if (explicitlyClosed)
+    if (explicitlyClosed || typeof urlRef.value === "undefined")
       return;
     const ws = new WebSocket(urlRef.value, protocols);
     wsRef.value = ws;
@@ -8116,6 +8144,7 @@ export {
   usePreferredDark,
   usePreferredLanguages,
   usePreferredReducedMotion,
+  usePrevious,
   useRafFn,
   useRefHistory,
   useResizeObserver,
