@@ -1,1 +1,0 @@
-import{_ as t,V as a,W as n,X as e,Y as s}from"./framework-840817b6.js";const c={},o=e("h1",{id:"筆記",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#筆記","aria-hidden":"true"},"#"),s(" 筆記")],-1),r=e("p",null,"一些備忘。",-1),_=[o,r];function d(i,l){return a(),n("div",null,_)}const f=t(c,[["render",d],["__file","index.html.vue"]]);export{f as default};

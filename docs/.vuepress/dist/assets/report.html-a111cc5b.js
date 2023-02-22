@@ -1,0 +1,1 @@
+import{_ as t,V as r,W as a,X as e,Y as o}from"./framework-2687907e.js";const c={},s=e("h1",{id:"報告",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#報告","aria-hidden":"true"},"#"),o(" 報告")],-1),n=[s];function _(d,i){return r(),a("div",null,n)}const l=t(c,[["render",_],["__file","report.html.vue"]]);export{l as default};
