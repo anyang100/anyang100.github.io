@@ -1,10 +1,6 @@
 ---
-
 title: Agisoft Metashape考古現場三維建模圖解
-
-
 date: 2022-11-20
-catalog: 教程
 ---
 # Agisoft Metashape考古現場三維建模圖解
 > 本文檔使用軟件：[Agisoft Metashape Professional Edition](https://www.agisoft.com/downloads/installer/)

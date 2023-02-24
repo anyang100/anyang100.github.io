@@ -1,5 +1,4 @@
-<template><div><h1 id="報道" tabindex="-1"><a class="header-anchor" href="#報道" aria-hidden="true">#</a> 報道</h1>
-<blockquote>
+<template><div><blockquote>
 <ul>
 <li>報道依日期排序。</li>
 <li>資料來源：

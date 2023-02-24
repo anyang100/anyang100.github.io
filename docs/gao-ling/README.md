@@ -1,9 +1,5 @@
 ---
-
 title: 高陵
-
-contributors: false
+index: false
 date: 2022-09-07
 ---
-
-# 高陵

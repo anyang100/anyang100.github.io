@@ -1,7 +1,5 @@
 ---
-
 title: 甲骨文
-
-contributors: false
+index: false
 date: 2022-01-22
 ---

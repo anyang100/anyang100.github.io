@@ -1,8 +1,5 @@
 ---
-
 title: 數據庫
-
-contributors: false
 date: 2022-09-07
 ---
 # 數據庫

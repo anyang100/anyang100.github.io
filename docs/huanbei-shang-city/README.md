@@ -1,7 +1,5 @@
 ---
-
 title: 洹北商城
-
-contributors: false
+index: false
 date: 2022-01-22
 ---

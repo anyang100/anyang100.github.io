@@ -1,8 +1,4 @@
 ---
-
-title: 報告
-
-contributors: false
+title: 考古報告
 date: 2022-09-07
 ---
-# 報告

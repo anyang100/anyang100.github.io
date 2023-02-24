@@ -1,5 +1,4 @@
-<template><div><h1 id="圖錄" tabindex="-1"><a class="header-anchor" href="#圖錄" aria-hidden="true">#</a> 圖錄</h1>
-<ol>
+<template><div><ol>
 <li>羅振玉輯：《殷墟古物圖錄》，民國五年印。</li>
 <li>中國社會科學院考古研究所編著：《殷墟玉器》，北京：文物出版社，1982年。</li>
 <li>中國社會科學院考古研究所編著：《殷墟青銅器》，北京：文物出版社，1985年。</li>
