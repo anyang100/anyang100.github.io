@@ -6,7 +6,6 @@ import Badge from "E:/Github/ay1928.github.io/node_modules/vuepress-plugin-compo
 import FontIcon from "E:/Github/ay1928.github.io/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
 import BackToTop from "E:/Github/ay1928.github.io/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
 
-
 import "E:/Github/ay1928.github.io/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
 
 export default defineClientConfig({
@@ -16,10 +15,9 @@ export default defineClientConfig({
     
   },
   setup: () => {
-    
+
   },
   rootComponents: [
     () => h(BackToTop, { threshold: 300 }),
-    
   ],
 });

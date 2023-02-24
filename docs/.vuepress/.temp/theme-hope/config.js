@@ -11,6 +11,7 @@ import { setupSidebarItems } from "@theme-hope/modules/sidebar/composables/index
 import "E:/Github/ay1928.github.io/node_modules/vuepress-theme-hope/lib/client/styles/index.scss";
 
 
+
 export default defineClientConfig({
   enhance: ({ app, router }) => {
     const { scrollBehavior } = router.options;
@@ -27,15 +28,16 @@ export default defineClientConfig({
     // render icon for auto-catalog
     app.component("HopeIcon", HopeIcon);
 
-    
+
   },
   setup: () => {
     setupDarkmode();
     setupSidebarItems();
-    
+
   },
   layouts: {
     Layout,
     NotFound,
-      }
+
+  }
 });
