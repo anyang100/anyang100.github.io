@@ -47,6 +47,10 @@ export const pagesData = {
   "v-c3da2626": () => import(/* webpackChunkName: "v-c3da2626" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/index.html.js").then(({ data }) => data),
   // path: /yinxu/report.html
   "v-152db918": () => import(/* webpackChunkName: "v-152db918" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/report.html.js").then(({ data }) => data),
+  // path: /note/quotation/ancient-building-adobe.html
+  "v-47261072": () => import(/* webpackChunkName: "v-47261072" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/quotation/ancient-building-adobe.html.js").then(({ data }) => data),
+  // path: /note/quotation/
+  "v-1cd8ce47": () => import(/* webpackChunkName: "v-1cd8ce47" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/quotation/index.html.js").then(({ data }) => data),
   // path: /note/convention/1904-the-preservation-and-restoration-of-architectural-mounments.html
   "v-1b6f581c": () => import(/* webpackChunkName: "v-1b6f581c" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/convention/1904-the-preservation-and-restoration-of-architectural-mounments.html.js").then(({ data }) => data),
   // path: /note/convention/1931-the-athens-charter-for-the-restoration-of-historic-monuments.html
@@ -73,10 +77,6 @@ export const pagesData = {
   "v-9807f336": () => import(/* webpackChunkName: "v-9807f336" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/convention/icom-statues.html.js").then(({ data }) => data),
   // path: /note/convention/
   "v-b50eb58c": () => import(/* webpackChunkName: "v-b50eb58c" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/convention/index.html.js").then(({ data }) => data),
-  // path: /note/quotation/ancient-building-adobe.html
-  "v-47261072": () => import(/* webpackChunkName: "v-47261072" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/quotation/ancient-building-adobe.html.js").then(({ data }) => data),
-  // path: /note/quotation/
-  "v-1cd8ce47": () => import(/* webpackChunkName: "v-1cd8ce47" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/quotation/index.html.js").then(({ data }) => data),
   // path: /note/reading/in-pursuit-of-the-past-deconding-the-archaeological-record.html
   "v-cf5f7b14": () => import(/* webpackChunkName: "v-cf5f7b14" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/reading/in-pursuit-of-the-past-deconding-the-archaeological-record.html.js").then(({ data }) => data),
   // path: /note/reading/reading-the-past-current-approaches-to-interpretation-in-archaeology.html

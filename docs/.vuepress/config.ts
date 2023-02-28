@@ -45,6 +45,10 @@ export default defineUserConfig({
       {
         text: "關於",
         link: "/about.md",
+      },
+      {
+        text: "追跡香江",
+        link: "https://pasthk.github.io/",
       }, 
     ],
       plugins: {
