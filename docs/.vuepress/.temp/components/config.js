@@ -1,12 +1,12 @@
 import { defineClientConfig } from "@vuepress/client";
-import { hasGlobalComponent } from "E:/Github/ay1928.github.io/node_modules/vuepress-plugin-components/lib/client/shared.js";
+import { hasGlobalComponent } from "E:/Github/ay1928.github.io/node_modules/vuepress-theme-hope/node_modules/vuepress-plugin-components/lib/client/shared.js";
 import { h } from "vue";
 
-import Badge from "E:/Github/ay1928.github.io/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
-import FontIcon from "E:/Github/ay1928.github.io/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
-import BackToTop from "E:/Github/ay1928.github.io/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
+import Badge from "E:/Github/ay1928.github.io/node_modules/vuepress-theme-hope/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
+import FontIcon from "E:/Github/ay1928.github.io/node_modules/vuepress-theme-hope/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
+import BackToTop from "E:/Github/ay1928.github.io/node_modules/vuepress-theme-hope/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
 
-import "E:/Github/ay1928.github.io/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
+import "E:/Github/ay1928.github.io/node_modules/vuepress-theme-hope/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
 
 export default defineClientConfig({
   enhance: ({ app }) => {

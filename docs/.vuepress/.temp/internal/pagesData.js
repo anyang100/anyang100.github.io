@@ -19,14 +19,14 @@ export const pagesData = {
   "v-0bf5ba7a": () => import(/* webpackChunkName: "v-0bf5ba7a" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/report.html.js").then(({ data }) => data),
   // path: /note/archaeological-scene-reconstruction-with-agisoft-metashape.html
   "v-48ac3c11": () => import(/* webpackChunkName: "v-48ac3c11" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/archaeological-scene-reconstruction-with-agisoft-metashape.html.js").then(({ data }) => data),
+  // path: /note/lidar-in-arcgis.html
+  "v-4e224deb": () => import(/* webpackChunkName: "v-4e224deb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/lidar-in-arcgis.html.js").then(({ data }) => data),
   // path: /note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html
   "v-488fcf2a": () => import(/* webpackChunkName: "v-488fcf2a" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html.js").then(({ data }) => data),
   // path: /note/metashape-to-arcgis.html
   "v-78573ffd": () => import(/* webpackChunkName: "v-78573ffd" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/metashape-to-arcgis.html.js").then(({ data }) => data),
   // path: /note/
   "v-15054f24": () => import(/* webpackChunkName: "v-15054f24" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/index.html.js").then(({ data }) => data),
-  // path: /note/terrin-model-in-gis.html
-  "v-9d2b35ce": () => import(/* webpackChunkName: "v-9d2b35ce" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/terrin-model-in-gis.html.js").then(({ data }) => data),
   // path: /oracle/article.html
   "v-5229fefb": () => import(/* webpackChunkName: "v-5229fefb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/article.html.js").then(({ data }) => data),
   // path: /oracle/catalogue.html
@@ -47,10 +47,6 @@ export const pagesData = {
   "v-c3da2626": () => import(/* webpackChunkName: "v-c3da2626" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/index.html.js").then(({ data }) => data),
   // path: /yinxu/report.html
   "v-152db918": () => import(/* webpackChunkName: "v-152db918" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/report.html.js").then(({ data }) => data),
-  // path: /note/quotation/ancient-building-adobe.html
-  "v-47261072": () => import(/* webpackChunkName: "v-47261072" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/quotation/ancient-building-adobe.html.js").then(({ data }) => data),
-  // path: /note/quotation/
-  "v-1cd8ce47": () => import(/* webpackChunkName: "v-1cd8ce47" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/quotation/index.html.js").then(({ data }) => data),
   // path: /note/convention/1904-the-preservation-and-restoration-of-architectural-mounments.html
   "v-1b6f581c": () => import(/* webpackChunkName: "v-1b6f581c" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/convention/1904-the-preservation-and-restoration-of-architectural-mounments.html.js").then(({ data }) => data),
   // path: /note/convention/1931-the-athens-charter-for-the-restoration-of-historic-monuments.html
@@ -77,6 +73,10 @@ export const pagesData = {
   "v-9807f336": () => import(/* webpackChunkName: "v-9807f336" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/convention/icom-statues.html.js").then(({ data }) => data),
   // path: /note/convention/
   "v-b50eb58c": () => import(/* webpackChunkName: "v-b50eb58c" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/convention/index.html.js").then(({ data }) => data),
+  // path: /note/quotation/ancient-building-adobe.html
+  "v-47261072": () => import(/* webpackChunkName: "v-47261072" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/quotation/ancient-building-adobe.html.js").then(({ data }) => data),
+  // path: /note/quotation/
+  "v-1cd8ce47": () => import(/* webpackChunkName: "v-1cd8ce47" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/quotation/index.html.js").then(({ data }) => data),
   // path: /note/reading/in-pursuit-of-the-past-deconding-the-archaeological-record.html
   "v-cf5f7b14": () => import(/* webpackChunkName: "v-cf5f7b14" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/reading/in-pursuit-of-the-past-deconding-the-archaeological-record.html.js").then(({ data }) => data),
   // path: /note/reading/reading-the-past-current-approaches-to-interpretation-in-archaeology.html

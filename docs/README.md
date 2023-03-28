@@ -8,19 +8,16 @@ index: false
 features: 
   - title: 甲骨
     details: 1898 ~ 
-    link: /oracle/
+    link: /oracle/catalogue.html
   - title: 殷墟
     details: 1928 ~ 
-    link: /yinxu
+    link: /yinxu/report.html
   - title: 洹北遺址
     details:  1962~
-    link: /huanbei-shang-city
-  - title: 年鑒
-    details: 1984 ~ 
-    link: /yearbook/new-archaeological-discovery
-  - title: 報道
-    details: 1928 ~ 
-    link: /news
+    link: /huanbei-shang-city/report.html
+  - title: 高陵
+    details:  
+    link: /gao-ling/report.html
 actions: false
 copyright: true
 footer: false

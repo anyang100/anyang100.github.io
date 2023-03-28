@@ -34,6 +34,7 @@ export default defineUserConfig({
     pageInfo: false,
     contributors: false,
     lastUpdated: false,
+    favicon: "/favicon.ico",
     footer: "",
     copyright: "安陽考古學研究索引集",
     displayFooter: true,
@@ -43,12 +44,16 @@ export default defineUserConfig({
       },
     navbar: [
       {
+        text: "報道",
+        link: "/news.md",
+      },
+      {
         text: "關於",
         link: "/about.md",
       },
       {
         text: "追跡香江",
-        link: "https://pasthk.github.io/",
+        link: "https://www.pasthk.com/",
       }, 
     ],
       plugins: {
