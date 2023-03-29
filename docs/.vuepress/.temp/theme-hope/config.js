@@ -1,10 +1,10 @@
 import { defineClientConfig } from "@vuepress/client";
 
-import { HopeIcon, Layout, NotFound, useScrollPromise, injectDarkmode, setupDarkmode, setupSidebarItems } from "E:/Github/ay1928.github.io/node_modules/vuepress-theme-hope/lib/client/export.js";
+import { HopeIcon, Layout, NotFound, useScrollPromise, injectDarkmode, setupDarkmode, setupSidebarItems } from "/Users/ngkinchung/Documents/GitHub/ay1928.github.io/node_modules/vuepress-theme-hope/lib/client/export.js";
 
 
 
-import "E:/Github/ay1928.github.io/node_modules/vuepress-theme-hope/lib/client/styles/index.scss";
+import "/Users/ngkinchung/Documents/GitHub/ay1928.github.io/node_modules/vuepress-theme-hope/lib/client/styles/index.scss";
 
 export default defineClientConfig({
   enhance: ({ app, router }) => {
