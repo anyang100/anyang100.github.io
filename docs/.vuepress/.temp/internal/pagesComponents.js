@@ -9,6 +9,8 @@ export const pagesComponents = {
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/index.html.vue")),
   // path: /reference.html
   "v-76e2b8b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-76e2b8b2" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/reference.html.vue")),
+  // path: /huanbei-shang-city/article.html
+  "v-483bdac5": defineAsyncComponent(() => import(/* webpackChunkName: "v-483bdac5" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/article.html.vue")),
   // path: /huanbei-shang-city/
   "v-395ce022": defineAsyncComponent(() => import(/* webpackChunkName: "v-395ce022" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/index.html.vue")),
   // path: /huanbei-shang-city/report.html
