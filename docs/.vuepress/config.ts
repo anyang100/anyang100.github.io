@@ -44,6 +44,10 @@ export default defineUserConfig({
       },
     navbar: [
       {
+        text: "文獻",
+        link: "/reference.md",
+      },
+      {
         text: "報道",
         link: "/news.md",
       },

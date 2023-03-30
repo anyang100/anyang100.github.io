@@ -16,7 +16,7 @@ features:
     details:  1962~
     link: /huanbei-shang-city/report.html
   - title: 高陵
-    details:  
+    details:  2009~
     link: /gao-ling/report.html
 actions: false
 copyright: true
