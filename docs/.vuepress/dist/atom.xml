@@ -4,7 +4,7 @@
   <title>安陽・一九二八</title>
   <subtitle>安陽考古學研究索引集</subtitle>
   <icon>https://ay1928.github.io/favicon.ico</icon>
-  <updated>2023-04-10T03:36:04.338Z</updated>
+  <updated>2023-04-10T03:40:06.246Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://ay1928.github.io/atom.xml"/>
   <link rel="alternate" href="https://ay1928.github.io/"/>
@@ -1786,7 +1786,7 @@ use thereof.</p>
     <title type="text">文章</title>
     <id>https://ay1928.github.io/huanbei-shang-city/article.html</id>
     <link href="https://ay1928.github.io/huanbei-shang-city/article.html"/>
-    <updated>2023-03-29T05:28:43.000Z</updated>
+    <updated>2023-04-10T03:36:22.000Z</updated>
     <summary type="html"><![CDATA[<ol>
 <li>唐際根：〈從百年甲骨到新發現的商城——安陽洹北商城發現記〉，《文物天地》2000年第4期，第7-12頁。</li>
 <li>李建武：〈安陽洹北商城的發現及意義〉，載何一民、王毅、蔣成主編：《中國古都研究（第十九輯）——中國古都學會2002年年會暨長江上游城市文明起源學術研討會論文集》，成都：四川大學出版社，2004年，第386頁。</li>
@@ -1933,7 +1933,7 @@ use thereof.</p>
     <title type="text">關於</title>
     <id>https://ay1928.github.io/about.html</id>
     <link href="https://ay1928.github.io/about.html"/>
-    <updated>2023-03-28T13:06:54.000Z</updated>
+    <updated>2023-04-10T03:36:22.000Z</updated>
     <summary type="html"><![CDATA[<p>這是一個興趣使然的課餘項目，意在搜集和整理河南安陽考古學研究的文獻，並製作成資料索引集，予芸芸學子使用。</p>
 <p>中文文獻格式參考《考古學報》，這裡的論文使用篇名號〈〉，期刊使用書名號《》。英文文獻統一使用APA格式。</p>
 <p>資料主要來源（排名不分先後）：</p>
@@ -4868,53 +4868,6 @@ Richard Klein，鬣狗窩</p>
     <published>2022-09-17T00:00:00.000Z</published>
   </entry>
   <entry>
-    <title type="text">洹北商城</title>
-    <id>https://ay1928.github.io/huanbei-shang-city/</id>
-    <link href="https://ay1928.github.io/huanbei-shang-city/"/>
-    <updated>2023-03-30T10:33:40.000Z</updated>
-    <summary type="html"><![CDATA[<ul>
-<li><a href="/huanbei-shang-city/report.html" target="blank">報告</a></li>
-<li><a href="/huanbei-shang-city/article.html" target="blank">文章</a></li>
-</ul>
-]]></summary>
-    <content type="html"><![CDATA[<ul>
-<li><a href="/huanbei-shang-city/report.html" target="blank">報告</a></li>
-<li><a href="/huanbei-shang-city/article.html" target="blank">文章</a></li>
-</ul>
-]]></content>
-    <published>2022-01-22T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">報告</title>
-    <id>https://ay1928.github.io/huanbei-shang-city/report.html</id>
-    <link href="https://ay1928.github.io/huanbei-shang-city/report.html"/>
-    <updated>2023-03-29T03:22:22.000Z</updated>
-    <summary type="html"><![CDATA[<ol>
-<li>中國社會科學院考古研究所安陽工作隊：〈安陽殷墟三家莊東的發掘〉，《考古》1983年第2期，第126-132頁。</li>
-<li>孟憲武：〈安陽三家莊發現商代窖藏青銅器〉，《考古》1985年第12期，第1135+1139-1140頁。</li>
-<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北花園莊遺址1997年發掘簡報〉，《考古》1998年第10期，第23-35頁。</li>
-<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北商城宮殿區1號基址發掘簡報〉，《考古》2003年第5期，第17-23頁。</li>
-<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北商城的勘察與試掘〉，《考古》2003年第5期，第3-16頁。</li>
-<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北商城宮殿區2號基址發掘簡報〉，《考古》2010年第1期，第10-22頁。</li>
-<li>中國社會科學院考古研究所安陽工作隊、中加洹河流域區域考古調查課題組：〈河南安陽市洹北商城遺址2005-2007年勘察簡報〉，《考古》2010年第1期，第3-8頁。</li>
-<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北商城鑄銅作坊遺址2015-2019年發掘簡報〉，《考古》2020年第10期，第3-29頁。</li>
-<li>河南省文物考古研究院、安陽市文物考古研究所：〈安陽陶家營遺址M12發掘簡報〉，《江漢考古》2022年第4期，第16-29頁。</li>
-</ol>]]></summary>
-    <content type="html"><![CDATA[<ol>
-<li>中國社會科學院考古研究所安陽工作隊：〈安陽殷墟三家莊東的發掘〉，《考古》1983年第2期，第126-132頁。</li>
-<li>孟憲武：〈安陽三家莊發現商代窖藏青銅器〉，《考古》1985年第12期，第1135+1139-1140頁。</li>
-<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北花園莊遺址1997年發掘簡報〉，《考古》1998年第10期，第23-35頁。</li>
-<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北商城宮殿區1號基址發掘簡報〉，《考古》2003年第5期，第17-23頁。</li>
-<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北商城的勘察與試掘〉，《考古》2003年第5期，第3-16頁。</li>
-<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北商城宮殿區2號基址發掘簡報〉，《考古》2010年第1期，第10-22頁。</li>
-<li>中國社會科學院考古研究所安陽工作隊、中加洹河流域區域考古調查課題組：〈河南安陽市洹北商城遺址2005-2007年勘察簡報〉，《考古》2010年第1期，第3-8頁。</li>
-<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北商城鑄銅作坊遺址2015-2019年發掘簡報〉，《考古》2020年第10期，第3-29頁。</li>
-<li>河南省文物考古研究院、安陽市文物考古研究所：〈安陽陶家營遺址M12發掘簡報〉，《江漢考古》2022年第4期，第16-29頁。</li>
-</ol>
-]]></content>
-    <published>2022-01-22T00:00:00.000Z</published>
-  </entry>
-  <entry>
     <title type="text">文章</title>
     <id>https://ay1928.github.io/oracle/article.html</id>
     <link href="https://ay1928.github.io/oracle/article.html"/>
@@ -4962,6 +4915,53 @@ Richard Klein，鬣狗窩</p>
 <li><a href="/oracle/article.html" target="blank">文章</a></li>
 <li><a href="/oracle/database.html" target="blank">資料庫</a></li>
 </ul>
+]]></content>
+    <published>2022-01-22T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">洹北商城</title>
+    <id>https://ay1928.github.io/huanbei-shang-city/</id>
+    <link href="https://ay1928.github.io/huanbei-shang-city/"/>
+    <updated>2023-03-30T10:33:40.000Z</updated>
+    <summary type="html"><![CDATA[<ul>
+<li><a href="/huanbei-shang-city/report.html" target="blank">報告</a></li>
+<li><a href="/huanbei-shang-city/article.html" target="blank">文章</a></li>
+</ul>
+]]></summary>
+    <content type="html"><![CDATA[<ul>
+<li><a href="/huanbei-shang-city/report.html" target="blank">報告</a></li>
+<li><a href="/huanbei-shang-city/article.html" target="blank">文章</a></li>
+</ul>
+]]></content>
+    <published>2022-01-22T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">報告</title>
+    <id>https://ay1928.github.io/huanbei-shang-city/report.html</id>
+    <link href="https://ay1928.github.io/huanbei-shang-city/report.html"/>
+    <updated>2023-03-29T03:22:22.000Z</updated>
+    <summary type="html"><![CDATA[<ol>
+<li>中國社會科學院考古研究所安陽工作隊：〈安陽殷墟三家莊東的發掘〉，《考古》1983年第2期，第126-132頁。</li>
+<li>孟憲武：〈安陽三家莊發現商代窖藏青銅器〉，《考古》1985年第12期，第1135+1139-1140頁。</li>
+<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北花園莊遺址1997年發掘簡報〉，《考古》1998年第10期，第23-35頁。</li>
+<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北商城宮殿區1號基址發掘簡報〉，《考古》2003年第5期，第17-23頁。</li>
+<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北商城的勘察與試掘〉，《考古》2003年第5期，第3-16頁。</li>
+<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北商城宮殿區2號基址發掘簡報〉，《考古》2010年第1期，第10-22頁。</li>
+<li>中國社會科學院考古研究所安陽工作隊、中加洹河流域區域考古調查課題組：〈河南安陽市洹北商城遺址2005-2007年勘察簡報〉，《考古》2010年第1期，第3-8頁。</li>
+<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北商城鑄銅作坊遺址2015-2019年發掘簡報〉，《考古》2020年第10期，第3-29頁。</li>
+<li>河南省文物考古研究院、安陽市文物考古研究所：〈安陽陶家營遺址M12發掘簡報〉，《江漢考古》2022年第4期，第16-29頁。</li>
+</ol>]]></summary>
+    <content type="html"><![CDATA[<ol>
+<li>中國社會科學院考古研究所安陽工作隊：〈安陽殷墟三家莊東的發掘〉，《考古》1983年第2期，第126-132頁。</li>
+<li>孟憲武：〈安陽三家莊發現商代窖藏青銅器〉，《考古》1985年第12期，第1135+1139-1140頁。</li>
+<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北花園莊遺址1997年發掘簡報〉，《考古》1998年第10期，第23-35頁。</li>
+<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北商城宮殿區1號基址發掘簡報〉，《考古》2003年第5期，第17-23頁。</li>
+<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北商城的勘察與試掘〉，《考古》2003年第5期，第3-16頁。</li>
+<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北商城宮殿區2號基址發掘簡報〉，《考古》2010年第1期，第10-22頁。</li>
+<li>中國社會科學院考古研究所安陽工作隊、中加洹河流域區域考古調查課題組：〈河南安陽市洹北商城遺址2005-2007年勘察簡報〉，《考古》2010年第1期，第3-8頁。</li>
+<li>中國社會科學院考古研究所安陽工作隊：〈河南安陽市洹北商城鑄銅作坊遺址2015-2019年發掘簡報〉，《考古》2020年第10期，第3-29頁。</li>
+<li>河南省文物考古研究院、安陽市文物考古研究所：〈安陽陶家營遺址M12發掘簡報〉，《江漢考古》2022年第4期，第16-29頁。</li>
+</ol>
 ]]></content>
     <published>2022-01-22T00:00:00.000Z</published>
   </entry>
