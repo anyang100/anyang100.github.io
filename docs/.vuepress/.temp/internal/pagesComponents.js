@@ -15,6 +15,16 @@ export const pagesComponents = {
   "v-45101328": defineAsyncComponent(() => import(/* webpackChunkName: "v-45101328" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/index.html.vue")),
   // path: /gao-ling/report.html
   "v-428deffd": defineAsyncComponent(() => import(/* webpackChunkName: "v-428deffd" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/report.html.vue")),
+  // path: /note/archaeological-scene-reconstruction-with-agisoft-metashape.html
+  "v-48ac3c11": defineAsyncComponent(() => import(/* webpackChunkName: "v-48ac3c11" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/archaeological-scene-reconstruction-with-agisoft-metashape.html.vue")),
+  // path: /note/lidar-in-arcgis.html
+  "v-4e224deb": defineAsyncComponent(() => import(/* webpackChunkName: "v-4e224deb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/lidar-in-arcgis.html.vue")),
+  // path: /note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html
+  "v-488fcf2a": defineAsyncComponent(() => import(/* webpackChunkName: "v-488fcf2a" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html.vue")),
+  // path: /note/metashape-to-arcgis.html
+  "v-78573ffd": defineAsyncComponent(() => import(/* webpackChunkName: "v-78573ffd" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/metashape-to-arcgis.html.vue")),
+  // path: /note/
+  "v-15054f24": defineAsyncComponent(() => import(/* webpackChunkName: "v-15054f24" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/index.html.vue")),
   // path: /convention/1904-the-preservation-and-restoration-of-architectural-mounments.html
   "v-0b2485c7": defineAsyncComponent(() => import(/* webpackChunkName: "v-0b2485c7" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/convention/1904-the-preservation-and-restoration-of-architectural-mounments.html.vue")),
   // path: /convention/1931-the-athens-charter-for-the-restoration-of-historic-monuments.html
@@ -47,16 +57,6 @@ export const pagesComponents = {
   "v-395ce022": defineAsyncComponent(() => import(/* webpackChunkName: "v-395ce022" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/index.html.vue")),
   // path: /huanbei-shang-city/report.html
   "v-0bf5ba7a": defineAsyncComponent(() => import(/* webpackChunkName: "v-0bf5ba7a" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/report.html.vue")),
-  // path: /note/archaeological-scene-reconstruction-with-agisoft-metashape.html
-  "v-48ac3c11": defineAsyncComponent(() => import(/* webpackChunkName: "v-48ac3c11" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/archaeological-scene-reconstruction-with-agisoft-metashape.html.vue")),
-  // path: /note/lidar-in-arcgis.html
-  "v-4e224deb": defineAsyncComponent(() => import(/* webpackChunkName: "v-4e224deb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/lidar-in-arcgis.html.vue")),
-  // path: /note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html
-  "v-488fcf2a": defineAsyncComponent(() => import(/* webpackChunkName: "v-488fcf2a" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html.vue")),
-  // path: /note/metashape-to-arcgis.html
-  "v-78573ffd": defineAsyncComponent(() => import(/* webpackChunkName: "v-78573ffd" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/metashape-to-arcgis.html.vue")),
-  // path: /note/
-  "v-15054f24": defineAsyncComponent(() => import(/* webpackChunkName: "v-15054f24" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/index.html.vue")),
   // path: /oracle/article.html
   "v-5229fefb": defineAsyncComponent(() => import(/* webpackChunkName: "v-5229fefb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/article.html.vue")),
   // path: /oracle/catalogue.html

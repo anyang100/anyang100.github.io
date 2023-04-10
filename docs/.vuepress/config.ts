@@ -61,6 +61,10 @@ export default defineUserConfig({
       }, 
     ],
       plugins: {
+        feed: {
+          rss: true,
+          atom: true,
+        },
         mdEnhance: {
                   footnote: true,
                   imgLazyload: true,
