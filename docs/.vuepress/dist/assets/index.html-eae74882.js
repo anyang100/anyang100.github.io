@@ -1,1 +1,0 @@
-import{_ as t,W as a,X as n,Y as e,$ as c,a1 as l,C as r,Z as s}from"./framework-c8ebc670.js";const _={};function i(d,u){const o=r("RouterLink");return a(),n("div",null,[e("ul",null,[e("li",null,[c(o,{to:"/yearbook/new-archaeological-discovery.html"},{default:l(()=>[s("考古新發現")]),_:1})])])])}const f=t(_,[["render",i],["__file","index.html.vue"]]);export{f as default};

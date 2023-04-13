@@ -1,18 +1,16 @@
 export const pagesData = {
   // path: /about.html
   "v-22a39d25": () => import(/* webpackChunkName: "v-22a39d25" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/about.html.js").then(({ data }) => data),
+  // path: /article.html
+  "v-0989631c": () => import(/* webpackChunkName: "v-0989631c" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/article.html.js").then(({ data }) => data),
+  // path: /book.html
+  "v-746cc4b7": () => import(/* webpackChunkName: "v-746cc4b7" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/book.html.js").then(({ data }) => data),
+  // path: /document.html
+  "v-9f9d5b76": () => import(/* webpackChunkName: "v-9f9d5b76" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/document.html.js").then(({ data }) => data),
   // path: /news.html
   "v-0daed70d": () => import(/* webpackChunkName: "v-0daed70d" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/news.html.js").then(({ data }) => data),
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
-  // path: /reference.html
-  "v-76e2b8b2": () => import(/* webpackChunkName: "v-76e2b8b2" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/reference.html.js").then(({ data }) => data),
-  // path: /gao-ling/article.html
-  "v-10ccb4cb": () => import(/* webpackChunkName: "v-10ccb4cb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/article.html.js").then(({ data }) => data),
-  // path: /gao-ling/
-  "v-45101328": () => import(/* webpackChunkName: "v-45101328" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/index.html.js").then(({ data }) => data),
-  // path: /gao-ling/report.html
-  "v-428deffd": () => import(/* webpackChunkName: "v-428deffd" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/report.html.js").then(({ data }) => data),
   // path: /convention/1904-the-preservation-and-restoration-of-architectural-mounments.html
   "v-0b2485c7": () => import(/* webpackChunkName: "v-0b2485c7" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/convention/1904-the-preservation-and-restoration-of-architectural-mounments.html.js").then(({ data }) => data),
   // path: /convention/1931-the-athens-charter-for-the-restoration-of-historic-monuments.html
@@ -39,30 +37,28 @@ export const pagesData = {
   "v-c6cf6e8c": () => import(/* webpackChunkName: "v-c6cf6e8c" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/convention/icom-statues.html.js").then(({ data }) => data),
   // path: /convention/
   "v-29648b76": () => import(/* webpackChunkName: "v-29648b76" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/convention/index.html.js").then(({ data }) => data),
-  // path: /note/archaeological-scene-reconstruction-with-agisoft-metashape.html
-  "v-48ac3c11": () => import(/* webpackChunkName: "v-48ac3c11" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/archaeological-scene-reconstruction-with-agisoft-metashape.html.js").then(({ data }) => data),
-  // path: /note/lidar-in-arcgis.html
-  "v-4e224deb": () => import(/* webpackChunkName: "v-4e224deb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/lidar-in-arcgis.html.js").then(({ data }) => data),
-  // path: /note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html
-  "v-488fcf2a": () => import(/* webpackChunkName: "v-488fcf2a" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html.js").then(({ data }) => data),
-  // path: /note/metashape-to-arcgis.html
-  "v-78573ffd": () => import(/* webpackChunkName: "v-78573ffd" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/metashape-to-arcgis.html.js").then(({ data }) => data),
-  // path: /note/
-  "v-15054f24": () => import(/* webpackChunkName: "v-15054f24" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/index.html.js").then(({ data }) => data),
-  // path: /oracle/article.html
-  "v-5229fefb": () => import(/* webpackChunkName: "v-5229fefb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/article.html.js").then(({ data }) => data),
-  // path: /oracle/catalogue.html
-  "v-7b8cb968": () => import(/* webpackChunkName: "v-7b8cb968" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/catalogue.html.js").then(({ data }) => data),
-  // path: /oracle/database.html
-  "v-645da434": () => import(/* webpackChunkName: "v-645da434" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/database.html.js").then(({ data }) => data),
-  // path: /oracle/
-  "v-21e72558": () => import(/* webpackChunkName: "v-21e72558" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/index.html.js").then(({ data }) => data),
   // path: /huanbei-shang-city/article.html
   "v-483bdac5": () => import(/* webpackChunkName: "v-483bdac5" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/article.html.js").then(({ data }) => data),
   // path: /huanbei-shang-city/
   "v-395ce022": () => import(/* webpackChunkName: "v-395ce022" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/index.html.js").then(({ data }) => data),
   // path: /huanbei-shang-city/report.html
   "v-0bf5ba7a": () => import(/* webpackChunkName: "v-0bf5ba7a" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/report.html.js").then(({ data }) => data),
+  // path: /gao-ling/article.html
+  "v-10ccb4cb": () => import(/* webpackChunkName: "v-10ccb4cb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/article.html.js").then(({ data }) => data),
+  // path: /gao-ling/
+  "v-45101328": () => import(/* webpackChunkName: "v-45101328" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/index.html.js").then(({ data }) => data),
+  // path: /gao-ling/report.html
+  "v-428deffd": () => import(/* webpackChunkName: "v-428deffd" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/report.html.js").then(({ data }) => data),
+  // path: /note/archaeological-scene-reconstruction-with-agisoft-metashape.html
+  "v-48ac3c11": () => import(/* webpackChunkName: "v-48ac3c11" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/archaeological-scene-reconstruction-with-agisoft-metashape.html.js").then(({ data }) => data),
+  // path: /note/lidar-in-arcgis.html
+  "v-4e224deb": () => import(/* webpackChunkName: "v-4e224deb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/lidar-in-arcgis.html.js").then(({ data }) => data),
+  // path: /note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html
+  "v-488fcf2a": () => import(/* webpackChunkName: "v-488fcf2a" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/list-of-chinese-cultural-relics-forbidden-to-be-exhibited-abroad.html.js").then(({ data }) => data),
+  // path: /note/note-on-updating-gis-and-archaeology-spatial-analysis-tutorial.html
+  "v-606251f8": () => import(/* webpackChunkName: "v-606251f8" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/note-on-updating-gis-and-archaeology-spatial-analysis-tutorial.html.js").then(({ data }) => data),
+  // path: /note/
+  "v-15054f24": () => import(/* webpackChunkName: "v-15054f24" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/index.html.js").then(({ data }) => data),
   // path: /yearbook/new-archaeological-discovery.html
   "v-f61d40f6": () => import(/* webpackChunkName: "v-f61d40f6" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/yearbook/new-archaeological-discovery.html.js").then(({ data }) => data),
   // path: /yearbook/
@@ -75,6 +71,14 @@ export const pagesData = {
   "v-c3da2626": () => import(/* webpackChunkName: "v-c3da2626" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/index.html.js").then(({ data }) => data),
   // path: /yinxu/report.html
   "v-152db918": () => import(/* webpackChunkName: "v-152db918" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/report.html.js").then(({ data }) => data),
+  // path: /oracle/article.html
+  "v-5229fefb": () => import(/* webpackChunkName: "v-5229fefb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/article.html.js").then(({ data }) => data),
+  // path: /oracle/catalogue.html
+  "v-7b8cb968": () => import(/* webpackChunkName: "v-7b8cb968" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/catalogue.html.js").then(({ data }) => data),
+  // path: /oracle/database.html
+  "v-645da434": () => import(/* webpackChunkName: "v-645da434" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/database.html.js").then(({ data }) => data),
+  // path: /oracle/
+  "v-21e72558": () => import(/* webpackChunkName: "v-21e72558" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/index.html.js").then(({ data }) => data),
   // path: /note/reading/in-pursuit-of-the-past-deconding-the-archaeological-record.html
   "v-cf5f7b14": () => import(/* webpackChunkName: "v-cf5f7b14" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/reading/in-pursuit-of-the-past-deconding-the-archaeological-record.html.js").then(({ data }) => data),
   // path: /note/reading/reading-the-past-current-approaches-to-interpretation-in-archaeology.html

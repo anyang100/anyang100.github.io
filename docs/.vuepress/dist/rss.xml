@@ -6,10 +6,61 @@
     <link>https://ay1928.github.io/</link>
     <description>安陽考古學研究索引集</description>
     <language>zh-TW</language>
-    <pubDate>Mon, 10 Apr 2023 03:40:06 GMT</pubDate>
-    <lastBuildDate>Mon, 10 Apr 2023 03:40:06 GMT</lastBuildDate>
+    <pubDate>Thu, 13 Apr 2023 08:56:02 GMT</pubDate>
+    <lastBuildDate>Thu, 13 Apr 2023 08:56:02 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>書目</title>
+      <link>https://ay1928.github.io/book.html</link>
+      <guid>https://ay1928.github.io/book.html</guid>
+      <source url="https://ay1928.github.io/rss.xml">書目</source>
+      <description>考古學史 1. A Hundred Years of Archaeology (https://ignca.gov.in/Asi_data/10227.pdf) 2. Fifty Years of Emirates Archaeology (https://www.ancientportsantiques.com/wp-content/uploads/...</description>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 考古學史</h2>
+<ol>
+<li><a href="https://ignca.gov.in/Asi_data/10227.pdf" target="_blank" rel="noopener noreferrer"><em>A Hundred Years of Archaeology</em></a></li>
+<li><a href="https://www.ancientportsantiques.com/wp-content/uploads/Documents/PLACES/IndOc-Gulf/Emirats-Potts&amp;Hellyer2012.pdf" target="_blank" rel="noopener noreferrer"><em>Fifty Years of Emirates Archaeology</em></a></li>
+</ol>
+<h2> 理論與方法</h2>
+<ol>
+<li><a href="https://arqueologiaeprehistoria.files.wordpress.com/2013/07/renfrewbahn-eds-archaeology-the-key-concepts.pdf" target="_blank" rel="noopener noreferrer"><em>Archaeology: The Key Concepts</em></a></li>
+<li><a href="https://faculty.ksu.edu.sa/sites/default/files/Archaeology_Coursebook.pdf" target="_blank" rel="noopener noreferrer"><em>The Archaeology Coursebook: An Introduction to Study Skills, Topics and Methods</em></a></li>
+</ol>
+<h2> 待分類</h2>
+<ol>
+<li><a href="http://tscheer.free.fr/scan/Renfrew%2087%20-%20Archeology%20and%20Language.%20The%20Puzzle%20of%20Indo-European%20Origins.pdf" target="_blank" rel="noopener noreferrer"><em>Archaeology and Language: The Puzzle of Indo-European Origins</em></a></li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>文件</title>
+      <link>https://ay1928.github.io/document.html</link>
+      <guid>https://ay1928.github.io/document.html</guid>
+      <source url="https://ay1928.github.io/rss.xml">文件</source>
+      <description>指引 1. Standards and Guidelines for Consultant Archaeologists (http://www.mtc.gov.on.ca/en/publications/SG_2010.pdf) 2. State Archaeologist&amp;apos;s Manual for Archaeological Projects i...</description>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 指引</h2>
+<ol>
+<li><a href="http://www.mtc.gov.on.ca/en/publications/SG_2010.pdf" target="_blank" rel="noopener noreferrer">Standards and Guidelines for Consultant Archaeologists</a></li>
+<li><a href="https://mn.gov/admin/assets/OSAmanual_tcm36-186982.pdf" target="_blank" rel="noopener noreferrer">State Archaeologist's Manual for Archaeological Projects in Minnesota</a></li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>《GIS與考古學空間分析實踐教程》更新筆記</title>
+      <link>https://ay1928.github.io/note/note-on-updating-gis-and-archaeology-spatial-analysis-tutorial.html</link>
+      <guid>https://ay1928.github.io/note/note-on-updating-gis-and-archaeology-spatial-analysis-tutorial.html</guid>
+      <source url="https://ay1928.github.io/rss.xml">《GIS與考古學空間分析實踐教程》更新筆記</source>
+      <description>引言 《GIS與考古學空間分析實踐教程》（下簡稱《教程》） 《教程》（上編）使用ArcMap 10.5 此筆記使用ArcGIS Pro 3.1 第一章</description>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 引言</h2>
+<p>《GIS與考古學空間分析實踐教程》（下簡稱《教程》）</p>
+<p>《教程》（上編）使用ArcMap 10.5</p>
+<p>此筆記使用ArcGIS Pro 3.1</p>
+<h2> 第一章</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>The Preservation and Restoration of Architectural Mounments</title>
       <link>https://ay1928.github.io/convention/1904-the-preservation-and-restoration-of-architectural-mounments.html</link>
@@ -1658,21 +1709,11 @@ use thereof.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>ArcGIS處理激光雷達數據圖解</title>
+      <title>ArcGIS Pro處理激光雷達數據圖解</title>
       <link>https://ay1928.github.io/note/lidar-in-arcgis.html</link>
       <guid>https://ay1928.github.io/note/lidar-in-arcgis.html</guid>
-      <source url="https://ay1928.github.io/rss.xml">ArcGIS處理激光雷達數據圖解</source>
+      <source url="https://ay1928.github.io/rss.xml">ArcGIS Pro處理激光雷達數據圖解</source>
       <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>文獻</title>
-      <link>https://ay1928.github.io/reference.html</link>
-      <guid>https://ay1928.github.io/reference.html</guid>
-      <source url="https://ay1928.github.io/rss.xml">文獻</source>
-      <description>劉岩：〈考古材料研究的新視角：人與物之間關係的糾纏理論分析 (http://hrc.cass.cn/xsdt/sxpy/202102/W020210207414081848237.pdf)〉，《東南文化》2021年第1期，第34-43頁。</description>
-      <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>劉岩：〈<a href="http://hrc.cass.cn/xsdt/sxpy/202102/W020210207414081848237.pdf" target="_blank" rel="noopener noreferrer">考古材料研究的新視角：人與物之間關係的糾纏理論分析</a>〉，《東南文化》2021年第1期，第34-43頁。</p>
-]]></content:encoded>
     </item>
     <item>
       <title>Agisoft Metashape考古現場三維建模圖解</title>
@@ -1728,13 +1769,13 @@ use thereof.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>ArcGIS導入三維模型</title>
-      <link>https://ay1928.github.io/note/metashape-to-arcgis.html</link>
-      <guid>https://ay1928.github.io/note/metashape-to-arcgis.html</guid>
-      <source url="https://ay1928.github.io/rss.xml">ArcGIS導入三維模型</source>
-      <description>From Photoscan to Arcscene (https://www.youtube.com/watch?v=ScQWurJfRjQ)</description>
-      <pubDate>Mon, 14 Nov 2022 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=ScQWurJfRjQ" target="_blank" rel="noopener noreferrer">From Photoscan to Arcscene</a></p>
+      <title>文章</title>
+      <link>https://ay1928.github.io/article.html</link>
+      <guid>https://ay1928.github.io/article.html</guid>
+      <source url="https://ay1928.github.io/rss.xml">文章</source>
+      <description>劉岩：〈考古材料研究的新視角：人與物之間關係的糾纏理論分析 (http://hrc.cass.cn/xsdt/sxpy/202102/W020210207414081848237.pdf)〉，《東南文化》2021年第1期，第34-43頁。</description>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>劉岩：〈<a href="http://hrc.cass.cn/xsdt/sxpy/202102/W020210207414081848237.pdf" target="_blank" rel="noopener noreferrer">考古材料研究的新視角：人與物之間關係的糾纏理論分析</a>〉，《東南文化》2021年第1期，第34-43頁。</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -3733,11 +3774,11 @@ Richard Klein，鬣狗窩</p>
       <link>https://ay1928.github.io/gao-ling/report.html</link>
       <guid>https://ay1928.github.io/gao-ling/report.html</guid>
       <source url="https://ay1928.github.io/rss.xml">報告</source>
-      <description>1. 河南省文物考古研究所、安陽縣文化局：〈河南安陽市西高穴曹操高陵〉，《考古》2010年第8期，第35-45，155，106-107頁。 2. 河南省文物考古研究院、安陽市文物考古研究所、曹操高陵管理委員會：〈安陽高陵陵園遺址2016-2017年度考古發掘簡報〉，《華夏考古》2018年第1期，第42-49頁</description>
+      <description>1. 河南省文物考古研究所、安陽縣文化局：〈河南安陽市西高穴曹操高陵〉，《考古》2010年第8期，第35-45，155，106-107頁。 2. 河南省文物考古研究院、安陽市文物考古研究所、曹操高陵管理委員會：〈安陽高陵陵園遺址2016-2017年度考古發掘簡報〉，《華夏考古》2018年第1期，第42-49頁。</description>
       <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<ol>
 <li>河南省文物考古研究所、安陽縣文化局：〈河南安陽市西高穴曹操高陵〉，《考古》2010年第8期，第35-45，155，106-107頁。</li>
-<li>河南省文物考古研究院、安陽市文物考古研究所、曹操高陵管理委員會：〈安陽高陵陵園遺址2016-2017年度考古發掘簡報〉，《華夏考古》2018年第1期，第42-49頁</li>
+<li>河南省文物考古研究院、安陽市文物考古研究所、曹操高陵管理委員會：〈安陽高陵陵園遺址2016-2017年度考古發掘簡報〉，《華夏考古》2018年第1期，第42-49頁。</li>
 </ol>
 ]]></content:encoded>
     </item>
@@ -3750,6 +3791,21 @@ Richard Klein，鬣狗窩</p>
       <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<ol>
 <li><a href="http://jgw.aynu.edu.cn/ajaxpage/home2.0/index.html?ReturnUrl=%2fHome" target="_blank" rel="noopener noreferrer">殷契文淵</a></li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>圖錄</title>
+      <link>https://ay1928.github.io/yinxu/catalogue.html</link>
+      <guid>https://ay1928.github.io/yinxu/catalogue.html</guid>
+      <source url="https://ay1928.github.io/rss.xml">圖錄</source>
+      <description>1. 羅振玉輯：《殷墟古物圖錄》，民國五年印。 2. 中國社會科學院考古研究所編著：《殷墟玉器》，北京：文物出版社，1982年。 3. 中國社會科學院考古研究所編著：《殷墟青銅器》，北京：文物出版社，1985年。 4. 中國社會科學院考古研究所、安陽市文物考古研究所編著：《殷墟新出土青銅器》，昆明：雲南人民出版社，2008年。</description>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<ol>
+<li>羅振玉輯：《殷墟古物圖錄》，民國五年印。</li>
+<li>中國社會科學院考古研究所編著：《殷墟玉器》，北京：文物出版社，1982年。</li>
+<li>中國社會科學院考古研究所編著：《殷墟青銅器》，北京：文物出版社，1985年。</li>
+<li>中國社會科學院考古研究所、安陽市文物考古研究所編著：《殷墟新出土青銅器》，昆明：雲南人民出版社，2008年。</li>
 </ol>
 ]]></content:encoded>
     </item>
@@ -3897,21 +3953,6 @@ Richard Klein，鬣狗窩</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>圖錄</title>
-      <link>https://ay1928.github.io/yinxu/catalogue.html</link>
-      <guid>https://ay1928.github.io/yinxu/catalogue.html</guid>
-      <source url="https://ay1928.github.io/rss.xml">圖錄</source>
-      <description>1. 羅振玉輯：《殷墟古物圖錄》，民國五年印。 2. 中國社會科學院考古研究所編著：《殷墟玉器》，北京：文物出版社，1982年。 3. 中國社會科學院考古研究所編著：《殷墟青銅器》，北京：文物出版社，1985年。 4. 中國社會科學院考古研究所、安陽市文物考古研究所編著：《殷墟新出土青銅器》，昆明：雲南人民出版社，2008年。</description>
-      <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<ol>
-<li>羅振玉輯：《殷墟古物圖錄》，民國五年印。</li>
-<li>中國社會科學院考古研究所編著：《殷墟玉器》，北京：文物出版社，1982年。</li>
-<li>中國社會科學院考古研究所編著：《殷墟青銅器》，北京：文物出版社，1985年。</li>
-<li>中國社會科學院考古研究所、安陽市文物考古研究所編著：《殷墟新出土青銅器》，昆明：雲南人民出版社，2008年。</li>
-</ol>
-]]></content:encoded>
-    </item>
-    <item>
       <title>報道</title>
       <link>https://ay1928.github.io/news.html</link>
       <guid>https://ay1928.github.io/news.html</guid>
@@ -4008,48 +4049,6 @@ Richard Klein，鬣狗窩</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>筆記</title>
-      <link>https://ay1928.github.io/note/</link>
-      <guid>https://ay1928.github.io/note/</guid>
-      <source url="https://ay1928.github.io/rss.xml">筆記</source>
-      <pubDate>Sat, 17 Sep 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>文章</title>
-      <link>https://ay1928.github.io/oracle/article.html</link>
-      <guid>https://ay1928.github.io/oracle/article.html</guid>
-      <source url="https://ay1928.github.io/rss.xml">文章</source>
-      <description>1. 陸懋德：〈由甲骨文考見商代之文化〉，《清華大學學報（自然科學版）》1927年第2期。 2. 董作賓：〈「獲白麟」解〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第287-335頁。 3. 傅斯年：〈新獲卜辭寫本後記跋〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第349-...</description>
-      <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<ol>
-<li>陸懋德：〈由甲骨文考見商代之文化〉，《清華大學學報（自然科學版）》1927年第2期。</li>
-<li>董作賓：〈「獲白麟」解〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第287-335頁。</li>
-<li>傅斯年：〈新獲卜辭寫本後記跋〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第349-386頁。</li>
-<li>董作賓：〈甲骨文研究之擴大〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第411-421頁。</li>
-<li>董作賓：〈大龜四版考釋〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第423-441頁。</li>
-<li>秉志：〈河南安陽之龜殼〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第443-446頁。</li>
-<li>董作賓：〈卜辭中所見之殷曆〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第481-522頁。</li>
-<li>董作賓：〈帚矛說（骨臼刻辭的研究）〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第635-676頁。</li>
-<li>董作賓：〈釋「馭贗」〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第697-703頁。</li>
-<li>董作賓：〈釋後岡出土的一片卜辭〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第705-708頁。</li>
-</ol>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>甲骨文</title>
-      <link>https://ay1928.github.io/oracle/</link>
-      <guid>https://ay1928.github.io/oracle/</guid>
-      <source url="https://ay1928.github.io/rss.xml">甲骨文</source>
-      <description>圖錄 (catalogue.md); 文章 (article.md); 資料庫 (database.md);</description>
-      <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<ul>
-<li><a href="/oracle/catalogue.html" target="blank">圖錄</a></li>
-<li><a href="/oracle/article.html" target="blank">文章</a></li>
-<li><a href="/oracle/database.html" target="blank">資料庫</a></li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
       <title>洹北商城</title>
       <link>https://ay1928.github.io/huanbei-shang-city/</link>
       <guid>https://ay1928.github.io/huanbei-shang-city/</guid>
@@ -4081,6 +4080,13 @@ Richard Klein，鬣狗窩</p>
 <li>河南省文物考古研究院、安陽市文物考古研究所：〈安陽陶家營遺址M12發掘簡報〉，《江漢考古》2022年第4期，第16-29頁。</li>
 </ol>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>筆記</title>
+      <link>https://ay1928.github.io/note/</link>
+      <guid>https://ay1928.github.io/note/</guid>
+      <source url="https://ay1928.github.io/rss.xml">筆記</source>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>考古新發現</title>
@@ -4364,6 +4370,41 @@ Richard Klein，鬣狗窩</p>
 </ol>
 <h2> 洹北</h2>
 <p>另見「<a href="/huanbei-shang-city/report.html" target="blank">洹北商城</a>」。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>文章</title>
+      <link>https://ay1928.github.io/oracle/article.html</link>
+      <guid>https://ay1928.github.io/oracle/article.html</guid>
+      <source url="https://ay1928.github.io/rss.xml">文章</source>
+      <description>1. 陸懋德：〈由甲骨文考見商代之文化〉，《清華大學學報（自然科學版）》1927年第2期。 2. 董作賓：〈「獲白麟」解〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第287-335頁。 3. 傅斯年：〈新獲卜辭寫本後記跋〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第349-...</description>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<ol>
+<li>陸懋德：〈由甲骨文考見商代之文化〉，《清華大學學報（自然科學版）》1927年第2期。</li>
+<li>董作賓：〈「獲白麟」解〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第287-335頁。</li>
+<li>傅斯年：〈新獲卜辭寫本後記跋〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第349-386頁。</li>
+<li>董作賓：〈甲骨文研究之擴大〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第411-421頁。</li>
+<li>董作賓：〈大龜四版考釋〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第423-441頁。</li>
+<li>秉志：〈河南安陽之龜殼〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第443-446頁。</li>
+<li>董作賓：〈卜辭中所見之殷曆〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第481-522頁。</li>
+<li>董作賓：〈帚矛說（骨臼刻辭的研究）〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第635-676頁。</li>
+<li>董作賓：〈釋「馭贗」〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第697-703頁。</li>
+<li>董作賓：〈釋後岡出土的一片卜辭〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第705-708頁。</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>甲骨文</title>
+      <link>https://ay1928.github.io/oracle/</link>
+      <guid>https://ay1928.github.io/oracle/</guid>
+      <source url="https://ay1928.github.io/rss.xml">甲骨文</source>
+      <description>圖錄 (catalogue.md); 文章 (article.md); 資料庫 (database.md);</description>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<ul>
+<li><a href="/oracle/catalogue.html" target="blank">圖錄</a></li>
+<li><a href="/oracle/article.html" target="blank">文章</a></li>
+<li><a href="/oracle/database.html" target="blank">資料庫</a></li>
+</ul>
 ]]></content:encoded>
     </item>
   </channel>

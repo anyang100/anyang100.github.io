@@ -3,12 +3,14 @@ title: 報道
 index: false
 date: 2022-01-22
 ---
+
 > - 報道依日期排序。
 > - 資料來源：
 >   1. 中國知網：[中國重要報紙全文數據庫](https://kns.cnki.net/kns8?dbcode=CCND)
 >   2. 香港公共圖書館多媒體資訊系統：[香港舊報紙](https://mmis.hkpl.gov.hk/web/guest/old-hk-collection?from_menu=Y&dummy=)
 >   3. [East View Global Press Archive](https://gpa.eastview.com/)（GPA）
 >   4. ProQuest Historical Newspapers: [South China Morning Post](https://www.proquest.com/hnpsouthchinamorningpost/index)
+
 ## 1923年-1929年
 1. 胡樸安：〈論今人之學之弊〉，《國學周刊》第14期，載《民國日報》，1923年8月8日，[第1版](https://gpa.eastview.com/crl/lqrcn/?a=d&d=mgrg19230808-01.1.13&srpos=5&e=------192-en-25--1--img-txIN-%e6%ae%b7%e5%a2%9f---------)。
 2. 胡樸安：〈答程善之書〉，《國學周刊》第60期，載《民國日報》，1923年8月22日，[第4版](https://gpa.eastview.com/crl/lqrcn/?a=d&d=mgrg19230822-01.1.13&srpos=3&e=------192-en-25--1--img-txIN-%e6%ae%b7%e5%a2%9f---------)。

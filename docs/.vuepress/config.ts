@@ -37,19 +37,23 @@ export default defineUserConfig({
     favicon: "/favicon.ico",
     footer: "",
     copyright: "安陽考古學研究索引集",
-    displayFooter: true,
+    displayFooter: false,
     author: {
         name: "NG, Kin-chung",
         url: "https://ay1928.github.io",
       },
     navbar: [
       {
-        text: "文獻",
-        link: "/reference.md",
-      },
-      {
         text: "報道",
         link: "/news.md",
+      },
+      {
+        text: "延伸資料",
+        children: [
+          "/book.md",
+          "/article.md",
+          "/document.md",
+        ],
       },
       {
         text: "關於",
