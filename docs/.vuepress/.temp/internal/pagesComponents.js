@@ -13,6 +13,12 @@ export const pagesComponents = {
   "v-0daed70d": defineAsyncComponent(() => import(/* webpackChunkName: "v-0daed70d" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/news.html.vue")),
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/index.html.vue")),
+  // path: /gao-ling/article.html
+  "v-10ccb4cb": defineAsyncComponent(() => import(/* webpackChunkName: "v-10ccb4cb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/article.html.vue")),
+  // path: /gao-ling/
+  "v-45101328": defineAsyncComponent(() => import(/* webpackChunkName: "v-45101328" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/index.html.vue")),
+  // path: /gao-ling/report.html
+  "v-428deffd": defineAsyncComponent(() => import(/* webpackChunkName: "v-428deffd" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/report.html.vue")),
   // path: /convention/1904-the-preservation-and-restoration-of-architectural-mounments.html
   "v-0b2485c7": defineAsyncComponent(() => import(/* webpackChunkName: "v-0b2485c7" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/convention/1904-the-preservation-and-restoration-of-architectural-mounments.html.vue")),
   // path: /convention/1931-the-athens-charter-for-the-restoration-of-historic-monuments.html
@@ -45,12 +51,6 @@ export const pagesComponents = {
   "v-395ce022": defineAsyncComponent(() => import(/* webpackChunkName: "v-395ce022" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/index.html.vue")),
   // path: /huanbei-shang-city/report.html
   "v-0bf5ba7a": defineAsyncComponent(() => import(/* webpackChunkName: "v-0bf5ba7a" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/report.html.vue")),
-  // path: /gao-ling/article.html
-  "v-10ccb4cb": defineAsyncComponent(() => import(/* webpackChunkName: "v-10ccb4cb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/article.html.vue")),
-  // path: /gao-ling/
-  "v-45101328": defineAsyncComponent(() => import(/* webpackChunkName: "v-45101328" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/index.html.vue")),
-  // path: /gao-ling/report.html
-  "v-428deffd": defineAsyncComponent(() => import(/* webpackChunkName: "v-428deffd" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/report.html.vue")),
   // path: /note/archaeological-scene-reconstruction-with-agisoft-metashape.html
   "v-48ac3c11": defineAsyncComponent(() => import(/* webpackChunkName: "v-48ac3c11" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/archaeological-scene-reconstruction-with-agisoft-metashape.html.vue")),
   // path: /note/lidar-in-arcgis.html
@@ -61,6 +61,14 @@ export const pagesComponents = {
   "v-606251f8": defineAsyncComponent(() => import(/* webpackChunkName: "v-606251f8" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/note-on-updating-gis-and-archaeology-spatial-analysis-tutorial.html.vue")),
   // path: /note/
   "v-15054f24": defineAsyncComponent(() => import(/* webpackChunkName: "v-15054f24" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/index.html.vue")),
+  // path: /oracle/article.html
+  "v-5229fefb": defineAsyncComponent(() => import(/* webpackChunkName: "v-5229fefb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/article.html.vue")),
+  // path: /oracle/catalogue.html
+  "v-7b8cb968": defineAsyncComponent(() => import(/* webpackChunkName: "v-7b8cb968" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/catalogue.html.vue")),
+  // path: /oracle/database.html
+  "v-645da434": defineAsyncComponent(() => import(/* webpackChunkName: "v-645da434" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/database.html.vue")),
+  // path: /oracle/
+  "v-21e72558": defineAsyncComponent(() => import(/* webpackChunkName: "v-21e72558" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/index.html.vue")),
   // path: /yearbook/new-archaeological-discovery.html
   "v-f61d40f6": defineAsyncComponent(() => import(/* webpackChunkName: "v-f61d40f6" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/yearbook/new-archaeological-discovery.html.vue")),
   // path: /yearbook/
@@ -73,14 +81,6 @@ export const pagesComponents = {
   "v-c3da2626": defineAsyncComponent(() => import(/* webpackChunkName: "v-c3da2626" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/index.html.vue")),
   // path: /yinxu/report.html
   "v-152db918": defineAsyncComponent(() => import(/* webpackChunkName: "v-152db918" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/yinxu/report.html.vue")),
-  // path: /oracle/article.html
-  "v-5229fefb": defineAsyncComponent(() => import(/* webpackChunkName: "v-5229fefb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/article.html.vue")),
-  // path: /oracle/catalogue.html
-  "v-7b8cb968": defineAsyncComponent(() => import(/* webpackChunkName: "v-7b8cb968" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/catalogue.html.vue")),
-  // path: /oracle/database.html
-  "v-645da434": defineAsyncComponent(() => import(/* webpackChunkName: "v-645da434" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/database.html.vue")),
-  // path: /oracle/
-  "v-21e72558": defineAsyncComponent(() => import(/* webpackChunkName: "v-21e72558" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/index.html.vue")),
   // path: /note/reading/in-pursuit-of-the-past-deconding-the-archaeological-record.html
   "v-cf5f7b14": defineAsyncComponent(() => import(/* webpackChunkName: "v-cf5f7b14" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/reading/in-pursuit-of-the-past-deconding-the-archaeological-record.html.vue")),
   // path: /note/reading/reading-the-past-current-approaches-to-interpretation-in-archaeology.html
