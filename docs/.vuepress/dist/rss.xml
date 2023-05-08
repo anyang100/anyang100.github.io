@@ -6,8 +6,8 @@
     <link>https://ay1928.github.io/</link>
     <description>安陽考古學研究索引集</description>
     <language>zh-TW</language>
-    <pubDate>Mon, 08 May 2023 05:15:12 GMT</pubDate>
-    <lastBuildDate>Mon, 08 May 2023 05:15:12 GMT</lastBuildDate>
+    <pubDate>Mon, 08 May 2023 06:08:03 GMT</pubDate>
+    <lastBuildDate>Mon, 08 May 2023 06:08:03 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -15,7 +15,14 @@
       <link>https://ay1928.github.io/archaeological-chronicle.html</link>
       <guid>https://ay1928.github.io/archaeological-chronicle.html</guid>
       <source url="https://ay1928.github.io/rss.xml">考古源流</source>
+      <description>十八世纪 1771年 1. 約翰．弗里德里希．埃斯佩 （Johann Friedrich Esper）在德國班貝格（Bemberg）發現Gaylenreuth Cave</description>
       <pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 十八世纪</h2>
+<h3> 1771年</h3>
+<ol>
+<li>約翰．弗里德里希．埃斯佩 （Johann Friedrich Esper）在德國班貝格（Bemberg）發現Gaylenreuth Cave</li>
+</ol>
+]]></content:encoded>
     </item>
     <item>
       <title>遺址</title>
@@ -3839,21 +3846,6 @@ Richard Klein，鬣狗窩</p>
     </item>
     <item>
       <title>圖錄</title>
-      <link>https://ay1928.github.io/yinxu/catalogue.html</link>
-      <guid>https://ay1928.github.io/yinxu/catalogue.html</guid>
-      <source url="https://ay1928.github.io/rss.xml">圖錄</source>
-      <description>1. 羅振玉輯：《殷墟古物圖錄》，民國五年印。 2. 中國社會科學院考古研究所編著：《殷墟玉器》，北京：文物出版社，1982年。 3. 中國社會科學院考古研究所編著：《殷墟青銅器》，北京：文物出版社，1985年。 4. 中國社會科學院考古研究所、安陽市文物考古研究所編著：《殷墟新出土青銅器》，昆明：雲南人民出版社，2008年。</description>
-      <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<ol>
-<li>羅振玉輯：《殷墟古物圖錄》，民國五年印。</li>
-<li>中國社會科學院考古研究所編著：《殷墟玉器》，北京：文物出版社，1982年。</li>
-<li>中國社會科學院考古研究所編著：《殷墟青銅器》，北京：文物出版社，1985年。</li>
-<li>中國社會科學院考古研究所、安陽市文物考古研究所編著：《殷墟新出土青銅器》，昆明：雲南人民出版社，2008年。</li>
-</ol>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>圖錄</title>
       <link>https://ay1928.github.io/oracle/catalogue.html</link>
       <guid>https://ay1928.github.io/oracle/catalogue.html</guid>
       <source url="https://ay1928.github.io/rss.xml">圖錄</source>
@@ -3996,6 +3988,21 @@ Richard Klein，鬣狗窩</p>
 ]]></content:encoded>
     </item>
     <item>
+      <title>圖錄</title>
+      <link>https://ay1928.github.io/yinxu/catalogue.html</link>
+      <guid>https://ay1928.github.io/yinxu/catalogue.html</guid>
+      <source url="https://ay1928.github.io/rss.xml">圖錄</source>
+      <description>1. 羅振玉輯：《殷墟古物圖錄》，民國五年印。 2. 中國社會科學院考古研究所編著：《殷墟玉器》，北京：文物出版社，1982年。 3. 中國社會科學院考古研究所編著：《殷墟青銅器》，北京：文物出版社，1985年。 4. 中國社會科學院考古研究所、安陽市文物考古研究所編著：《殷墟新出土青銅器》，昆明：雲南人民出版社，2008年。</description>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<ol>
+<li>羅振玉輯：《殷墟古物圖錄》，民國五年印。</li>
+<li>中國社會科學院考古研究所編著：《殷墟玉器》，北京：文物出版社，1982年。</li>
+<li>中國社會科學院考古研究所編著：《殷墟青銅器》，北京：文物出版社，1985年。</li>
+<li>中國社會科學院考古研究所、安陽市文物考古研究所編著：《殷墟新出土青銅器》，昆明：雲南人民出版社，2008年。</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
       <title>報道</title>
       <link>https://ay1928.github.io/news.html</link>
       <guid>https://ay1928.github.io/news.html</guid>
@@ -4130,6 +4137,106 @@ Richard Klein，鬣狗窩</p>
       <guid>https://ay1928.github.io/note/</guid>
       <source url="https://ay1928.github.io/rss.xml">筆記</source>
       <pubDate>Sat, 17 Sep 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>甲骨文</title>
+      <link>https://ay1928.github.io/oracle/</link>
+      <guid>https://ay1928.github.io/oracle/</guid>
+      <source url="https://ay1928.github.io/rss.xml">甲骨文</source>
+      <description>圖錄 (catalogue.md); 文章 (article.md); 資料庫 (database.md);</description>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<ul>
+<li><a href="/oracle/catalogue.html" target="blank">圖錄</a></li>
+<li><a href="/oracle/article.html" target="blank">文章</a></li>
+<li><a href="/oracle/database.html" target="blank">資料庫</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>文章</title>
+      <link>https://ay1928.github.io/oracle/article.html</link>
+      <guid>https://ay1928.github.io/oracle/article.html</guid>
+      <source url="https://ay1928.github.io/rss.xml">文章</source>
+      <description>1. 陸懋德：〈由甲骨文考見商代之文化〉，《清華大學學報（自然科學版）》1927年第2期。 2. 董作賓：〈「獲白麟」解〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第287-335頁。 3. 傅斯年：〈新獲卜辭寫本後記跋〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第349-...</description>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<ol>
+<li>陸懋德：〈由甲骨文考見商代之文化〉，《清華大學學報（自然科學版）》1927年第2期。</li>
+<li>董作賓：〈「獲白麟」解〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第287-335頁。</li>
+<li>傅斯年：〈新獲卜辭寫本後記跋〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第349-386頁。</li>
+<li>董作賓：〈甲骨文研究之擴大〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第411-421頁。</li>
+<li>董作賓：〈大龜四版考釋〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第423-441頁。</li>
+<li>秉志：〈河南安陽之龜殼〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第443-446頁。</li>
+<li>董作賓：〈卜辭中所見之殷曆〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第481-522頁。</li>
+<li>董作賓：〈帚矛說（骨臼刻辭的研究）〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第635-676頁。</li>
+<li>董作賓：〈釋「馭贗」〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第697-703頁。</li>
+<li>董作賓：〈釋後岡出土的一片卜辭〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第705-708頁。</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>考古學年鑒</title>
+      <link>https://ay1928.github.io/yearbook/</link>
+      <guid>https://ay1928.github.io/yearbook/</guid>
+      <source url="https://ay1928.github.io/rss.xml">考古學年鑒</source>
+      <description>考古新發現 (new-archaeological-discovery.md);</description>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<ul>
+<li><a href="/yearbook/new-archaeological-discovery.html" target="blank">考古新發現</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>考古新發現</title>
+      <link>https://ay1928.github.io/yearbook/new-archaeological-discovery.html</link>
+      <guid>https://ay1928.github.io/yearbook/new-archaeological-discovery.html</guid>
+      <source url="https://ay1928.github.io/rss.xml">考古新發現</source>
+      <description>1. 楊錫璋：〈安陽殷墟西區殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1984年，第131頁。 2. 徐廣德：〈安陽大司空村殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1984年，第131-132頁。 3. 楊寶成：〈安陽市殷墟西區等地的小型墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1985年，第165頁。...</description>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<ol>
+<li>楊錫璋：〈安陽殷墟西區殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1984年，第131頁。</li>
+<li>徐廣德：〈安陽大司空村殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1984年，第131-132頁。</li>
+<li>楊寶成：〈安陽市殷墟西區等地的小型墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1985年，第165頁。</li>
+<li>楊寶成：〈安陽市殷墟王陵區司母戊墓及其他墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1985年，第166-167頁。</li>
+<li>〈安阳大司空村、花園村、劉家莊等地殷代墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟宮殿區防衛溝〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市大司空村殷代墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟甲十二乙二十基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟郭家莊車馬坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽豫北紗廠，劉家莊殷、周墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽花園莊、任家莊殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟一般保護區墓葬與車馬坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟大型宮殿建築基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽小屯殷代刻辭甲骨〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽花園莊南地殷代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽郭家莊西和武官村南殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟花園莊東地甲骨坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽後岡殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽花園莊東地甲骨坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟劉家莊北地車馬坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟殷代墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽白家墳東地殷代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽三家莊東地商代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽王裕口村南商、漢、唐宋及明清時期遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市洹北商代城址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市洹北商城Ⅳ2區〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市白家墳東地殷代遺址與墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市劉家莊北地殷代遺址與墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市孝民屯東龍山文化至漢代及唐宋時期遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市洹北商城遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市殷墟高級貴族墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈洹北商城宮殿基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市孝民屯殷墟西區〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽小屯南路殷墟遺存〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈殷墟大司空遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈殷墟安陽工作站内墓葬與建築基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市梅園莊北地商代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市花園莊南地製陶作坊遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市殷墟劉家莊北地商代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟大司空村東南地遺存〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+</ol>
+]]></content:encoded>
     </item>
     <item>
       <title>殷墟</title>
@@ -4348,106 +4455,6 @@ Richard Klein，鬣狗窩</p>
 </ol>
 <h2> 洹北</h2>
 <p>另見「<a href="/huanbei-shang-city/report.html" target="blank">洹北商城</a>」。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>考古學年鑒</title>
-      <link>https://ay1928.github.io/yearbook/</link>
-      <guid>https://ay1928.github.io/yearbook/</guid>
-      <source url="https://ay1928.github.io/rss.xml">考古學年鑒</source>
-      <description>考古新發現 (new-archaeological-discovery.md);</description>
-      <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<ul>
-<li><a href="/yearbook/new-archaeological-discovery.html" target="blank">考古新發現</a></li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>考古新發現</title>
-      <link>https://ay1928.github.io/yearbook/new-archaeological-discovery.html</link>
-      <guid>https://ay1928.github.io/yearbook/new-archaeological-discovery.html</guid>
-      <source url="https://ay1928.github.io/rss.xml">考古新發現</source>
-      <description>1. 楊錫璋：〈安陽殷墟西區殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1984年，第131頁。 2. 徐廣德：〈安陽大司空村殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1984年，第131-132頁。 3. 楊寶成：〈安陽市殷墟西區等地的小型墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1985年，第165頁。...</description>
-      <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<ol>
-<li>楊錫璋：〈安陽殷墟西區殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1984年，第131頁。</li>
-<li>徐廣德：〈安陽大司空村殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1984年，第131-132頁。</li>
-<li>楊寶成：〈安陽市殷墟西區等地的小型墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1985年，第165頁。</li>
-<li>楊寶成：〈安陽市殷墟王陵區司母戊墓及其他墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1985年，第166-167頁。</li>
-<li>〈安阳大司空村、花園村、劉家莊等地殷代墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟宮殿區防衛溝〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市大司空村殷代墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟甲十二乙二十基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟郭家莊車馬坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽豫北紗廠，劉家莊殷、周墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽花園莊、任家莊殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟一般保護區墓葬與車馬坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟大型宮殿建築基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽小屯殷代刻辭甲骨〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽花園莊南地殷代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽郭家莊西和武官村南殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟花園莊東地甲骨坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽後岡殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽花園莊東地甲骨坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟劉家莊北地車馬坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟殷代墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽白家墳東地殷代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽三家莊東地商代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽王裕口村南商、漢、唐宋及明清時期遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市洹北商代城址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市洹北商城Ⅳ2區〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市白家墳東地殷代遺址與墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市劉家莊北地殷代遺址與墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市孝民屯東龍山文化至漢代及唐宋時期遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市洹北商城遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市殷墟高級貴族墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈洹北商城宮殿基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市孝民屯殷墟西區〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽小屯南路殷墟遺存〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈殷墟大司空遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈殷墟安陽工作站内墓葬與建築基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市梅園莊北地商代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市花園莊南地製陶作坊遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市殷墟劉家莊北地商代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟大司空村東南地遺存〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-</ol>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>甲骨文</title>
-      <link>https://ay1928.github.io/oracle/</link>
-      <guid>https://ay1928.github.io/oracle/</guid>
-      <source url="https://ay1928.github.io/rss.xml">甲骨文</source>
-      <description>圖錄 (catalogue.md); 文章 (article.md); 資料庫 (database.md);</description>
-      <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<ul>
-<li><a href="/oracle/catalogue.html" target="blank">圖錄</a></li>
-<li><a href="/oracle/article.html" target="blank">文章</a></li>
-<li><a href="/oracle/database.html" target="blank">資料庫</a></li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>文章</title>
-      <link>https://ay1928.github.io/oracle/article.html</link>
-      <guid>https://ay1928.github.io/oracle/article.html</guid>
-      <source url="https://ay1928.github.io/rss.xml">文章</source>
-      <description>1. 陸懋德：〈由甲骨文考見商代之文化〉，《清華大學學報（自然科學版）》1927年第2期。 2. 董作賓：〈「獲白麟」解〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第287-335頁。 3. 傅斯年：〈新獲卜辭寫本後記跋〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第349-...</description>
-      <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<ol>
-<li>陸懋德：〈由甲骨文考見商代之文化〉，《清華大學學報（自然科學版）》1927年第2期。</li>
-<li>董作賓：〈「獲白麟」解〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第287-335頁。</li>
-<li>傅斯年：〈新獲卜辭寫本後記跋〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第349-386頁。</li>
-<li>董作賓：〈甲骨文研究之擴大〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第411-421頁。</li>
-<li>董作賓：〈大龜四版考釋〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第423-441頁。</li>
-<li>秉志：〈河南安陽之龜殼〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第443-446頁。</li>
-<li>董作賓：〈卜辭中所見之殷曆〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第481-522頁。</li>
-<li>董作賓：〈帚矛說（骨臼刻辭的研究）〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第635-676頁。</li>
-<li>董作賓：〈釋「馭贗」〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第697-703頁。</li>
-<li>董作賓：〈釋後岡出土的一片卜辭〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第705-708頁。</li>
-</ol>
 ]]></content:encoded>
     </item>
   </channel>
