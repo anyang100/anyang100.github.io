@@ -1,0 +1,1 @@
+import{_ as e,X as r,Y as t}from"./framework-2dc4946c.js";const a={};function n(o,c){return r(),t("div")}const _=e(a,[["render",n],["__file","reading-the-past-current-approaches-to-interpretation-in-archaeology.html.vue"]]);export{_ as default};

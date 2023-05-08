@@ -44,6 +44,10 @@ export default defineUserConfig({
       },
     navbar: [
       {
+        text: "考古源流",
+        link: "/archaeological-chronicle.md",
+      },      
+      {
         text: "報道",
         link: "/news.md",
       },

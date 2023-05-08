@@ -1,0 +1,1 @@
+import{_ as t,X as n,Y as a,Z as e,$ as s}from"./framework-2dc4946c.js";const c={},o=e("h2",{id:"廣東",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#廣東","aria-hidden":"true"},"#"),s(" 廣東")],-1),r=e("ul",null,[e("li",null,"汕尾")],-1),_=[o,r];function d(l,i){return n(),a("div",null,_)}const u=t(c,[["render",d],["__file","index.html.vue"]]);export{u as default};

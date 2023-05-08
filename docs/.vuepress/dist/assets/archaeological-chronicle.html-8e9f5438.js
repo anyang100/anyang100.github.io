@@ -1,0 +1,1 @@
+import{_ as e,X as c,Y as o}from"./framework-2dc4946c.js";const r={};function a(l,t){return c(),o("div")}const _=e(r,[["render",a],["__file","archaeological-chronicle.html.vue"]]);export{_ as default};

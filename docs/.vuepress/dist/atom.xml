@@ -4,10 +4,54 @@
   <title>安陽・一九二八</title>
   <subtitle>安陽考古學研究索引集</subtitle>
   <icon>https://ay1928.github.io/favicon.ico</icon>
-  <updated>2023-04-17T05:54:07.214Z</updated>
+  <updated>2023-05-08T05:15:12.168Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://ay1928.github.io/atom.xml"/>
   <link rel="alternate" href="https://ay1928.github.io/"/>
+  <entry>
+    <title type="text">考古源流</title>
+    <id>https://ay1928.github.io/archaeological-chronicle.html</id>
+    <link href="https://ay1928.github.io/archaeological-chronicle.html"/>
+    <updated>2023-05-08T05:15:12.183Z</updated>
+    <published>2023-05-08T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">遺址</title>
+    <id>https://ay1928.github.io/site/</id>
+    <link href="https://ay1928.github.io/site/"/>
+    <updated>2023-05-08T05:15:12.188Z</updated>
+    <summary type="html"><![CDATA[<h2> 廣東</h2>
+<ul>
+<li>汕尾</li>
+</ul>
+]]></summary>
+    <content type="html"><![CDATA[<h2> 廣東</h2>
+<ul>
+<li>汕尾</li>
+</ul>
+]]></content>
+    <published>2023-05-02T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">廣東汕尾</title>
+    <id>https://ay1928.github.io/site/shanwei.html</id>
+    <link href="https://ay1928.github.io/site/shanwei.html"/>
+    <updated>2023-05-08T05:15:12.189Z</updated>
+    <summary type="html"><![CDATA[<h2> 調查報告</h2>
+<ol>
+<li>Raphael Maglioni, “Archaeological Finds in Hoifung Part Ⅰ,” <em>The Hong Kong Naturalist</em>, Vol. Ⅷ, 1938, p. 239-244.</li>
+<li>顧鐵符：《廣東海豐先史遺址探險記（上）》，《文學》（國立中山大學文學院院刊）1947年第2期，第69-70頁。</li>
+<li>Raphael Maglioni and Hong Kong Archaeological Society, ed. <em>Archaeological Discovery in Eastern Kwangtung</em>, Hong Kong: Hong Kong Archaeological Society, 1975.</li>
+</ol>]]></summary>
+    <content type="html"><![CDATA[<h2> 調查報告</h2>
+<ol>
+<li>Raphael Maglioni, “Archaeological Finds in Hoifung Part Ⅰ,” <em>The Hong Kong Naturalist</em>, Vol. Ⅷ, 1938, p. 239-244.</li>
+<li>顧鐵符：《廣東海豐先史遺址探險記（上）》，《文學》（國立中山大學文學院院刊）1947年第2期，第69-70頁。</li>
+<li>Raphael Maglioni and Hong Kong Archaeological Society, ed. <em>Archaeological Discovery in Eastern Kwangtung</em>, Hong Kong: Hong Kong Archaeological Society, 1975.</li>
+</ol>
+]]></content>
+    <published>2023-05-02T00:00:00.000Z</published>
+  </entry>
   <entry>
     <title type="text">文章</title>
     <id>https://ay1928.github.io/article.html</id>
@@ -50,7 +94,7 @@
     <title type="text">文件</title>
     <id>https://ay1928.github.io/document.html</id>
     <link href="https://ay1928.github.io/document.html"/>
-    <updated>2023-04-13T08:56:18.000Z</updated>
+    <updated>2023-04-17T05:54:33.000Z</updated>
     <summary type="html"><![CDATA[<h2> 指引</h2>
 <ol>
 <li><a href="http://www.mtc.gov.on.ca/en/publications/SG_2010.pdf" target="_blank" rel="noopener noreferrer">Standards and Guidelines for Consultant Archaeologists</a></li>
@@ -1506,79 +1550,6 @@ of natural resources, and fostering synergies between modern science and local k
     <published>2022-09-17T00:00:00.000Z</published>
   </entry>
   <entry>
-    <title type="text">ICOM Statutes</title>
-    <id>https://ay1928.github.io/convention/icom-statues.html</id>
-    <link href="https://ay1928.github.io/convention/icom-statues.html"/>
-    <updated>2023-03-30T10:33:40.000Z</updated>
-    <summary type="html"><![CDATA[<h1> International Council of Museums (ICOM) - Statutes</h1>
-<blockquote>
-<p><a href="https://icommuseum/wp-content/uploads/2018/07/2017_ICOM_Statutes_ENpdf" target="_blank" rel="noopener noreferrer">原文</a>摘自ICOM。</p>
-</blockquote>
-<h2> English</h2>
-<p>As amended and adopted by the Extraordinary General Assembly on 9th June 2017 (Paris, France)</p>]]></summary>
-    <content type="html"><![CDATA[<h1> International Council of Museums (ICOM) - Statutes</h1>
-<blockquote>
-<p><a href="https://icommuseum/wp-content/uploads/2018/07/2017_ICOM_Statutes_ENpdf" target="_blank" rel="noopener noreferrer">原文</a>摘自ICOM。</p>
-</blockquote>
-<h2> English</h2>
-<p>As amended and adopted by the Extraordinary General Assembly on 9th June 2017 (Paris, France)</p>
-<h3> Introduction</h3>
-<p>The Statutes of the International Council of Museums (hereinafter referred to as “ICOM”) is the basic document of the Organisation. The Internal Rules of ICOM and the ICOM Code of Ethics for Museums define and complete these Statutes.</p>
-<h3> Article 1. Name, Legal Status, Location, Term and Fiscal Year</h3>
-<h4> Section 1 - Name</h4>
-<p>The name of the Organisation is the ‘International Council of Museums’ (ICOM). Use of the name and acronym is subject to restrictions and may only be used by and for the uses and benefit of the Organisation and its Members.</p>
-<h4> Section 2 - Legal Status</h4>
-<p>Established in 1946, ICOM is a non-profit organisation subject to French law (the 1901 Associations Act) and a non-governmental organisation that maintains formal relations with the United Nations Educational, Scientific and Cultural Organization (UNESCO) and has a consultative status with the United Nations Economic and Social Council.</p>
-<h4> Section 3 - Location</h4>
-<p>The registered office of ICOM is located at Maison de l’UNESCO, 1 rue Miollis, 75732 Paris Cedex 15, France. Relocation of the registered office within the Paris Region is subject to the approval of the Executive Board. Relocation of the registered office to another part of France or another country is subject to the approval of the General Assembly.</p>
-<h4> Section 4 - Term</h4>
-<p>The term of ICOM shall be indefinite.</p>
-<h4> Section 5 - Fiscal Year</h4>
-<p>The term of ICOM shall be indefinite.</p>
-<h3> Article 2. Mission and Purpose</h3>
-<h4> Section 1 - Mission</h4>
-<p>ICOM is the international organisation of museums and museum professionals which is committed to the research, conservation, continuation and communication to society of the world's natural and cultural heritage, present and future, tangible and intangible.</p>
-<h4> Section 2 - Purpose</h4>
-<p>ICOM establishes professional and ethical standards for museum activities, makes recommendations on issues related thereto, promotes capacity building, advances knowledge and raises public cultural awareness through global networks and co-operation programmes.</p>
-<h3> Article 3. Definition of Terms</h3>
-<p>Whenever used in these Statutes, the following terms beginning with a capital letter shall bear the
-meaning defined in the present Article. No distinction shall be made between the singular or plural
-use thereof.</p>
-<h4> Secion 1 - Museum</h4>
-<p>A museum is a non-profit, permanent institution in the service of society and its development, open to the public, which acquires, conserves, researches, communicates and exhibits the tangible and intangible heritage of humanity and its environment for the purposes of education, study and enjoyment.</p>
-<h4> Section 2 – Institutions recognised by ICOM</h4>
-<p>After seeking the advice of the Advisory Council, the Executive Board, may recognise other institutions as having some or all of the characteristics of a Museum.</p>
-<h4> Section 3 – Museum Professionals</h4>
-<p>Museum professionals include all staff of the museums and institutions qualifying as museums in accordance with the definition stated within the scope of Article 3, Section 1 and 2 and persons who, in a professional capacity, have as their main activity to provide services, knowledge and expertise for museums and the museum community.</p>
-<h3> Section 4 – Member in Good Standing</h3>
-<p>An ICOM member in good standing is a person or an institution whose request for membership to ICOM has been accepted under the conditions defined within the scope of Article 4, Section 2 of these Statutes, and has paid the annual membership fee for the respective period and in amount stipulated by the Executive Board.</p>
-<h4> Section 5 – State</h4>
-<p>For the purposes of establishing National Committees, a State is defined as a sovereign country that is a member of the United Nations or any of its Specialised Agencies, or is a party to the Statute of the International Court of Justice.</p>
-<h3> Article 4. Membership</h3>
-<h3> Article 5. Annual Membership Fee</h3>
-<h3> Article 6. Membership Privileges</h3>
-<h3> Article 7. Voting Rights at the General Assembly and the Election of the Executive Board</h3>
-<h3> Article 8. Components of ICOM</h3>
-<h3> Article 9. Governance Structure</h3>
-<h3> Article 10. General Assembly</h3>
-<h3> Article 11. Executive Board</h3>
-<h3> Article 12. Auditing of Accounts</h3>
-<h3> Article 13. Advisory Council</h3>
-<h3> Article 14. National Committees</h3>
-<h3> Article 15. National Correspondents</h3>
-<h3> Article 16. International Committees</h3>
-<h3> Article 17. Regional Alliances</h3>
-<h3> Article 18. Affiliated Organisations</h3>
-<h3> Article 19. General Triennial Conference</h3>
-<h3> Article 20. Secretariat</h3>
-<h3> Article 21. Income and Disbursements</h3>
-<h3> Article 22. Languages</h3>
-<h3> Article 23. Validation and Amendments</h3>
-<h3> Article 24. Dissolution</h3>
-]]></content>
-    <published>2022-09-17T00:00:00.000Z</published>
-  </entry>
-  <entry>
     <title type="text">公約與法規</title>
     <id>https://ay1928.github.io/convention/</id>
     <link href="https://ay1928.github.io/convention/"/>
@@ -1863,10 +1834,83 @@ use thereof.</p>
     <published>2023-03-30T00:00:00.000Z</published>
   </entry>
   <entry>
+    <title type="text">ICOM Statutes</title>
+    <id>https://ay1928.github.io/convention/icom-statues.html</id>
+    <link href="https://ay1928.github.io/convention/icom-statues.html"/>
+    <updated>2023-03-30T10:33:40.000Z</updated>
+    <summary type="html"><![CDATA[<h1> International Council of Museums (ICOM) - Statutes</h1>
+<blockquote>
+<p><a href="https://icommuseum/wp-content/uploads/2018/07/2017_ICOM_Statutes_ENpdf" target="_blank" rel="noopener noreferrer">原文</a>摘自ICOM。</p>
+</blockquote>
+<h2> English</h2>
+<p>As amended and adopted by the Extraordinary General Assembly on 9th June 2017 (Paris, France)</p>]]></summary>
+    <content type="html"><![CDATA[<h1> International Council of Museums (ICOM) - Statutes</h1>
+<blockquote>
+<p><a href="https://icommuseum/wp-content/uploads/2018/07/2017_ICOM_Statutes_ENpdf" target="_blank" rel="noopener noreferrer">原文</a>摘自ICOM。</p>
+</blockquote>
+<h2> English</h2>
+<p>As amended and adopted by the Extraordinary General Assembly on 9th June 2017 (Paris, France)</p>
+<h3> Introduction</h3>
+<p>The Statutes of the International Council of Museums (hereinafter referred to as “ICOM”) is the basic document of the Organisation. The Internal Rules of ICOM and the ICOM Code of Ethics for Museums define and complete these Statutes.</p>
+<h3> Article 1. Name, Legal Status, Location, Term and Fiscal Year</h3>
+<h4> Section 1 - Name</h4>
+<p>The name of the Organisation is the ‘International Council of Museums’ (ICOM). Use of the name and acronym is subject to restrictions and may only be used by and for the uses and benefit of the Organisation and its Members.</p>
+<h4> Section 2 - Legal Status</h4>
+<p>Established in 1946, ICOM is a non-profit organisation subject to French law (the 1901 Associations Act) and a non-governmental organisation that maintains formal relations with the United Nations Educational, Scientific and Cultural Organization (UNESCO) and has a consultative status with the United Nations Economic and Social Council.</p>
+<h4> Section 3 - Location</h4>
+<p>The registered office of ICOM is located at Maison de l’UNESCO, 1 rue Miollis, 75732 Paris Cedex 15, France. Relocation of the registered office within the Paris Region is subject to the approval of the Executive Board. Relocation of the registered office to another part of France or another country is subject to the approval of the General Assembly.</p>
+<h4> Section 4 - Term</h4>
+<p>The term of ICOM shall be indefinite.</p>
+<h4> Section 5 - Fiscal Year</h4>
+<p>The term of ICOM shall be indefinite.</p>
+<h3> Article 2. Mission and Purpose</h3>
+<h4> Section 1 - Mission</h4>
+<p>ICOM is the international organisation of museums and museum professionals which is committed to the research, conservation, continuation and communication to society of the world's natural and cultural heritage, present and future, tangible and intangible.</p>
+<h4> Section 2 - Purpose</h4>
+<p>ICOM establishes professional and ethical standards for museum activities, makes recommendations on issues related thereto, promotes capacity building, advances knowledge and raises public cultural awareness through global networks and co-operation programmes.</p>
+<h3> Article 3. Definition of Terms</h3>
+<p>Whenever used in these Statutes, the following terms beginning with a capital letter shall bear the
+meaning defined in the present Article. No distinction shall be made between the singular or plural
+use thereof.</p>
+<h4> Secion 1 - Museum</h4>
+<p>A museum is a non-profit, permanent institution in the service of society and its development, open to the public, which acquires, conserves, researches, communicates and exhibits the tangible and intangible heritage of humanity and its environment for the purposes of education, study and enjoyment.</p>
+<h4> Section 2 – Institutions recognised by ICOM</h4>
+<p>After seeking the advice of the Advisory Council, the Executive Board, may recognise other institutions as having some or all of the characteristics of a Museum.</p>
+<h4> Section 3 – Museum Professionals</h4>
+<p>Museum professionals include all staff of the museums and institutions qualifying as museums in accordance with the definition stated within the scope of Article 3, Section 1 and 2 and persons who, in a professional capacity, have as their main activity to provide services, knowledge and expertise for museums and the museum community.</p>
+<h3> Section 4 – Member in Good Standing</h3>
+<p>An ICOM member in good standing is a person or an institution whose request for membership to ICOM has been accepted under the conditions defined within the scope of Article 4, Section 2 of these Statutes, and has paid the annual membership fee for the respective period and in amount stipulated by the Executive Board.</p>
+<h4> Section 5 – State</h4>
+<p>For the purposes of establishing National Committees, a State is defined as a sovereign country that is a member of the United Nations or any of its Specialised Agencies, or is a party to the Statute of the International Court of Justice.</p>
+<h3> Article 4. Membership</h3>
+<h3> Article 5. Annual Membership Fee</h3>
+<h3> Article 6. Membership Privileges</h3>
+<h3> Article 7. Voting Rights at the General Assembly and the Election of the Executive Board</h3>
+<h3> Article 8. Components of ICOM</h3>
+<h3> Article 9. Governance Structure</h3>
+<h3> Article 10. General Assembly</h3>
+<h3> Article 11. Executive Board</h3>
+<h3> Article 12. Auditing of Accounts</h3>
+<h3> Article 13. Advisory Council</h3>
+<h3> Article 14. National Committees</h3>
+<h3> Article 15. National Correspondents</h3>
+<h3> Article 16. International Committees</h3>
+<h3> Article 17. Regional Alliances</h3>
+<h3> Article 18. Affiliated Organisations</h3>
+<h3> Article 19. General Triennial Conference</h3>
+<h3> Article 20. Secretariat</h3>
+<h3> Article 21. Income and Disbursements</h3>
+<h3> Article 22. Languages</h3>
+<h3> Article 23. Validation and Amendments</h3>
+<h3> Article 24. Dissolution</h3>
+]]></content>
+    <published>2022-09-17T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">文章</title>
     <id>https://ay1928.github.io/huanbei-shang-city/article.html</id>
     <link href="https://ay1928.github.io/huanbei-shang-city/article.html"/>
-    <updated>2023-04-10T03:36:22.000Z</updated>
+    <updated>2023-04-17T05:54:33.000Z</updated>
     <summary type="html"><![CDATA[<ol>
 <li>劉緒、雷興山：〈<a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKjkpgKvIT9Nkm5tS6uBYqSFb37Tv2qRHPu58hQh4BDcVHHcHrSMJgs8bnOYklVNbnTZsH74rPtJ2&amp;uniplatform=NZKPT" target="_blank" rel="noopener noreferrer">洹北花園莊遺址與河亶甲局相</a>〉，《文物世界》1999年第4期，第18頁。</li>
 <li>唐際根：〈<a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ir5D84hng_y4D11vwp0rrtb7eKeD2Pd3ArP_uHf31nn1B4_Gyt0QSAp20-zcRFnNl&amp;uniplatform=NZKPT" target="_blank" rel="noopener noreferrer">從百年甲骨到新發現的商城——安陽洹北商城發現記</a>〉，《文物天地》2000年第4期，第7-12頁。</li>
@@ -2022,6 +2066,25 @@ use thereof.</p>
     <id>https://ay1928.github.io/note/reading/reading-the-past-current-approaches-to-interpretation-in-archaeology.html</id>
     <link href="https://ay1928.github.io/note/reading/reading-the-past-current-approaches-to-interpretation-in-archaeology.html"/>
     <updated>2023-01-29T08:06:26.000Z</updated>
+    <published>2022-10-10T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">閱讀筆記</title>
+    <id>https://ay1928.github.io/note/reading/</id>
+    <link href="https://ay1928.github.io/note/reading/"/>
+    <updated>2023-01-29T08:06:26.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 閱讀筆記</h1>
+<h2> 理論</h2>
+<ol>
+<li>Binford, L. R. (1983). <em><a href="/note/reading/in-pursuit-of-the-past-deconding-the-archaeological-record.html" target="blank">In Pursuit of The Past: Decoding The Archaeological Record</a></em>. Thames and Hudson.</li>
+</ol>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 閱讀筆記</h1>
+<h2> 理論</h2>
+<ol>
+<li>Binford, L. R. (1983). <em><a href="/note/reading/in-pursuit-of-the-past-deconding-the-archaeological-record.html" target="blank">In Pursuit of The Past: Decoding The Archaeological Record</a></em>. Thames and Hudson.</li>
+</ol>
+]]></content>
     <published>2022-10-10T00:00:00.000Z</published>
   </entry>
   <entry>
@@ -2457,25 +2520,6 @@ Richard Klein，鬣狗窩</p>
 <ul>
 <li>氣候變化驅使人類馴化農作物--&gt;農業起源</li>
 </ul>
-]]></content>
-    <published>2022-10-10T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">閱讀筆記</title>
-    <id>https://ay1928.github.io/note/reading/</id>
-    <link href="https://ay1928.github.io/note/reading/"/>
-    <updated>2023-01-29T08:06:26.000Z</updated>
-    <summary type="html"><![CDATA[<h1> 閱讀筆記</h1>
-<h2> 理論</h2>
-<ol>
-<li>Binford, L. R. (1983). <em><a href="/note/reading/in-pursuit-of-the-past-deconding-the-archaeological-record.html" target="blank">In Pursuit of The Past: Decoding The Archaeological Record</a></em>. Thames and Hudson.</li>
-</ol>
-]]></summary>
-    <content type="html"><![CDATA[<h1> 閱讀筆記</h1>
-<h2> 理論</h2>
-<ol>
-<li>Binford, L. R. (1983). <em><a href="/note/reading/in-pursuit-of-the-past-deconding-the-archaeological-record.html" target="blank">In Pursuit of The Past: Decoding The Archaeological Record</a></em>. Thames and Hudson.</li>
-</ol>
 ]]></content>
     <published>2022-10-10T00:00:00.000Z</published>
   </entry>
@@ -4429,6 +4473,23 @@ Richard Klein，鬣狗窩</p>
     <published>2022-09-15T00:00:00.000Z</published>
   </entry>
   <entry>
+    <title type="text">高陵</title>
+    <id>https://ay1928.github.io/gao-ling/</id>
+    <link href="https://ay1928.github.io/gao-ling/"/>
+    <updated>2023-04-13T08:56:18.000Z</updated>
+    <summary type="html"><![CDATA[<ul>
+<li><a href="/gao-ling/report.html" target="blank">報告</a></li>
+<li><a href="/gao-ling/article.html" target="blank">文章</a></li>
+</ul>
+]]></summary>
+    <content type="html"><![CDATA[<ul>
+<li><a href="/gao-ling/report.html" target="blank">報告</a></li>
+<li><a href="/gao-ling/article.html" target="blank">文章</a></li>
+</ul>
+]]></content>
+    <published>2022-09-07T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">文章</title>
     <id>https://ay1928.github.io/gao-ling/article.html</id>
     <link href="https://ay1928.github.io/gao-ling/article.html"/>
@@ -4471,23 +4532,6 @@ Richard Klein，鬣狗窩</p>
     <published>2022-09-07T00:00:00.000Z</published>
   </entry>
   <entry>
-    <title type="text">高陵</title>
-    <id>https://ay1928.github.io/gao-ling/</id>
-    <link href="https://ay1928.github.io/gao-ling/"/>
-    <updated>2023-04-13T08:56:18.000Z</updated>
-    <summary type="html"><![CDATA[<ul>
-<li><a href="/gao-ling/report.html" target="blank">報告</a></li>
-<li><a href="/gao-ling/article.html" target="blank">文章</a></li>
-</ul>
-]]></summary>
-    <content type="html"><![CDATA[<ul>
-<li><a href="/gao-ling/report.html" target="blank">報告</a></li>
-<li><a href="/gao-ling/article.html" target="blank">文章</a></li>
-</ul>
-]]></content>
-    <published>2022-09-07T00:00:00.000Z</published>
-  </entry>
-  <entry>
     <title type="text">報告</title>
     <id>https://ay1928.github.io/gao-ling/report.html</id>
     <link href="https://ay1928.github.io/gao-ling/report.html"/>
@@ -4518,6 +4562,27 @@ Richard Klein，鬣狗窩</p>
 </ol>
 ]]></content>
     <published>2022-09-07T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">圖錄</title>
+    <id>https://ay1928.github.io/yinxu/catalogue.html</id>
+    <link href="https://ay1928.github.io/yinxu/catalogue.html"/>
+    <updated>2023-02-24T10:36:32.000Z</updated>
+    <summary type="html"><![CDATA[<ol>
+<li>羅振玉輯：《殷墟古物圖錄》，民國五年印。</li>
+<li>中國社會科學院考古研究所編著：《殷墟玉器》，北京：文物出版社，1982年。</li>
+<li>中國社會科學院考古研究所編著：《殷墟青銅器》，北京：文物出版社，1985年。</li>
+<li>中國社會科學院考古研究所、安陽市文物考古研究所編著：《殷墟新出土青銅器》，昆明：雲南人民出版社，2008年。</li>
+</ol>
+]]></summary>
+    <content type="html"><![CDATA[<ol>
+<li>羅振玉輯：《殷墟古物圖錄》，民國五年印。</li>
+<li>中國社會科學院考古研究所編著：《殷墟玉器》，北京：文物出版社，1982年。</li>
+<li>中國社會科學院考古研究所編著：《殷墟青銅器》，北京：文物出版社，1985年。</li>
+<li>中國社會科學院考古研究所、安陽市文物考古研究所編著：《殷墟新出土青銅器》，昆明：雲南人民出版社，2008年。</li>
+</ol>
+]]></content>
+    <published>2022-01-22T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">圖錄</title>
@@ -4796,27 +4861,6 @@ Richard Klein，鬣狗窩</p>
     <published>2022-01-22T00:00:00.000Z</published>
   </entry>
   <entry>
-    <title type="text">圖錄</title>
-    <id>https://ay1928.github.io/yinxu/catalogue.html</id>
-    <link href="https://ay1928.github.io/yinxu/catalogue.html"/>
-    <updated>2023-02-24T10:36:32.000Z</updated>
-    <summary type="html"><![CDATA[<ol>
-<li>羅振玉輯：《殷墟古物圖錄》，民國五年印。</li>
-<li>中國社會科學院考古研究所編著：《殷墟玉器》，北京：文物出版社，1982年。</li>
-<li>中國社會科學院考古研究所編著：《殷墟青銅器》，北京：文物出版社，1985年。</li>
-<li>中國社會科學院考古研究所、安陽市文物考古研究所編著：《殷墟新出土青銅器》，昆明：雲南人民出版社，2008年。</li>
-</ol>
-]]></summary>
-    <content type="html"><![CDATA[<ol>
-<li>羅振玉輯：《殷墟古物圖錄》，民國五年印。</li>
-<li>中國社會科學院考古研究所編著：《殷墟玉器》，北京：文物出版社，1982年。</li>
-<li>中國社會科學院考古研究所編著：《殷墟青銅器》，北京：文物出版社，1985年。</li>
-<li>中國社會科學院考古研究所、安陽市文物考古研究所編著：《殷墟新出土青銅器》，昆明：雲南人民出版社，2008年。</li>
-</ol>
-]]></content>
-    <published>2022-01-22T00:00:00.000Z</published>
-  </entry>
-  <entry>
     <title type="text">報道</title>
     <id>https://ay1928.github.io/news.html</id>
     <link href="https://ay1928.github.io/news.html"/>
@@ -4945,7 +4989,7 @@ Richard Klein，鬣狗窩</p>
     <title type="text">報告</title>
     <id>https://ay1928.github.io/huanbei-shang-city/report.html</id>
     <link href="https://ay1928.github.io/huanbei-shang-city/report.html"/>
-    <updated>2023-04-13T08:56:18.000Z</updated>
+    <updated>2023-04-17T05:54:33.000Z</updated>
     <summary type="html"><![CDATA[<ol>
 <li>中國社會科學院考古研究所安陽工作隊：〈安陽殷墟三家莊東的發掘〉，《考古》1983年第2期，第126-132頁。</li>
 <li>孟憲武：〈安陽三家莊發現商代窖藏青銅器〉，《考古》1985年第12期，第1135+1139-1140頁。</li>
@@ -4979,163 +5023,20 @@ Richard Klein，鬣狗窩</p>
     <published>2022-09-17T00:00:00.000Z</published>
   </entry>
   <entry>
-    <title type="text">文章</title>
-    <id>https://ay1928.github.io/oracle/article.html</id>
-    <link href="https://ay1928.github.io/oracle/article.html"/>
-    <updated>2023-04-13T08:56:18.000Z</updated>
-    <summary type="html"><![CDATA[<ol>
-<li>陸懋德：〈由甲骨文考見商代之文化〉，《清華大學學報（自然科學版）》1927年第2期。</li>
-<li>董作賓：〈「獲白麟」解〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第287-335頁。</li>
-<li>傅斯年：〈新獲卜辭寫本後記跋〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第349-386頁。</li>
-<li>董作賓：〈甲骨文研究之擴大〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第411-421頁。</li>
-<li>董作賓：〈大龜四版考釋〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第423-441頁。</li>
-<li>秉志：〈河南安陽之龜殼〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第443-446頁。</li>
-<li>董作賓：〈卜辭中所見之殷曆〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第481-522頁。</li>
-<li>董作賓：〈帚矛說（骨臼刻辭的研究）〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第635-676頁。</li>
-<li>董作賓：〈釋「馭贗」〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第697-703頁。</li>
-<li>董作賓：〈釋後岡出土的一片卜辭〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第705-708頁。</li>
-</ol>]]></summary>
-    <content type="html"><![CDATA[<ol>
-<li>陸懋德：〈由甲骨文考見商代之文化〉，《清華大學學報（自然科學版）》1927年第2期。</li>
-<li>董作賓：〈「獲白麟」解〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第287-335頁。</li>
-<li>傅斯年：〈新獲卜辭寫本後記跋〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第349-386頁。</li>
-<li>董作賓：〈甲骨文研究之擴大〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第411-421頁。</li>
-<li>董作賓：〈大龜四版考釋〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第423-441頁。</li>
-<li>秉志：〈河南安陽之龜殼〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第443-446頁。</li>
-<li>董作賓：〈卜辭中所見之殷曆〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第481-522頁。</li>
-<li>董作賓：〈帚矛說（骨臼刻辭的研究）〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第635-676頁。</li>
-<li>董作賓：〈釋「馭贗」〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第697-703頁。</li>
-<li>董作賓：〈釋後岡出土的一片卜辭〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第705-708頁。</li>
-</ol>
-]]></content>
-    <published>2022-08-19T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">甲骨文</title>
-    <id>https://ay1928.github.io/oracle/</id>
-    <link href="https://ay1928.github.io/oracle/"/>
+    <title type="text">殷墟</title>
+    <id>https://ay1928.github.io/yinxu/</id>
+    <link href="https://ay1928.github.io/yinxu/"/>
     <updated>2023-03-30T10:33:40.000Z</updated>
     <summary type="html"><![CDATA[<ul>
-<li><a href="/oracle/catalogue.html" target="blank">圖錄</a></li>
-<li><a href="/oracle/article.html" target="blank">文章</a></li>
-<li><a href="/oracle/database.html" target="blank">資料庫</a></li>
+<li><a href="/yinxu/report.html" target="blank">報告</a></li>
+<li><a href="/yinxu/catalogue.html" target="blank">圖錄</a></li>
+<li><a href="/yinxu/article.html" target="blank">文章</a></li>
 </ul>
 ]]></summary>
     <content type="html"><![CDATA[<ul>
-<li><a href="/oracle/catalogue.html" target="blank">圖錄</a></li>
-<li><a href="/oracle/article.html" target="blank">文章</a></li>
-<li><a href="/oracle/database.html" target="blank">資料庫</a></li>
-</ul>
-]]></content>
-    <published>2022-01-22T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">考古新發現</title>
-    <id>https://ay1928.github.io/yearbook/new-archaeological-discovery.html</id>
-    <link href="https://ay1928.github.io/yearbook/new-archaeological-discovery.html"/>
-    <updated>2023-02-24T08:35:40.000Z</updated>
-    <summary type="html"><![CDATA[<ol>
-<li>楊錫璋：〈安陽殷墟西區殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1984年，第131頁。</li>
-<li>徐廣德：〈安陽大司空村殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1984年，第131-132頁。</li>
-<li>楊寶成：〈安陽市殷墟西區等地的小型墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1985年，第165頁。</li>
-<li>楊寶成：〈安陽市殷墟王陵區司母戊墓及其他墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1985年，第166-167頁。</li>
-<li>〈安阳大司空村、花園村、劉家莊等地殷代墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟宮殿區防衛溝〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市大司空村殷代墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟甲十二乙二十基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟郭家莊車馬坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽豫北紗廠，劉家莊殷、周墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽花園莊、任家莊殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟一般保護區墓葬與車馬坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟大型宮殿建築基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽小屯殷代刻辭甲骨〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽花園莊南地殷代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽郭家莊西和武官村南殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟花園莊東地甲骨坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽後岡殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽花園莊東地甲骨坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟劉家莊北地車馬坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟殷代墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽白家墳東地殷代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽三家莊東地商代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽王裕口村南商、漢、唐宋及明清時期遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市洹北商代城址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市洹北商城Ⅳ2區〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市白家墳東地殷代遺址與墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市劉家莊北地殷代遺址與墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市孝民屯東龍山文化至漢代及唐宋時期遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市洹北商城遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市殷墟高級貴族墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈洹北商城宮殿基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市孝民屯殷墟西區〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽小屯南路殷墟遺存〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈殷墟大司空遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈殷墟安陽工作站内墓葬與建築基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市梅園莊北地商代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市花園莊南地製陶作坊遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市殷墟劉家莊北地商代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟大司空村東南地遺存〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-</ol>]]></summary>
-    <content type="html"><![CDATA[<ol>
-<li>楊錫璋：〈安陽殷墟西區殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1984年，第131頁。</li>
-<li>徐廣德：〈安陽大司空村殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1984年，第131-132頁。</li>
-<li>楊寶成：〈安陽市殷墟西區等地的小型墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1985年，第165頁。</li>
-<li>楊寶成：〈安陽市殷墟王陵區司母戊墓及其他墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1985年，第166-167頁。</li>
-<li>〈安阳大司空村、花園村、劉家莊等地殷代墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟宮殿區防衛溝〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市大司空村殷代墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟甲十二乙二十基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟郭家莊車馬坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽豫北紗廠，劉家莊殷、周墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽花園莊、任家莊殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟一般保護區墓葬與車馬坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟大型宮殿建築基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽小屯殷代刻辭甲骨〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽花園莊南地殷代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽郭家莊西和武官村南殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟花園莊東地甲骨坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽後岡殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽花園莊東地甲骨坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟劉家莊北地車馬坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟殷代墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽白家墳東地殷代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽三家莊東地商代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽王裕口村南商、漢、唐宋及明清時期遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市洹北商代城址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市洹北商城Ⅳ2區〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市白家墳東地殷代遺址與墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市劉家莊北地殷代遺址與墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市孝民屯東龍山文化至漢代及唐宋時期遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市洹北商城遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市殷墟高級貴族墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈洹北商城宮殿基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市孝民屯殷墟西區〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽小屯南路殷墟遺存〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈殷墟大司空遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈殷墟安陽工作站内墓葬與建築基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市梅園莊北地商代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市花園莊南地製陶作坊遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽市殷墟劉家莊北地商代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-<li>〈安陽殷墟大司空村東南地遺存〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
-</ol>
-]]></content>
-    <published>2022-01-22T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">考古學年鑒</title>
-    <id>https://ay1928.github.io/yearbook/</id>
-    <link href="https://ay1928.github.io/yearbook/"/>
-    <updated>2023-03-29T04:59:36.000Z</updated>
-    <summary type="html"><![CDATA[<ul>
-<li><a href="/yearbook/new-archaeological-discovery.html" target="blank">考古新發現</a></li>
-</ul>
-]]></summary>
-    <content type="html"><![CDATA[<ul>
-<li><a href="/yearbook/new-archaeological-discovery.html" target="blank">考古新發現</a></li>
+<li><a href="/yinxu/report.html" target="blank">報告</a></li>
+<li><a href="/yinxu/catalogue.html" target="blank">圖錄</a></li>
+<li><a href="/yinxu/article.html" target="blank">文章</a></li>
 </ul>
 ]]></content>
     <published>2022-01-22T00:00:00.000Z</published>
@@ -5163,25 +5064,6 @@ Richard Klein，鬣狗窩</p>
 <li>劉嶼霞：〈殷代冶銅術之研究〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第681-696頁。</li>
 <li>易華：〈世界之安陽——中國文明的形成與創新〉，《南方文物》2018年第4期，第1-10頁。</li>
 </ol>
-]]></content>
-    <published>2022-01-22T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">殷墟</title>
-    <id>https://ay1928.github.io/yinxu/</id>
-    <link href="https://ay1928.github.io/yinxu/"/>
-    <updated>2023-03-30T10:33:40.000Z</updated>
-    <summary type="html"><![CDATA[<ul>
-<li><a href="/yinxu/report.html" target="blank">報告</a></li>
-<li><a href="/yinxu/catalogue.html" target="blank">圖錄</a></li>
-<li><a href="/yinxu/article.html" target="blank">文章</a></li>
-</ul>
-]]></summary>
-    <content type="html"><![CDATA[<ul>
-<li><a href="/yinxu/report.html" target="blank">報告</a></li>
-<li><a href="/yinxu/catalogue.html" target="blank">圖錄</a></li>
-<li><a href="/yinxu/article.html" target="blank">文章</a></li>
-</ul>
 ]]></content>
     <published>2022-01-22T00:00:00.000Z</published>
   </entry>
@@ -5381,5 +5263,167 @@ Richard Klein，鬣狗窩</p>
 <p>另見「<a href="/huanbei-shang-city/report.html" target="blank">洹北商城</a>」。</p>
 ]]></content>
     <published>2022-01-22T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">考古學年鑒</title>
+    <id>https://ay1928.github.io/yearbook/</id>
+    <link href="https://ay1928.github.io/yearbook/"/>
+    <updated>2023-03-29T04:59:36.000Z</updated>
+    <summary type="html"><![CDATA[<ul>
+<li><a href="/yearbook/new-archaeological-discovery.html" target="blank">考古新發現</a></li>
+</ul>
+]]></summary>
+    <content type="html"><![CDATA[<ul>
+<li><a href="/yearbook/new-archaeological-discovery.html" target="blank">考古新發現</a></li>
+</ul>
+]]></content>
+    <published>2022-01-22T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">考古新發現</title>
+    <id>https://ay1928.github.io/yearbook/new-archaeological-discovery.html</id>
+    <link href="https://ay1928.github.io/yearbook/new-archaeological-discovery.html"/>
+    <updated>2023-02-24T08:35:40.000Z</updated>
+    <summary type="html"><![CDATA[<ol>
+<li>楊錫璋：〈安陽殷墟西區殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1984年，第131頁。</li>
+<li>徐廣德：〈安陽大司空村殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1984年，第131-132頁。</li>
+<li>楊寶成：〈安陽市殷墟西區等地的小型墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1985年，第165頁。</li>
+<li>楊寶成：〈安陽市殷墟王陵區司母戊墓及其他墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1985年，第166-167頁。</li>
+<li>〈安阳大司空村、花園村、劉家莊等地殷代墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟宮殿區防衛溝〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市大司空村殷代墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟甲十二乙二十基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟郭家莊車馬坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽豫北紗廠，劉家莊殷、周墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽花園莊、任家莊殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟一般保護區墓葬與車馬坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟大型宮殿建築基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽小屯殷代刻辭甲骨〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽花園莊南地殷代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽郭家莊西和武官村南殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟花園莊東地甲骨坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽後岡殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽花園莊東地甲骨坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟劉家莊北地車馬坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟殷代墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽白家墳東地殷代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽三家莊東地商代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽王裕口村南商、漢、唐宋及明清時期遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市洹北商代城址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市洹北商城Ⅳ2區〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市白家墳東地殷代遺址與墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市劉家莊北地殷代遺址與墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市孝民屯東龍山文化至漢代及唐宋時期遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市洹北商城遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市殷墟高級貴族墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈洹北商城宮殿基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市孝民屯殷墟西區〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽小屯南路殷墟遺存〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈殷墟大司空遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈殷墟安陽工作站内墓葬與建築基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市梅園莊北地商代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市花園莊南地製陶作坊遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市殷墟劉家莊北地商代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟大司空村東南地遺存〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+</ol>]]></summary>
+    <content type="html"><![CDATA[<ol>
+<li>楊錫璋：〈安陽殷墟西區殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1984年，第131頁。</li>
+<li>徐廣德：〈安陽大司空村殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1984年，第131-132頁。</li>
+<li>楊寶成：〈安陽市殷墟西區等地的小型墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1985年，第165頁。</li>
+<li>楊寶成：〈安陽市殷墟王陵區司母戊墓及其他墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，1985年，第166-167頁。</li>
+<li>〈安阳大司空村、花園村、劉家莊等地殷代墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟宮殿區防衛溝〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市大司空村殷代墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟甲十二乙二十基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟郭家莊車馬坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽豫北紗廠，劉家莊殷、周墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽花園莊、任家莊殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟一般保護區墓葬與車馬坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟大型宮殿建築基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽小屯殷代刻辭甲骨〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽花園莊南地殷代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽郭家莊西和武官村南殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟花園莊東地甲骨坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽後岡殷墓〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽花園莊東地甲骨坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟劉家莊北地車馬坑〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟殷代墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽白家墳東地殷代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽三家莊東地商代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽王裕口村南商、漢、唐宋及明清時期遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市洹北商代城址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市洹北商城Ⅳ2區〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市白家墳東地殷代遺址與墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市劉家莊北地殷代遺址與墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市孝民屯東龍山文化至漢代及唐宋時期遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市洹北商城遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市殷墟高級貴族墓葬〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈洹北商城宮殿基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市孝民屯殷墟西區〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽小屯南路殷墟遺存〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈殷墟大司空遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈殷墟安陽工作站内墓葬與建築基址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市梅園莊北地商代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市花園莊南地製陶作坊遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽市殷墟劉家莊北地商代遺址〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+<li>〈安陽殷墟大司空村東南地遺存〉，載中國考古學會編：《中國考古學年鑒》，文物出版社，年，第頁。</li>
+</ol>
+]]></content>
+    <published>2022-01-22T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">甲骨文</title>
+    <id>https://ay1928.github.io/oracle/</id>
+    <link href="https://ay1928.github.io/oracle/"/>
+    <updated>2023-03-30T10:33:40.000Z</updated>
+    <summary type="html"><![CDATA[<ul>
+<li><a href="/oracle/catalogue.html" target="blank">圖錄</a></li>
+<li><a href="/oracle/article.html" target="blank">文章</a></li>
+<li><a href="/oracle/database.html" target="blank">資料庫</a></li>
+</ul>
+]]></summary>
+    <content type="html"><![CDATA[<ul>
+<li><a href="/oracle/catalogue.html" target="blank">圖錄</a></li>
+<li><a href="/oracle/article.html" target="blank">文章</a></li>
+<li><a href="/oracle/database.html" target="blank">資料庫</a></li>
+</ul>
+]]></content>
+    <published>2022-01-22T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">文章</title>
+    <id>https://ay1928.github.io/oracle/article.html</id>
+    <link href="https://ay1928.github.io/oracle/article.html"/>
+    <updated>2023-04-13T08:56:18.000Z</updated>
+    <summary type="html"><![CDATA[<ol>
+<li>陸懋德：〈由甲骨文考見商代之文化〉，《清華大學學報（自然科學版）》1927年第2期。</li>
+<li>董作賓：〈「獲白麟」解〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第287-335頁。</li>
+<li>傅斯年：〈新獲卜辭寫本後記跋〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第349-386頁。</li>
+<li>董作賓：〈甲骨文研究之擴大〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第411-421頁。</li>
+<li>董作賓：〈大龜四版考釋〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第423-441頁。</li>
+<li>秉志：〈河南安陽之龜殼〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第443-446頁。</li>
+<li>董作賓：〈卜辭中所見之殷曆〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第481-522頁。</li>
+<li>董作賓：〈帚矛說（骨臼刻辭的研究）〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第635-676頁。</li>
+<li>董作賓：〈釋「馭贗」〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第697-703頁。</li>
+<li>董作賓：〈釋後岡出土的一片卜辭〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第705-708頁。</li>
+</ol>]]></summary>
+    <content type="html"><![CDATA[<ol>
+<li>陸懋德：〈由甲骨文考見商代之文化〉，《清華大學學報（自然科學版）》1927年第2期。</li>
+<li>董作賓：〈「獲白麟」解〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第287-335頁。</li>
+<li>傅斯年：〈新獲卜辭寫本後記跋〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第349-386頁。</li>
+<li>董作賓：〈甲骨文研究之擴大〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第411-421頁。</li>
+<li>董作賓：〈大龜四版考釋〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第423-441頁。</li>
+<li>秉志：〈河南安陽之龜殼〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第443-446頁。</li>
+<li>董作賓：〈卜辭中所見之殷曆〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第481-522頁。</li>
+<li>董作賓：〈帚矛說（骨臼刻辭的研究）〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第635-676頁。</li>
+<li>董作賓：〈釋「馭贗」〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第697-703頁。</li>
+<li>董作賓：〈釋後岡出土的一片卜辭〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第705-708頁。</li>
+</ol>
+]]></content>
+    <published>2022-08-19T00:00:00.000Z</published>
   </entry>
 </feed>
