@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as r,c as t}from"./app-46c16285.js";const o={};function a(n,c){return r(),t("div")}const p=e(o,[["render",a],["__file","reading-the-past-current-approaches-to-interpretation-in-archaeology.html.vue"]]);export{p as default};

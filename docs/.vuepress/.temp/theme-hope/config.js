@@ -1,11 +1,11 @@
 import { defineClientConfig } from "@vuepress/client";
 
-import { Layout, NotFound, useScrollPromise, injectDarkmode, setupDarkmode, setupSidebarItems } from "E:/Github/ay1928.github.io/node_modules/vuepress-theme-hope/lib/bundle/export.js";
+import { Layout, NotFound, useScrollPromise, injectDarkmode, setupDarkmode, setupSidebarItems } from "/Users/ngkinchung/Documents/GitHub/ay1928.github.io/node_modules/vuepress-theme-hope/lib/bundle/export.js";
 
-import { HopeIcon } from "E:/Github/ay1928.github.io/node_modules/vuepress-theme-hope/lib/bundle/export.js";
-import { defineAutoCatalogIconComponent } from "E:/Github/ay1928.github.io/node_modules/vuepress-plugin-auto-catalog/lib/client/index.js"
+import { HopeIcon } from "/Users/ngkinchung/Documents/GitHub/ay1928.github.io/node_modules/vuepress-theme-hope/lib/bundle/export.js";
+import { defineAutoCatalogIconComponent } from "/Users/ngkinchung/Documents/GitHub/ay1928.github.io/node_modules/vuepress-plugin-auto-catalog/lib/client/index.js"
 
-import "E:/Github/ay1928.github.io/node_modules/vuepress-theme-hope/lib/bundle/styles/all.scss";
+import "/Users/ngkinchung/Documents/GitHub/ay1928.github.io/node_modules/vuepress-theme-hope/lib/bundle/styles/all.scss";
 
 defineAutoCatalogIconComponent(HopeIcon);
 
