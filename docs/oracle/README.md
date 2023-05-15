@@ -1,5 +1,5 @@
 ---
-title: 甲骨文
+title: 甲骨
 index: false
 date: 2022-01-22
 ---

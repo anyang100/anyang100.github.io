@@ -1,47 +1,81 @@
 {
+<<<<<<< Updated upstream
   "hash": "89feda49",
   "browserHash": "ca1f0420",
+=======
+  "hash": "5bdfc36d",
+  "browserHash": "e0c33229",
+>>>>>>> Stashed changes
   "optimized": {
     "@vueuse/core": {
       "src": "../../../../node_modules/@vueuse/core/index.mjs",
       "file": "@vueuse_core.js",
+<<<<<<< Updated upstream
       "fileHash": "3600293c",
+=======
+      "fileHash": "9d52dc9c",
+>>>>>>> Stashed changes
       "needsInterop": false
     },
     "@vue/devtools-api": {
       "src": "../../../../node_modules/@vue/devtools-api/lib/esm/index.js",
       "file": "@vue_devtools-api.js",
+<<<<<<< Updated upstream
       "fileHash": "5cad5e33",
+=======
+      "fileHash": "112dfd54",
+>>>>>>> Stashed changes
       "needsInterop": false
     },
     "@vuepress/shared": {
       "src": "../../../../node_modules/@vuepress/shared/dist/index.js",
       "file": "@vuepress_shared.js",
+<<<<<<< Updated upstream
       "fileHash": "7d5261e3",
+=======
+      "fileHash": "9b98a645",
+>>>>>>> Stashed changes
       "needsInterop": false
     },
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
+<<<<<<< Updated upstream
       "fileHash": "892ddbe0",
+=======
+      "fileHash": "865cb5ea",
+>>>>>>> Stashed changes
       "needsInterop": false
     },
     "vue-router": {
       "src": "../../../../node_modules/vue-router/dist/vue-router.esm-bundler.js",
       "file": "vue-router.js",
+<<<<<<< Updated upstream
       "fileHash": "02881d70",
+=======
+      "fileHash": "2c268f31",
+>>>>>>> Stashed changes
       "needsInterop": false
     }
   },
   "chunks": {
+    "chunk-I7UM54T5": {
+      "file": "chunk-I7UM54T5.js"
+    },
+    "chunk-KAR2RACQ": {
+      "file": "chunk-KAR2RACQ.js"
+    },
     "chunk-RFQTXRIF": {
       "file": "chunk-RFQTXRIF.js"
+<<<<<<< Updated upstream
     },
     "chunk-I7UM54T5": {
       "file": "chunk-I7UM54T5.js"
     },
     "chunk-KAR2RACQ": {
       "file": "chunk-KAR2RACQ.js"
+=======
+>>>>>>> Stashed changes
     }
   }
 }
