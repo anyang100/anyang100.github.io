@@ -1,5 +1,5 @@
 import { defineClientConfig } from "@vuepress/client";
-import { hasGlobalComponent } from "E:/Github/ay1928.github.io/node_modules/vuepress-plugin-components/lib/client/shared.js";
+import { hasGlobalComponent } from "E:/Github/ay1928.github.io/node_modules/vuepress-shared/lib/client/index.js";
 import { h } from "vue";
 
 import Badge from "E:/Github/ay1928.github.io/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
