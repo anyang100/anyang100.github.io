@@ -6,8 +6,8 @@
     <link>https://ay1928.github.io/</link>
     <description>安陽考古學研究索引集</description>
     <language>zh-TW</language>
-    <pubDate>Wed, 24 May 2023 01:49:18 GMT</pubDate>
-    <lastBuildDate>Wed, 24 May 2023 01:49:18 GMT</lastBuildDate>
+    <pubDate>Fri, 26 May 2023 08:41:00 GMT</pubDate>
+    <lastBuildDate>Fri, 26 May 2023 08:41:00 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -4147,6 +4147,13 @@ Richard Klein，鬣狗窩</p>
 ]]></content:encoded>
     </item>
     <item>
+      <title>筆記</title>
+      <link>https://ay1928.github.io/note/</link>
+      <guid>https://ay1928.github.io/note/</guid>
+      <source url="https://ay1928.github.io/rss.xml">筆記</source>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>文章</title>
       <link>https://ay1928.github.io/oracle/article.html</link>
       <guid>https://ay1928.github.io/oracle/article.html</guid>
@@ -4180,13 +4187,6 @@ Richard Klein，鬣狗窩</p>
 <li><a href="/oracle/database.html" target="blank">資料庫</a></li>
 </ul>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>筆記</title>
-      <link>https://ay1928.github.io/note/</link>
-      <guid>https://ay1928.github.io/note/</guid>
-      <source url="https://ay1928.github.io/rss.xml">筆記</source>
-      <pubDate>Sat, 17 Sep 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>考古新發現</title>

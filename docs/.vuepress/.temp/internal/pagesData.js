@@ -51,16 +51,6 @@ export const pagesData = {
   "v-395ce022": () => import(/* webpackChunkName: "v-395ce022" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/index.html.js").then(({ data }) => data),
   // path: /huanbei-shang-city/report.html
   "v-0bf5ba7a": () => import(/* webpackChunkName: "v-0bf5ba7a" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/report.html.js").then(({ data }) => data),
-  // path: /oracle/article.html
-  "v-5229fefb": () => import(/* webpackChunkName: "v-5229fefb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/article.html.js").then(({ data }) => data),
-  // path: /oracle/catalogue.html
-  "v-7b8cb968": () => import(/* webpackChunkName: "v-7b8cb968" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/catalogue.html.js").then(({ data }) => data),
-  // path: /oracle/database.html
-  "v-645da434": () => import(/* webpackChunkName: "v-645da434" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/database.html.js").then(({ data }) => data),
-  // path: /oracle/
-  "v-21e72558": () => import(/* webpackChunkName: "v-21e72558" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/index.html.js").then(({ data }) => data),
-  // path: /oracle/report.html
-  "v-8f72c066": () => import(/* webpackChunkName: "v-8f72c066" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/report.html.js").then(({ data }) => data),
   // path: /note/archaeological-scene-reconstruction-with-agisoft-metashape.html
   "v-48ac3c11": () => import(/* webpackChunkName: "v-48ac3c11" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/archaeological-scene-reconstruction-with-agisoft-metashape.html.js").then(({ data }) => data),
   // path: /note/lidar-in-arcgis.html
@@ -71,6 +61,16 @@ export const pagesData = {
   "v-606251f8": () => import(/* webpackChunkName: "v-606251f8" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/note-on-updating-gis-and-archaeology-spatial-analysis-tutorial.html.js").then(({ data }) => data),
   // path: /note/
   "v-15054f24": () => import(/* webpackChunkName: "v-15054f24" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/note/index.html.js").then(({ data }) => data),
+  // path: /oracle/article.html
+  "v-5229fefb": () => import(/* webpackChunkName: "v-5229fefb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/article.html.js").then(({ data }) => data),
+  // path: /oracle/catalogue.html
+  "v-7b8cb968": () => import(/* webpackChunkName: "v-7b8cb968" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/catalogue.html.js").then(({ data }) => data),
+  // path: /oracle/database.html
+  "v-645da434": () => import(/* webpackChunkName: "v-645da434" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/database.html.js").then(({ data }) => data),
+  // path: /oracle/
+  "v-21e72558": () => import(/* webpackChunkName: "v-21e72558" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/index.html.js").then(({ data }) => data),
+  // path: /oracle/report.html
+  "v-8f72c066": () => import(/* webpackChunkName: "v-8f72c066" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/oracle/report.html.js").then(({ data }) => data),
   // path: /site/
   "v-15490a6f": () => import(/* webpackChunkName: "v-15490a6f" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/site/index.html.js").then(({ data }) => data),
   // path: /site/shanwei.html
