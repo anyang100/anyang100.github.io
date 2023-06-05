@@ -6,4 +6,7 @@ export default defineClientConfig({
   enhance: ({ app }) => {
 
   },
+  setup: () => {
+
+  }
 });
