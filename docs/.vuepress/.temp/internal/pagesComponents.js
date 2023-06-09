@@ -15,12 +15,6 @@ export const pagesComponents = {
   "v-0daed70d": defineAsyncComponent(() => import(/* webpackChunkName: "v-0daed70d" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/news.html.vue")),
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/index.html.vue")),
-  // path: /gao-ling/article.html
-  "v-10ccb4cb": defineAsyncComponent(() => import(/* webpackChunkName: "v-10ccb4cb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/article.html.vue")),
-  // path: /gao-ling/
-  "v-45101328": defineAsyncComponent(() => import(/* webpackChunkName: "v-45101328" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/index.html.vue")),
-  // path: /gao-ling/report.html
-  "v-428deffd": defineAsyncComponent(() => import(/* webpackChunkName: "v-428deffd" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/report.html.vue")),
   // path: /convention/1904-the-preservation-and-restoration-of-architectural-mounments.html
   "v-0b2485c7": defineAsyncComponent(() => import(/* webpackChunkName: "v-0b2485c7" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/convention/1904-the-preservation-and-restoration-of-architectural-mounments.html.vue")),
   // path: /convention/1931-the-athens-charter-for-the-restoration-of-historic-monuments.html
@@ -47,6 +41,12 @@ export const pagesComponents = {
   "v-c6cf6e8c": defineAsyncComponent(() => import(/* webpackChunkName: "v-c6cf6e8c" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/convention/icom-statues.html.vue")),
   // path: /convention/
   "v-29648b76": defineAsyncComponent(() => import(/* webpackChunkName: "v-29648b76" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/convention/index.html.vue")),
+  // path: /gao-ling/article.html
+  "v-10ccb4cb": defineAsyncComponent(() => import(/* webpackChunkName: "v-10ccb4cb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/article.html.vue")),
+  // path: /gao-ling/
+  "v-45101328": defineAsyncComponent(() => import(/* webpackChunkName: "v-45101328" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/index.html.vue")),
+  // path: /gao-ling/report.html
+  "v-428deffd": defineAsyncComponent(() => import(/* webpackChunkName: "v-428deffd" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/report.html.vue")),
   // path: /huanbei-shang-city/article.html
   "v-483bdac5": defineAsyncComponent(() => import(/* webpackChunkName: "v-483bdac5" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/article.html.vue")),
   // path: /huanbei-shang-city/
