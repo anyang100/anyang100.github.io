@@ -13,6 +13,12 @@ export const pagesData = {
   "v-0daed70d": () => import(/* webpackChunkName: "v-0daed70d" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/news.html.js").then(({ data }) => data),
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
+  // path: /gao-ling/article.html
+  "v-10ccb4cb": () => import(/* webpackChunkName: "v-10ccb4cb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/article.html.js").then(({ data }) => data),
+  // path: /gao-ling/
+  "v-45101328": () => import(/* webpackChunkName: "v-45101328" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/index.html.js").then(({ data }) => data),
+  // path: /gao-ling/report.html
+  "v-428deffd": () => import(/* webpackChunkName: "v-428deffd" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/report.html.js").then(({ data }) => data),
   // path: /convention/1904-the-preservation-and-restoration-of-architectural-mounments.html
   "v-0b2485c7": () => import(/* webpackChunkName: "v-0b2485c7" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/convention/1904-the-preservation-and-restoration-of-architectural-mounments.html.js").then(({ data }) => data),
   // path: /convention/1931-the-athens-charter-for-the-restoration-of-historic-monuments.html
@@ -39,12 +45,6 @@ export const pagesData = {
   "v-c6cf6e8c": () => import(/* webpackChunkName: "v-c6cf6e8c" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/convention/icom-statues.html.js").then(({ data }) => data),
   // path: /convention/
   "v-29648b76": () => import(/* webpackChunkName: "v-29648b76" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/convention/index.html.js").then(({ data }) => data),
-  // path: /gao-ling/article.html
-  "v-10ccb4cb": () => import(/* webpackChunkName: "v-10ccb4cb" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/article.html.js").then(({ data }) => data),
-  // path: /gao-ling/
-  "v-45101328": () => import(/* webpackChunkName: "v-45101328" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/index.html.js").then(({ data }) => data),
-  // path: /gao-ling/report.html
-  "v-428deffd": () => import(/* webpackChunkName: "v-428deffd" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/gao-ling/report.html.js").then(({ data }) => data),
   // path: /huanbei-shang-city/article.html
   "v-483bdac5": () => import(/* webpackChunkName: "v-483bdac5" */"E:/Github/ay1928.github.io/docs/.vuepress/.temp/pages/huanbei-shang-city/article.html.js").then(({ data }) => data),
   // path: /huanbei-shang-city/
